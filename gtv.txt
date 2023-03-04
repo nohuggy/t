@@ -3,64 +3,9 @@ CETV1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 CETV2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 
 
-民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
-
-民视新闻,http://2023.stream-link.org/playlist/ftv_news
-
-台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
-
-台视新闻,http://2023.stream-link.org/playlist/ttv_news
-
-対宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
-
-対宇新闻,http://2023.stream-link.org/playlist/global_tw.flv
-
-TVBS高清，http://2023.stream-link.org/playlist/tvbs
-
-TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
-
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-
-中视新闻,http://2023.stream-link.org/playlist/ctv_news
-
-中天新闻,http://2023.stream-link.org/playlist/cti_news
-
-东森LIVE,http://2023.stream-link.org/playlist/ebc_news
-
-东森财经,http://2023.stream-link.org/playlist/ebc_finance
-
-三立新闻,http://2023.stream-link.org/playlist/set_news.flv
-
-三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-
-三立直播+,http://2023.stream-link.org/playlist/set_news+
-
-三立财经,http://2023.stream-link.org/playlist/set_inews
-
-镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
-
-搓来日本,http://baidu.douyincdn.freetvtv.com:80/wlrb/m2.m3u8
-
-ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-
-ELEVEN2 高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 
 测试2,#genre#
 CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 
-中天新闻,http://lttv.ddqq.fun:35455/youtube/_QbRXRnHMVY(?quality=1080)
-中视新闻,http://lttv.ddqq.fun:35455/youtube/TCnaIE_SAtM(?quality=1080)
-三立Live,http://lttv.ddqq.fun:35455/youtube/w6NfQKy4fHI(?quality=1080)
-民视新闻,http://lttv.ddqq.fun:35455/youtube/ylYJSBUgaMA(?quality=1080)
-东森新闻,http://lttv.ddqq.fun:35455/youtube/R2iMq5LKXco(?quality=1080)
-东森财经新闻,http://lttv.ddqq.fun:35455/youtube/WHEPzbFA3hw(?quality=1080)
-寰宇Live,http://lttv.ddqq.fun:35455/youtube/B7Zp3d6xXWw(?quality=1080)
-寤宇新闻,http://lttv.ddqq.fun:35455/youtube/1baN3SZYWc0(?quality=1080)
-台视新闻,http://lttv.ddqq.fun:35455/youtube/xL0ch83RAK8(?quality=1080)
-镜新闻,http://lttv.ddqq.fun:35455/youtube/5n0y6b0Q25o(?quality=1080)
-华视新闻,http://lttv.ddqq.fun:35455/youtube/wM0g8EoUZ_E(?quality=1080)
-TVBS新闻,http://lttv.
