@@ -2,33 +2,6 @@
 CETV1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 CETV2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 
-翡翠台,http://2022.stream-link.org/playlist/tvb_jade
-
-华丽台,http://2022.stream-link.org/playlist/astro_jade
-
-无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
-
-无线新闻,http://2022.stream-link.org/playlist/tvb_news
-
-无线财经·体育·资讯台,http://2022.stream-link.org/playlist/tvb_finance.ts#https://pull-l3-cny.douyincdn.com/live/stream-112175tvb2202212212.m3u8
-
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-
-有线新闻,http://2022.stream-link.org/playlist/cable_news
-
-有线财经资讯台，http://2022.stream-link.org/playlist/cable_finance.ts
-
-香港面包台，https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
-香港开电视,http://2022.stream-link.org/playlist/hoy_tv.ts
-
-香港开电视资讯台，http://2022.stream-link.org/playlist/hoy_info.ts
-
-港台电视台31,http://2022.stream-link.org/playlist/rthk_31
-
-港台电视台32,http://2022.stream-link.org/playlist/rthk_32
 
 民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
 
