@@ -61,11 +61,15 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+Al Jazeera,http://185.236.229.31:9981/play/a04m
+
+BBC News,http://87.212.248.44:60330/play/a03e/index.m3u8
+BBC News,http://185.236.229.31:9981/play/a072
 
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 Bloomberg HT,https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
-
+Bloomberg European,http://185.236.229.31:9981/play/a04k
 
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -75,8 +79,12 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 
 CNN,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
 
-Euronews,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+DW,http://185.236.229.31:9981/play/a068
 
+Euronews,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+France 24,http://178.250.208.141/57/play.m3u8
+
+NHK World,http://185.236.229.31:9981/play/a05v
 NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -157,12 +165,18 @@ History Channel,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/86031
 PBS PA,https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 
 NASA TV,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+NASA TV,http://185.236.229.31:9981/play/a06b
 
+Channel 5+1,http://87.212.248.44:60330/play/a085/index.m3u8
 
 Fashion TV,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Fashion TV,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 Fashion TV,https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+Fashion TV,http://185.236.229.31:9981/play/a07w
+Fashion TV,http://185.236.229.31:9981/play/a07v
+Fashion TV,http://185.236.229.31:9981/play/a07u
 
 Disney Channel,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30901
 Disney Channel,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30932
@@ -181,6 +195,7 @@ HBO Comedy,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115821
 
 音乐,#genre#
 
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 MTV Sparking New http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
@@ -188,8 +203,10 @@ MTV Yo,http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 
-阿里郎广播,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
-阿里郎广播,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+KBS World,http://185.236.229.31:9981/play/a06b
+
+Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 
 
 
@@ -212,7 +229,7 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
 Adult Porn,#genre#
 
-
+Big Dick,http://ccdntp.xyz:80/claudio4800/991779964/150797
 Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
 Compilation,http://cdn.adultiptv.net/compilation.m3u8
 
@@ -230,11 +247,161 @@ Venus,http://go.iptvhn.net:25461/Denis/Denis123/6648
 SexTreme,http://go.iptvhn.net:25461/Denis/Denis123/6853
 Blonde,http://cdn.adultiptv.net/blonde.m3u8
 
+Blue Hustlerr,http://185.236.229.31:9981/play/a03o
+Brazzers,http://185.236.229.31:9981/play/a03d
+Hustler,http://185.236.229.31:9981/play/a03n
+
 Pinko 3,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35367
 Pinko 4,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35368
 Pinko 9,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35372
 Pinko 10,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35366
 
+
+
+SEX PRIVE [FHD] (H265),http://limetv.me:80/4627val/608516/95485
+SEX PRIVE [HD],http://limetv.me:80/4627val/608516/95486
+SEX PRIVE [SD],http://limetv.me:80/4627val/608516/95487
+SEXTREME [FHD],http://limetv.me:80/4627val/608516/100038
+SEXTREME [HD],http://limetv.me:80/4627val/608516/90306
+SEXTREME [SD],http://limetv.me:80/4627val/608516/90307
+SEXY HOT [FHD] (H265),http://limetv.me:80/4627val/608516/95488
+SEXY HOT [HD],http://limetv.me:80/4627val/608516/90308
+SEXY HOT [SD],http://limetv.me:80/4627val/608516/90309
+VENUS [HD],http://limetv.me:80/4627val/608516/90437
+VENUS [SD],http://limetv.me:80/4627val/608516/90438
+
+ADULTO 01,http://limetv.me:80/4627val/608516/91215
+ADULTO 02,http://limetv.me:80/4627val/608516/91216
+ADULTO 03,http://limetv.me:80/4627val/608516/91217
+ADULTO 04,http://limetv.me:80/4627val/608516/91218
+ADULTO 05,http://limetv.me:80/4627val/608516/91219
+ADULTO 06,http://limetv.me:80/4627val/608516/91220
+ADULTO 07,http://limetv.me:80/4627val/608516/91221
+ADULTO 08,http://limetv.me:80/4627val/608516/91222
+ADULTO 09,http://limetv.me:80/4627val/608516/91223
+ADULTO 10,http://limetv.me:80/4627val/608516/91224
+ADULTO 11,http://limetv.me:80/4627val/608516/91225
+ADULTO 12,http://limetv.me:80/4627val/608516/91226
+ADULTO 13,http://limetv.me:80/4627val/608516/91227
+ADULTO 14,http://limetv.me:80/4627val/608516/91228
+ADULTO 15,http://limetv.me:80/4627val/608516/91229
+ADULTO 16,http://limetv.me:80/4627val/608516/91230
+ADULTO 17,http://limetv.me:80/4627val/608516/91231
+ADULTO 18,http://limetv.me:80/4627val/608516/91232
+ADULTO 19,http://limetv.me:80/4627val/608516/91233
+ADULTO 20,http://limetv.me:80/4627val/608516/91234
+ADULTO 21,http://limetv.me:80/4627val/608516/91235
+ADULTO 22,http://limetv.me:80/4627val/608516/91236
+ADULTO 23,http://limetv.me:80/4627val/608516/91237
+ADULTO 24,http://limetv.me:80/4627val/608516/91238
+ADULTO 25,http://limetv.me:80/4627val/608516/91239
+ADULTO 26,http://limetv.me:80/4627val/608516/91240
+ADULTO 27,http://limetv.me:80/4627val/608516/91241
+ADULTO 28,http://limetv.me:80/4627val/608516/91242
+ADULTO 29,http://limetv.me:80/4627val/608516/91243
+ADULTO 30,http://limetv.me:80/4627val/608516/91244
+ADULTO 31,http://limetv.me:80/4627val/608516/91245
+ADULTO 32,http://limetv.me:80/4627val/608516/91246
+ADULTO 33,http://limetv.me:80/4627val/608516/91247
+ADULTO 34,http://limetv.me:80/4627val/608516/91248
+ADULTO 35,http://limetv.me:80/4627val/608516/91249
+ADULTO 36,http://limetv.me:80/4627val/608516/91250
+ADULTO 37,http://limetv.me:80/4627val/608516/91251
+ADULTO 38,http://limetv.me:80/4627val/608516/91252
+ADULTO 39,http://limetv.me:80/4627val/608516/91253
+ADULTO 40,http://limetv.me:80/4627val/608516/91254
+
+
+
+
+Gravidas Safadas 断流,http://ccdntp.xyz:80/claudio4800/991779964/173919
+Adulto Anal 断流,http://ccdntp.xyz:80/claudio4800/991779964/173914
+Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173915
+Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173904
+Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173905
+Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173906
+Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173901
+Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173902
+Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173895
+Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173889
+Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173900
+
+
+
+
+
+
+Homo Porn,#genre#
+
 Gay,http://cdn.adultiptv.net/gay.m3u8
+Adultos Homo 66,http://ccdntp.xyz:80/claudio4800/991779964/173918
+Hotboys,http://ccdntp.xyz:80/claudio4800/991779964/268700
+
+
+ADULTO GAY 01,http://limetv.me:80/4627val/608516/91255
+ADULTO GAY 02,http://limetv.me:80/4627val/608516/91256
+ADULTO GAY 03,http://limetv.me:80/4627val/608516/91257
+ADULTO GAY 04,http://limetv.me:80/4627val/608516/91258
+ADULTO GAY 05,http://limetv.me:80/4627val/608516/91259
+ADULTO GAY 06,http://limetv.me:80/4627val/608516/91260
+ADULTO GAY 07,http://limetv.me:80/4627val/608516/91261
+ADULTO GAY 08,http://limetv.me:80/4627val/608516/91262
+ADULTO GAY 09,http://limetv.me:80/4627val/608516/91263
+ADULTO GAY 10,http://limetv.me:80/4627val/608516/91264
+ADULTO GAY 11,http://limetv.me:80/4627val/608516/91265
+ADULTO GAY 12,http://limetv.me:80/4627val/608516/91266
+ADULTO GAY 13,http://limetv.me:80/4627val/608516/91267
+ADULTO GAY 14,http://limetv.me:80/4627val/608516/91268
+ADULTO GAY 15,http://limetv.me:80/4627val/608516/91269
+ADULTO GAY 16,http://limetv.me:80/4627val/608516/91270
+ADULTO GAY 17,http://limetv.me:80/4627val/608516/91271
+ADULTO GAY 18,http://limetv.me:80/4627val/608516/91272
+ADULTO GAY 19,http://limetv.me:80/4627val/608516/91273
+
+
+
+
+
+Full Porn,#genre#
+
+Brother Crush Bored Stepbros Jack Bailey And Alex Meyer,http://limetv.me:80/movie/4627val/608516/6469.mp4
+Brunettes Have More Fun 2,http://limetv.me:80/movie/4627val/608516/6329.mp4
+Candice Demellza,http://limetv.me:80/movie/4627val/608516/6351.mp4
+Cchd 27 03 21 Nicole,http://limetv.me:80/movie/4627val/608516/6371.mp4
+Clubsweethearts 21 06 28 Luna B Savoring Her Sticky Fingers,http://limetv.me:80/movie/4627val/608516/6390.mp4
+Cockyboys Avery Jones e Roman Todd,http://limetv.me:80/movie/4627val/608516/6475.mp4
+Cockyboys Olivier Robert e Skyy Knox,http://limetv.me:80/movie/4627val/608516/6437.mp4
+Corbin Fisher Acm2686 Rocky Works Out Jared,http://limetv.me:80/movie/4627val/608516/6489.mp4
+Dadcrush Bailey BaseForeveraloned [Adulto],http://limetv.me:80/movie/4627val/608516/7588.mp4
+Dadcrush Kinsley KaneForeveraloned [Adulto],http://limetv.me:80/movie/4627val/608516/7602.mp4
+Datofoland Came To Fuck Me,http://limetv.me:80/movie/4627val/608516/6461.mp4
+
+Falcon Studios Work From Home Cade Maddox e Jimmy West,http://limetv.me:80/movie/4627val/608516/6463.mp4
+Falcon Studios Work From Home Tristan Hunter e Jim Fit,http://limetv.me:80/movie/4627val/608516/6455.mp4
+Family Swap 2,http://limetv.me:80/movie/4627val/608516/6324.mp4
+Familystrokes Kira PerezForeveraloned [Adulto],http://limetv.me:80/movie/4627val/608516/7615.mp4
+Femdom Ass Worship 33,http://limetv.me:80/movie/4627val/608516/6401.mp4
+Fm Diego Summers e Aaron Blue (Introducing Aaron) 2018 Bb Fhd,http://limetv.me:80/movie/4627val/608516/6493.mp4
+Fm Diego Summers e Cesar Paulino (Stretched Raw) 2018 Bb Fhd,http://limetv.me:80/movie/4627val/608516/6486.mp4
+Fm Pablo Hierro e Cesar Paulino (Spunk On My Arse) 2018 Bb Fhd,http://limetv.me:80/movie/4627val/608516/6439.mp4
+Fraternityx Frat Hustle,http://limetv.me:80/movie/4627val/608516/6483.mp4
+Fraternityx Little Bitch Boy,http://limetv.me:80/movie/4627val/608516/6438.mp4
+Fraternityx No Show Fuck,http://limetv.me:80/movie/4627val/608516/6414.mp4
+Ftvgirls 21 06 26 Haley Spades Her Creative Sexuality,http://limetv.me:80/movie/4627val/608516/6357.mp4
+Fuckermate Bare Encounters At Boyberry Franklin Acevedo e Rico Vega,http://limetv.me:80/movie/4627val/608516/6450.mp4
+Fuckermate Creamy Welcome Franklin Acevedo e Valentino Sistor,http://limetv.me:80/movie/4627val/608516/6435.mp4
+Gay Pride Studios Men Over 30 183575 Deep Inside Pleasures Marco Lorenzo Rikk York Bareback,http://limetv.me:80/movie/4627val/608516/6436.mp4
+Gay Titan Men 6817 Bad Cop Donnie Dean And Ricky Decker,http://limetv.me:80/movie/4627val/608516/6464.mp4
+Girlsoutwest 21 06 27 Bree Melbourne And Isha Sugar Crush,http://limetv.me:80/movie/4627val/608516/6355.mp4
+Girlsoutwest 21 06 28 Laney Day Pop Art,http://limetv.me:80/movie/4627val/608516/6383.mp4
+Hh Raw Work Loads,http://limetv.me:80/movie/4627val/608516/6449.mp4
+I?Ve Been Waiting To Fuck This Ass For A While. It Was Worth The Wait Joshmoorexxx,http://limetv.me:80/movie/4627val/608516/6478.mp4
+Imadeporn Martina SmeraldiForeveraloned [Adulto],http://limetv.me:80/movie/4627val/608516/7611.mp4
+Japanhdv 21 06 28 Hitomi Hayama,http://limetv.me:80/movie/4627val/608516/6338.mp4
+Kristen Bjorn Eager To Please Santiago Rodriguez e Andy Star,http://limetv.me:80/movie/4627val/608516/6462.mp4
+Latin Leche Numero 166 Stepsons Confession Jesus e Jael,http://limetv.me:80/movie/4627val/608516/6428.mp4
+Latin Leche Numero 180 Talking Bodies Emanuel e Rocco,http://limetv.me:80/movie/4627val/608516/6446.mp4
+
+
 
 
