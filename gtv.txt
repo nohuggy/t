@@ -1,8 +1,9 @@
 台湾新闻,#genre#
 
-
 TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
 TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 
@@ -15,6 +16,9 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 民视,http://23.237.10.66:16334
 民视,http://107.151.203.111:2209/135/us50.php?id=msk
 民视,https://epg.pw/stream/03abfe464da99695f9bc8035bf4d1f3785dcccb6ff2391f7200d9fb70b1eb0bb.ctv
+
+中天综合,http://23.237.10.66:16372
+
 纬來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 
 
@@ -59,6 +63,12 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 
 环球新闻,#genre#
 
+ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+
+ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+ABC US,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 Al Jazeera,http://185.236.229.31:9981/play/a04m
@@ -71,6 +81,9 @@ BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3
 Bloomberg HT,https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 Bloomberg European,http://185.236.229.31:9981/play/a04k
 
+Bloomberg TV,https://a13fc3f7cd9845618e1ac8e07285bc4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -79,16 +92,20 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 
 CNN,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
 
+CNN,https://225f14f181b14665bde8b60479eed3d2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-at_CNN/playlist.m3u8?ads.wurl_channel=662&ads.wurl_name=CNN&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
 DW,http://185.236.229.31:9981/play/a068
 
 Euronews,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 France 24,http://178.250.208.141/57/play.m3u8
+FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 NHK World,http://185.236.229.31:9981/play/a05v
+
 NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
 
 
@@ -99,6 +116,7 @@ Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 NBC News,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 NBC News,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 
+Reuters,https://f148ce707dce489790ec1aa756fe2dc4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 India Today,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-indiatoday-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
@@ -191,22 +209,87 @@ HBO,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115820
 HBO Comedy,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115821
 
 
+Fashion TV,https://74561d5f51654ed0acab43a090aafb81.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_FashionTV/playlist.m3u8?ads.wurl_channel=381&ads.wurl_name=FashionTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+Fashion TV,https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8?ads.wurl_channel=902&ads.wurl_name=FashionTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
+The Guardian,https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8?ads.wurl_channel=1034&ads.wurl_name=TheGuardianChannel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+Entertainment Hub,https://d1wa6bd97begp2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w17i5m783xt5c-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-w17i5m783xt5c/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+Midsomer Murders,https://d33bth8owvmhra.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mxz7f6wnov5gu-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+Court TV,https://d10xxv3imbvgvm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CourtTV-Canada-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+Deal or No Deal,https://dupsehd9sd6ra.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dabu20bb1iisi-prod/amgdealornodeal/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+Game Show Central,https://cf289725d35440ecb69f75421bd40fa5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_GameShowCentral/playlist.m3u8?ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+TLC,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+
+Jamie Oliver Channel,https://d3cuy2e2e6vm8u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgi0vfbu48v8n-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+Discovery HD,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+Animal Planet,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+
+WildEarth,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearthin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+
+
+
+
 
 
 音乐,#genre#
 
+MTV Biggest Pop,https://m3u-editor.com/serve/tchtviptvplaylist/767388622
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 MTV Sparking New http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV YO,https://m3u-editor.com/serve/tchtviptvplaylist/767388624
 MTV Yo,http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 
-KBS World,http://185.236.229.31:9981/play/a06b
+
 
 Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+
+
+
+Vevo Híp-hop,https://eu.linear.zype.com/2897d30e-5ed8-42e5-9823-b22cd53f289f/d8db1183-fbab-41e7-a956-5ee16ffb16b6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+Vevo Pop,https://eu.linear.zype.com/a30f2d9e-7eee-4fc7-896f-24a85829c9c2/fbfb8efa-c5fa-4fec-91f7-03a4224c11dc-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+Vivo Pop,https://eu.linear.zype.com/ddc9a2e1-559f-4231-978d-988e6ed3496e/39aafa78-d7c6-49a3-9057-59cdadaa2fb6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+
+Vivo 90s & 80s,https://eu.linear.zype.com/dbd38661-af53-44d2-b5e7-cec4bf963939/d476b7a5-eabc-4afd-8760-b049d5a6dbd9-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+Vivo 80s,https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
+
+
+Trace Urban,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+
+XITE Hits,https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+
+Deluxe Lounge,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+
+
+
 
 
 
@@ -236,6 +319,7 @@ Compilation,http://cdn.adultiptv.net/compilation.m3u8
 Latino,http://cdn.adultiptv.net/latina.m3u8
 Russian,http://cdn.adultiptv.net/russian.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
+
 
 Teen,http://cdn.adultiptv.net/teen.m3u8
 Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
@@ -316,15 +400,15 @@ ADULTO 40,http://limetv.me:80/4627val/608516/91254
 
 Gravidas Safadas 断流,http://ccdntp.xyz:80/claudio4800/991779964/173919
 Adulto Anal 断流,http://ccdntp.xyz:80/claudio4800/991779964/173914
-Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173915
-Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173904
-Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173905
-Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173906
-Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173901
-Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173902
-Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173895
-Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173889
-Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173900
+Adulto 断流,http://ccdntp.xyz:80/claudio4800/991779964/173915
+Adulto 断流,http://ccdntp.xyz:80/claudio4800/991779964/173904
+Adulto 断流,http://ccdntp.xyz:80/claudio4800/991779964/173905
+Adulto 断流,http://ccdntp.xyz:80/claudio4800/991779964/173906
+Adulto 断流,http://ccdntp.xyz:80/claudio4800/991779964/173901
+Adulto 断流,http://ccdntp.xyz:80/claudio4800/991779964/173902
+Adulto 断流,http://ccdntp.xyz:80/claudio4800/991779964/173895
+Adulto 断流,http://ccdntp.xyz:80/claudio4800/991779964/173889
+Adulto 断流,http://ccdntp.xyz:80/claudio4800/991779964/173900
 
 
 
@@ -334,6 +418,7 @@ Adulto Homo 断流,http://ccdntp.xyz:80/claudio4800/991779964/173900
 Homo Porn,#genre#
 
 Gay,http://cdn.adultiptv.net/gay.m3u8
+Gay,http://g3.3espp.top:80/live/54679/96911/2186.ts
 Adultos Homo 66,http://ccdntp.xyz:80/claudio4800/991779964/173918
 Hotboys,http://ccdntp.xyz:80/claudio4800/991779964/268700
 
@@ -363,6 +448,8 @@ ADULTO GAY 19,http://limetv.me:80/4627val/608516/91273
 
 
 Full Porn,#genre#
+
+
 
 Brother Crush Bored Stepbros Jack Bailey And Alex Meyer,http://limetv.me:80/movie/4627val/608516/6469.mp4
 Brunettes Have More Fun 2,http://limetv.me:80/movie/4627val/608516/6329.mp4
@@ -401,6 +488,18 @@ Japanhdv 21 06 28 Hitomi Hayama,http://limetv.me:80/movie/4627val/608516/6338.mp
 Kristen Bjorn Eager To Please Santiago Rodriguez e Andy Star,http://limetv.me:80/movie/4627val/608516/6462.mp4
 Latin Leche Numero 166 Stepsons Confession Jesus e Jael,http://limetv.me:80/movie/4627val/608516/6428.mp4
 Latin Leche Numero 180 Talking Bodies Emanuel e Rocco,http://limetv.me:80/movie/4627val/608516/6446.mp4
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
