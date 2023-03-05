@@ -246,16 +246,16 @@ WildEarth,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-w
 
 
 音乐,#genre#
-
-MTV Biggest Pop,https://m3u-editor.com/serve/tchtviptvplaylist/767388622
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Biggest Pop,https://m3u-editor.com/serve/tchtviptvplaylist/767388622
+
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 MTV Sparking New http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV YO,https://m3u-editor.com/serve/tchtviptvplaylist/767388624
 MTV Yo,http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTV YO,https://m3u-editor.com/serve/tchtviptvplaylist/767388624
+
 CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 
