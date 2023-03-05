@@ -588,7 +588,7 @@ Latin Leche Numero 180 Talking Bodies Emanuel e Rocco,http://limetv.me:80/movie/
 
 
 
-日本生活 测试,#genre#
+日本生活测试,#genre#
 
 
 sbs,mitv://fccs.word-tv.com:9906/626b614c000404ac0c23132e23ac6367
@@ -663,7 +663,7 @@ BS 11,mitv://fccs.word-tv.com:9906/62693d9b000d0b7b03c7aa15a4867b48
 
 
 
-音乐 测试,#genre#
+音乐测试,#genre#
 
 古典音樂台CLASSICA HD,mitv://fccs.word-tv.com:9906/6260fd970004b7061795b0eb2df29131
 LUXE TV Channel,mitv://fccs.word-tv.com:9906/6259b55f000cba8815169b462e40e185
