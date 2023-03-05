@@ -6,11 +6,16 @@ TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
 TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 
-澳洲莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天综合,http://23.237.10.66:16372
 中天娱乐台,http://www.yshmzmc.top/gtjm.php?id=live1023
+台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视,http://23.237.10.66:16334
+民视,http://23.237.10.66:16334
+民视,http://107.151.203.111:2209/135/us50.php?id=msk
+民视,https://epg.pw/stream/03abfe464da99695f9bc8035bf4d1f3785dcccb6ff2391f7200d9fb70b1eb0bb.ctv
+纬來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 
 
 香港新闻,#genre#
@@ -47,6 +52,7 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+翡翠台,http://r.jdshipin.com/62WM7
 
 
 
@@ -56,17 +62,27 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 
-BBC,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-NHK World，https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-NHK World, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+Bloomberg HT,https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+
 
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+CNN,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
+
+Euronews,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+
 
 News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
@@ -75,7 +91,6 @@ Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 NBC News,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 NBC News,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 
-CNN,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
 
 India Today,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-indiatoday-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
@@ -86,12 +101,18 @@ RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 Ukraine TV 1,http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
 Ukraine TV 7,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
 
+Nipon 24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 
 
 
 
 大陆新闻,#genre#
 
+CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4
+
+CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
 CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9
 
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
@@ -104,6 +125,8 @@ CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u
 CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13
+CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+
 
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
@@ -187,18 +210,31 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 阿里郎WORLD,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
-
 Adult Porn,#genre#
 
 
 Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
 Compilation,http://cdn.adultiptv.net/compilation.m3u8
-Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
-Russian,http://live.redtraffic.xyz/russian.m3u8
-BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-Bloomberg HT,https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-Euronews,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Latino,http://cdn.adultiptv.net/latina.m3u8
+Russian,http://cdn.adultiptv.net/russian.m3u8
+Russian,http://live.redtraffic.xyz/russian.m3u8
+
+Teen,http://cdn.adultiptv.net/teen.m3u8
+Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
+Rough.http://cdn.adultiptv.net/rough.m3u8
+Brunette,http://cdn.adultiptv.net/brunette.m3u8
+
+Venus,http://go.iptvhn.net:25461/Denis/Denis123/6648
+SexTreme,http://go.iptvhn.net:25461/Denis/Denis123/6853
+Blonde,http://cdn.adultiptv.net/blonde.m3u8
+
+Pinko 3,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35367
+Pinko 4,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35368
+Pinko 9,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35372
+Pinko 10,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35366
+
+Gay,http://cdn.adultiptv.net/gay.m3u8
+
 
