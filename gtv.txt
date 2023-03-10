@@ -1,8 +1,4 @@
-
 大陆新闻,#genre#
-
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4
 
 
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
@@ -10,30 +6,25 @@ CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
 
 CCTV9,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 
+
 CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 
-CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9
+
+
+
+CCTV13,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 
-CCTV13,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13
-
-
-
 
 港台新闻,#genre#
 
-TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
+
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 TVBS新闻,rtmp://59.124.75.150/sat/tv551
@@ -109,6 +100,8 @@ TVBS新闻,https://ytb.52sf.ga/jmsytb.m3u8?c=45
 翡翠台,http://r.jdshipin.com/62WM7
 
 
+
+
 环球新闻,#genre#
 
 ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
@@ -136,6 +129,8 @@ Bloomberg,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazona
 Bloomberg,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/4c5aa2b0d285b7160171fb9212a19982.m3u8
 
 Bloomberg TV,https://a13fc3f7cd9845618e1ac8e07285bc4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+
 
 
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -166,6 +161,8 @@ FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+
+
 
 
 NHK World,http://185.236.229.31:9981/play/a05v
@@ -201,6 +198,8 @@ Ukraine TV 1,http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist
 Ukraine TV 7,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
 
 Nipon 24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+
 
 
 
@@ -309,7 +308,7 @@ MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV Biggest Pop,https://m3u-editor.com/serve/tchtviptvplaylist/767388622
 
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTV Sparkin New http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV Sparkin New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV Base,http://mains.services:2086/4300898102/4858780/100028
 
 
@@ -317,7 +316,10 @@ MTV Yo,http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 MTV Yo,https://m3u-editor.com/serve/tchtviptvplaylist/767388624
 
+CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
+CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
 Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 
 
@@ -346,12 +348,12 @@ XITE Hits,https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playl
 Deluxe Lounge,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 
 
-MTV,http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-
-MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
-MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+
+
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
 MTV Sparkin New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
@@ -364,7 +366,7 @@ Vuemme TV,http://5db313b643fd8.streamlock.net:1935/Vuemme/Vuemme/playlist.m3u8
 XITE HD (DE),https://xite-samsung-de.amagi.tv/playlist.m3u8
 Zerouno TV,http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 
-MusicTop,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
@@ -664,4 +666,7 @@ MUSIC ON! TV,mitv://fccs.word-tv.com:9906/6263f37d000ec3d409229d2010e7fb4c
 ＡＸＮ ＨＤ 海外ドラマ,mitv://fccs.word-tv.com:9906/6263f3b6000f0e4c09237bdb1b1a9c7d
 AXNミステリー HD,mitv://fccs.word-tv.com:9906/6263f3d70005b5990923fa5e060ad42f
 ナショナル ジオグラフィック チャンネル HD,mitv://fccs.word-tv.com:9906/6263f3f500069e6a09246fca711384a1
+
+
+
 
