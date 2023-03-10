@@ -1,4 +1,4 @@
-台湾新闻,#genre#
+港台新闻,#genre#
 
 TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
@@ -16,12 +16,11 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 中天综合,http://23.237.10.66:16372
 中天娱乐台,http://www.yshmzmc.top/gtjm.php?id=live1023
 
-台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-民视,http://23.237.10.66:16334
-民视,http://23.237.10.66:16334
-民视,http://107.151.203.111:2209/135/us50.php?id=msk
-民视,https://epg.pw/stream/03abfe464da99695f9bc8035bf4d1f3785dcccb6ff2391f7200d9fb70b1eb0bb.ctv
-
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,http://23.237.10.66:16334
+民视新闻,http://23.237.10.66:16334
+民视新闻,http://107.151.203.111:2209/135/us50.php?id=msk
+民视新闻,https://epg.pw/stream/03abfe464da99695f9bc8035bf4d1f3785dcccb6ff2391f7200d9fb70b1eb0bb.ctv
 
 
 台视新闻,rtmp://59.124.75.138/sat/tv071
@@ -36,16 +35,12 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 民视新闻,rtmp://59.124.75.157/sat/tv051
 
 
-
-
 TVBS新闻,https://ytb.52sf.ga/jmsytb.m3u8?c=45
 
 中天综合,http://23.237.10.66:16372
 
 纬來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 
-
-香港新闻,#genre#
 
 
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -92,13 +87,16 @@ ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0
 
 ABC US,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
-Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 Al Jazeera,http://185.236.229.31:9981/play/a04m
+Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
 
 BBC News,http://87.212.248.44:60330/play/a03e/index.m3u8
 BBC News,http://185.236.229.31:9981/play/a072
 
+BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 Bloomberg HT,https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
@@ -163,7 +161,7 @@ Reuters,https://f148ce707dce489790ec1aa756fe2dc4.mediatailor.us-east-1.amazonaws
 
 TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-\
+
 
 India Today,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-indiatoday-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
@@ -199,8 +197,8 @@ CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u
 
 CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13
 CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13
 
 
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
@@ -251,17 +249,16 @@ Cartoon Network,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30989
 Cartoon Network,http http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30990
 Nickelodeon,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/34495
 
-HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+HBO 中文,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+HBO,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+HBO,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115820
+HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 
 HBO Family,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115819
-HBO,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115820
 HBO Comedy,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115821
 
 
-HBO 中文,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-HBO,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
-
+HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 
@@ -311,8 +308,6 @@ SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 音乐,#genre#
 
 
-
-
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 MTV Biggest Pop,https://m3u-editor.com/serve/tchtviptvplaylist/767388622
@@ -330,23 +325,20 @@ CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/ma
 Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 
 
-Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-
 
 
 Vevo Híp-hop,https://eu.linear.zype.com/2897d30e-5ed8-42e5-9823-b22cd53f289f/d8db1183-fbab-41e7-a956-5ee16ffb16b6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 Vevo Pop,https://eu.linear.zype.com/a30f2d9e-7eee-4fc7-896f-24a85829c9c2/fbfb8efa-c5fa-4fec-91f7-03a4224c11dc-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-Vivo Pop,https://eu.linear.zype.com/ddc9a2e1-559f-4231-978d-988e6ed3496e/39aafa78-d7c6-49a3-9057-59cdadaa2fb6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+Vevo Pop,https://eu.linear.zype.com/ddc9a2e1-559f-4231-978d-988e6ed3496e/39aafa78-d7c6-49a3-9057-59cdadaa2fb6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
 
-Vivo 90s & 80s,https://eu.linear.zype.com/dbd38661-af53-44d2-b5e7-cec4bf963939/d476b7a5-eabc-4afd-8760-b049d5a6dbd9-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+Vevo 90s & 80s,https://eu.linear.zype.com/dbd38661-af53-44d2-b5e7-cec4bf963939/d476b7a5-eabc-4afd-8760-b049d5a6dbd9-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
-Vivo 80s,https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
+Vevo 80s,https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
 
 
 Trace Urban,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -371,7 +363,7 @@ MTV Sparkin New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 
-VEVO Hip-Hop,http://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+Vevo Hip-Hop,http://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 Vuemme TV,http://5db313b643fd8.streamlock.net:1935/Vuemme/Vuemme/playlist.m3u8
 XITE HD (DE),https://xite-samsung-de.amagi.tv/playlist.m3u8
 Zerouno TV,http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
@@ -384,7 +376,8 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 格莱美音乐,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 
-
+Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 
 
 
@@ -665,6 +658,7 @@ BS 11,mitv://fccs.word-tv.com:9906/62693d9b000d0b7b03c7aa15a4867b48
 
 音乐测试,#genre#
 
+
 古典音樂台CLASSICA HD,mitv://fccs.word-tv.com:9906/6260fd970004b7061795b0eb2df29131
 LUXE TV Channel,mitv://fccs.word-tv.com:9906/6259b55f000cba8815169b462e40e185
 Music Japan TV HD,mitv://fccs.word-tv.com:9906/6263f32800006cf109214d6c10abb241
@@ -674,16 +668,4 @@ MUSIC ON! TV,mitv://fccs.word-tv.com:9906/6263f37d000ec3d409229d2010e7fb4c
 ＡＸＮ ＨＤ 海外ドラマ,mitv://fccs.word-tv.com:9906/6263f3b6000f0e4c09237bdb1b1a9c7d
 AXNミステリー HD,mitv://fccs.word-tv.com:9906/6263f3d70005b5990923fa5e060ad42f
 ナショナル ジオグラフィック チャンネル HD,mitv://fccs.word-tv.com:9906/6263f3f500069e6a09246fca711384a1
-
-
-
-
-
-
-
-
-
-
-
-
 
