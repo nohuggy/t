@@ -1,8 +1,8 @@
 大陆新闻,#genre#
 
-
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
+
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 
 CCTV9,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 
@@ -542,10 +542,6 @@ Full Porn,#genre#
 
 
 Brother Crush Bored Stepbros Jack Bailey And Alex Meyer,http://limetv.me:80/movie/4627val/608516/6469.mp4
-Brunettes Have More Fun 2,http://limetv.me:80/movie/4627val/608516/6329.mp4
-Candice Demellza,http://limetv.me:80/movie/4627val/608516/6351.mp4
-Cchd 27 03 21 Nicole,http://limetv.me:80/movie/4627val/608516/6371.mp4
-Clubsweethearts 21 06 28 Luna B Savoring Her Sticky Fingers,http://limetv.me:80/movie/4627val/608516/6390.mp4
 Cockyboys Avery Jones e Roman Todd,http://limetv.me:80/movie/4627val/608516/6475.mp4
 Cockyboys Olivier Robert e Skyy Knox,http://limetv.me:80/movie/4627val/608516/6437.mp4
 Corbin Fisher Acm2686 Rocky Works Out Jared,http://limetv.me:80/movie/4627val/608516/6489.mp4
