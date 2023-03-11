@@ -509,9 +509,6 @@ Homo Porn,#genre#
 
 Gay,http://cdn.adultiptv.net/gay.m3u8
 Gay,http://g3.3espp.top:80/live/54679/96911/2186.ts
-Adultos Homo 66,http://ccdntp.xyz:80/claudio4800/991779964/173918
-Hotboys,http://ccdntp.xyz:80/claudio4800/991779964/268700
-
 
 ADULTO GAY 01,http://limetv.me:80/4627val/608516/91255
 ADULTO GAY 02,http://limetv.me:80/4627val/608516/91256
