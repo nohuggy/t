@@ -1,10 +1,9 @@
 大陆新闻,#genre#
 
+
 CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
-
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-
 CCTV9,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 
 
 
@@ -12,15 +11,74 @@ CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u
 
 CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
+CCTV9,http://39.134.66.46/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9,http://39.134.65.179/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9,http://39.134.65.181/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9,http://39.134.65.166/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9,http://39.134.65.183/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9,http://39.134.65.173/PLTV/88888888/224/3221225676/index.m3u8
 
+
+CCTV9,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
+CCTV9,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+CCTV9,http://182.151.211.171:808/hls/9/index.m3u8
+CCTV9,http://39.135.138.58:18890/TVOD/88888888/224/3221225626/index.m3u8
+CCTV9,http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9,http://39.134.67.99/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+CCTV9,http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
+CCTV9,http://222.132.191.125:9901/tsfile/live/0009_1.m3u8
+CCTV9,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV9,http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+CCTV9,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
+CCTV9,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000014583/1.m3u8?Contentid=1000000001000014583&amp;livemode=1&amp;stbId=3&amp;channel-id=ystenlive
+CCTV9,http://111.40.196.34/PLTV/88888888/224/3221225502/index.m3u8
+CCTV9,http://111.40.196.35/wh7f454c46tw3640300029_615820538/PLTV/88888888/224/3221225502/index.m3u8
+CCTV9,http://183.207.249.13/PLTV/3/224/3221225532/index.m3u8
+CCTV9,http://183.207.249.14/PLTV/3/224/3221225532/index.m3u8
+CCTV9,http://183.207.249.6/PLTV/3/224/3221225532/index.m3u8
+CCTV9,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168140
 
 
 
 CCTV13,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
+CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?
+CCTV13,http://111.59.189.40:8445/tsfile/live/1011_1.m3u8
+CCTV13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+CCTV13,http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8codeyj
+CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13,http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
+CCTV13,http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8
+CCTV13,http://183.196.25.171:808/hls/13/index.m3u8
+CCTV13,http://183.207.249.11/PLTV/3/224/3221225560/index.m3u8
+CCTV13,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000021303/1.m3u8?Contentid=1000000002000021303&amp;livemode=1&amp;stbId=3&amp;channel-id=ystenlive
+CCTV13,http://183.207.249.12/PLTV/3/224/3221225560/index.m3u8
+CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
+
+
+CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8?
+CCTV4,http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
+CCTV4,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,http://39.135.138.58:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,http://222.240.82.92:9901/tsfile/live/0004_1.m3u8
+CCTV4,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,http://117.169.120.140:8080/live/cctv-4/.m3u8
+CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/.m3u8
+CCTV4,http://111.59.189.40:8445/tsfile/live/1003_1.m3u8
+CCTV4,http://182.151.211.171:808/hls/4/index.m3u8
+CCTV4,http://183.196.25.171:808/hls/4/index.m3u8
+CCTV4,http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
+CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+CCTV4,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000031664/1.m3u8?Contentid=1000000002000031664&amp;livemode=1&amp;stbId=3&amp;channel-id=ystenlive
+CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8
+CCTV4,http://39.134.65.175/PLTV/88888888/224/3221225797/index.m3u8
+
 
 
 港台新闻,#genre#
@@ -61,9 +119,11 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 
 TVBS新闻,https://ytb.52sf.ga/jmsytb.m3u8?c=45
 
-中天综合,http://23.237.10.66:16372
-
 纬來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
+
+台视,http://23.237.10.66:16344
+民视,http://23.237.10.66:16334
+
 
 
 
@@ -160,9 +220,8 @@ France 24,http://178.250.208.141/57/play.m3u8
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-
+Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
 
 
@@ -291,7 +350,7 @@ Animal Planet,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ani
 WildEarth,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearthin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
-KBS World,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+
 KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 
 TJB,http://1.245.74.5:1935/live/tv/.m3u8
@@ -404,6 +463,8 @@ Adult Porn,#genre#
 
 Big Dick,http://ccdntp.xyz:80/claudio4800/991779964/150797
 Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
+Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+
 Compilation,http://cdn.adultiptv.net/compilation.m3u8
 
 Latino,http://cdn.adultiptv.net/latina.m3u8
@@ -509,6 +570,8 @@ Homo Porn,#genre#
 
 Gay,http://cdn.adultiptv.net/gay.m3u8
 Gay,http://g3.3espp.top:80/live/54679/96911/2186.ts
+
+
 
 ADULTO GAY 01,http://limetv.me:80/4627val/608516/91255
 ADULTO GAY 02,http://limetv.me:80/4627val/608516/91256
