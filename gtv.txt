@@ -1,7 +1,8 @@
 大陆新闻,#genre#
 
 
-CCTV9,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+CCTV9,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168140
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 
 
@@ -36,8 +37,7 @@ CCTV9,http://111.40.196.35/wh7f454c46tw3640300029_615820538/PLTV/88888888/224/32
 CCTV9,http://183.207.249.13/PLTV/3/224/3221225532/index.m3u8
 CCTV9,http://183.207.249.14/PLTV/3/224/3221225532/index.m3u8
 CCTV9,http://183.207.249.6/PLTV/3/224/3221225532/index.m3u8
-CCTV9,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
-CCTV9,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168140
+
 
 
 
