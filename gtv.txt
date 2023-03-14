@@ -364,7 +364,7 @@ SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
 
 COMEDY CENTRAL,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/17178
-DISNEY,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/29142
+Disney Channel,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/29142
 CW,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/18543
 
 
