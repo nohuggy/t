@@ -60,7 +60,9 @@ CCTV13,http://183.207.249.12/PLTV/3/224/3221225560/index.m3u8
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 x
 
+
 CCTV4,http://39.134.65.175/PLTV/88888888/224/3221225797/index.m3u8
+
 CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8?
 CCTV4,http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
 CCTV4,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225621/index.m3u8
@@ -168,6 +170,7 @@ ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0
 ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 ABC US,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+ABC NEW YORK,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/54581
 
 
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
@@ -175,6 +178,7 @@ Al Jazeera,http://185.236.229.31:9981/play/a04m
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 
+BBC News,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/1118758
 BBC News,http://87.212.248.44:60330/play/a03e/index.m3u8
 BBC News,http://185.236.229.31:9981/play/a072
 
@@ -190,7 +194,7 @@ Bloomberg,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/4c5aa2b0d
 Bloomberg TV,https://a13fc3f7cd9845618e1ac8e07285bc4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 
-
+CBSN,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/44870
 
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -198,6 +202,7 @@ CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
+CNN,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/56297
 CNN,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
 
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -257,9 +262,8 @@ Ukraine TV 7,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
 
 Nipon 24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-
-
-
+NBC NEW YORK,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/54580
+MSNBC,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/35310
 
 
 
@@ -277,6 +281,8 @@ Discovery Life,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/86018
 
 Discovery Science,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32459
 Discovery HD,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+Discovery ID,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/22376
 
 History Channel,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/86031
 
@@ -336,6 +342,7 @@ Deal or No Deal,https://dupsehd9sd6ra.cloudfront.net/v1/master/3722c60a815c199d9
 Game Show Central,https://cf289725d35440ecb69f75421bd40fa5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_GameShowCentral/playlist.m3u8?ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 TLC,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+TLC,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/29352
 
 
 Jamie Oliver Channel,https://d3cuy2e2e6vm8u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgi0vfbu48v8n-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -355,6 +362,10 @@ TJB,http://1.245.74.5:1935/live/tv/.m3u8
 
 SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
+
+COMEDY CENTRAL,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/17178
+DISNEY,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/29142
+CW,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/18543
 
 
 
@@ -545,7 +556,12 @@ ADULTO 39,http://limetv.me:80/4627val/608516/91253
 ADULTO 40,http://limetv.me:80/4627val/608516/91254
 
 
-
+CANDY,http://suatv.fun:80/312594664409/431712883247/501202
+CENTOXCENTO,http://suatv.fun:80/312594664409/431712883247/501203
+DORCEL TV,http://suatv.fun:80/312594664409/431712883247/501204
+HUSTLER,http://suatv.fun:80/312594664409/431712883247/501206
+PASSION,http://suatv.fun:80/312594664409/431712883247/501209
+PENTHOUSE QUICKIES,http://suatv.fun:80/312594664409/431712883247/501212
 
 Gravidas Safadas 断流,http://ccdntp.xyz:80/claudio4800/991779964/173919
 Adulto Anal 断流,http://ccdntp.xyz:80/claudio4800/991779964/173914
@@ -565,6 +581,11 @@ Adulto 断流,http://ccdntp.xyz:80/claudio4800/991779964/173900
 
 
 Homo Porn,#genre#
+
+AMADOR GAY,http://suatv.fun:80/312594664409/431712883247/501187
+TRANSEXUAL,http://suatv.fun:80/312594664409/431712883247/501189
+
+BISEXUAL,http://suatv.fun:80/312594664409/431712883247/501188
 
 Gay,http://cdn.adultiptv.net/gay.m3u8
 Gay,http://g3.3espp.top:80/live/54679/96911/2186.ts
@@ -622,7 +643,6 @@ Fuckermate Bare Encounters At Boyberry Franklin Acevedo e Rico Vega,http://limet
 Fuckermate Creamy Welcome Franklin Acevedo e Valentino Sistor,http://limetv.me:80/movie/4627val/608516/6435.mp4
 Gay Pride Studios Men Over 30 183575 Deep Inside Pleasures Marco Lorenzo Rikk York Bareback,http://limetv.me:80/movie/4627val/608516/6436.mp4
 Gay Titan Men 6817 Bad Cop Donnie Dean And Ricky Decker,http://limetv.me:80/movie/4627val/608516/6464.mp4
-
 Hh Raw Work Loads,http://limetv.me:80/movie/4627val/608516/6449.mp4
 I?Ve Been Waiting To Fuck This Ass For A While. It Was Worth The Wait Joshmoorexxx,http://limetv.me:80/movie/4627val/608516/6478.mp4
 Imadeporn Martina SmeraldiForeveraloned [Adulto],http://limetv.me:80/movie/4627val/608516/7611.mp4
@@ -630,8 +650,7 @@ Kristen Bjorn Eager To Please Santiago Rodriguez e Andy Star,http://limetv.me:80
 Latin Leche Numero 166 Stepsons Confession Jesus e Jael,http://limetv.me:80/movie/4627val/608516/6428.mp4
 Latin Leche Numero 180 Talking Bodies Emanuel e Rocco,http://limetv.me:80/movie/4627val/608516/6446.mp4
 
-Couple at home,https://b2less.1905.info/file/dovgjs/nanyan/m3u8/103582/p.ludeng.co.m3u8
-Ourdoor Adventure,https://b2less.1905.info/file/dovgjs/nanyan/m3u8/99942/p.ludeng.co.m3u8
+
 
 日本生活测试,#genre#
 
@@ -720,15 +739,6 @@ MUSIC ON! TV,mitv://fccs.word-tv.com:9906/6263f37d000ec3d409229d2010e7fb4c
 ＡＸＮ ＨＤ 海外ドラマ,mitv://fccs.word-tv.com:9906/6263f3b6000f0e4c09237bdb1b1a9c7d
 AXNミステリー HD,mitv://fccs.word-tv.com:9906/6263f3d70005b5990923fa5e060ad42f
 ナショナル ジオグラフィック チャンネル HD,mitv://fccs.word-tv.com:9906/6263f3f500069e6a09246fca711384a1
-
-
-
-
-
-
-
-
-
 
 
 
