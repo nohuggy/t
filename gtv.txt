@@ -177,7 +177,7 @@ Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 Al Jazeera,http://185.236.229.31:9981/play/a04m
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-
+BBC News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/692
 BBC News,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/1118758
 BBC News,http://87.212.248.44:60330/play/a03e/index.m3u8
 BBC News,http://185.236.229.31:9981/play/a072
