@@ -661,7 +661,7 @@ Crave 4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/60
 CBC News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
 USA Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
 TNT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/311
-TLC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/311
+TLC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/312
 TBS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/315
 YBN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/316
 SYFY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/317
