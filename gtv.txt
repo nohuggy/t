@@ -650,6 +650,77 @@ Latin Leche Numero 180 Talking Bodies Emanuel e Rocco,http://limetv.me:80/movie/
 
 
 
+Trials,#genre#
+Food Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/55
+Global News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/51
+CTV News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/50
+Crave 1,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/57
+Crave 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/58
+Crave 3,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/59
+Crave 4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/60
+CBC News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
+USA Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
+TNT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/311
+TLC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/311
+TBS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/315
+YBN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/316
+SYFY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/317
+STARZ,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/325
+Paramount,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/326
+Showtime,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/329
+Oxygen,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/338
+OWN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/339
+Ovation,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/340
+Outdoor,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/342
+One America News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/343
+Nat Geo Wild,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/344
+Nat Geo USA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/345
+MTV2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/347
+MTV Live,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/348
+MSNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/350
+Investigation Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/360
+History Channel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/366
+History 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/367
+HGTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/368
+HBO ZOne,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/371
+HBO,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/373
+HBO Comedy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/375
+HBO 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/376
+FYI,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/384
+FXX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/385
+FUSE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/388
+FOX Business,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/389
+FOX Business,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/390
+E!,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/394
+Discovery Science,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/396
+Discovery Life,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/397
+Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/399
+Cooking Channeel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/404
+Comedy Central,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/406
+CNN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/407
+CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/408
+Cartoon Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/416
+Bravo,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/418
+BBC America,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/425
+Animal Planet,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/430
+ABC News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/430
+Al Jazeera,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/673
+Bloombeerg,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/695
+CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/719
+SKy News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/813
+DW News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41200
+
+Trials Adult,#genre#
+Big Dick,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/64
+Teen,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/73
+Hardcore,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/74
+Threesome,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/76
+Russian,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/77
+Rough,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/79
+Gangbang,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/80
+Blonde,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/84
+Gay,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/85
+Cum,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42137
 
 
 
