@@ -1,7 +1,6 @@
 大陆新闻,#genre#
 
 
-CCTV9,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 
 
@@ -170,31 +169,27 @@ ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0
 ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 ABC US,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-ABC NEW YORK,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/54581
 
-
-Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 Al Jazeera,http://185.236.229.31:9981/play/a04m
+Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 
-BBC News,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/1118758
 BBC News,http://87.212.248.44:60330/play/a03e/index.m3u8
 BBC News,http://185.236.229.31:9981/play/a072
 
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-Bloomberg HT,https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+
 Bloomberg European,http://185.236.229.31:9981/play/a04k
 
-Bloomberg,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
 Bloomberg,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/4c5aa2b0d285b7160171fb9212a19982.m3u8
+Bloomberg,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
+
 
 Bloomberg TV,https://a13fc3f7cd9845618e1ac8e07285bc4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-
-CBSN,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/44870
 
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -202,7 +197,7 @@ CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-CNN,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/56297
+
 CNN,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
 
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -213,14 +208,9 @@ CNN,https://225f14f181b14665bde8b60479eed3d2.mediatailor.us-east-1.amazonaws.com
 
 DW,http://185.236.229.31:9981/play/a068
 
-Euronews,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-Euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
-
 
 France 24,http://178.250.208.141/57/play.m3u8
 
-FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
@@ -615,6 +605,7 @@ Hot Young Seamen,https://r2.2022gay.buzz/gv/2883f4d1236d99f8951b721fef51ce22/mas
 
 Perfect Match,https://r2.2022gay.buzz/gv/ee61e698a0878505263051d12b3a2dfb/master.m3u8
 Elder White,https://r2.aiaigv.cf/gv/4a87ea9d6f81134ff3f5ff0f68b63927/master.m3u8
+Elder White 2,https://r2.2022gay.buzz/gv/1b421ce2de149caf13b9772f8b147cc2/master.m3u8
 Elder Ence 2,https://r2.aiaigv.buzz/gv/0abd3a4eb2240596454c9b2a1769e7b6/master.m3u8
 Elder Holland,https://r2.2022gay.fun/gv/b1798c4ffb277f5ee72226eb77b9ab64/master.m3u8
 
@@ -720,4 +711,25 @@ Gangbang,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/80
 Blonde,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/84
 Gay,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/85
 Cum,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42137
+
+Trials 2,#genre#
+TLC,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6674.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
+CBC News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6508.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
+CNBC,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6523.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
+CTV News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6549.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
+BBC World News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/3998.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
+
+Channel 4,http://91.224.190.66:4281/bysid/5249
+BBC One,http://91.224.190.66:4281/bysid/1204
+ITV1,http://91.224.190.66:4281/bysid/5109
+Channel 4,http://91.224.190.66:4281/bysid/5213
+CNBC HD,http://91.224.190.66:4281/bysid/5088
+
+AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501187
+AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501190
+BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501188
+BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501194
+PODEROSAS,http://suatv.fun:80/Davisony09876/87221187sony@/501193
+CINE ADULTO 2,http://suatv.fun:80/Davisony09876/87221187sony@/501201
+CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
 
