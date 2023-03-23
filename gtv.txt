@@ -733,3 +733,21 @@ PODEROSAS,http://suatv.fun:80/Davisony09876/87221187sony@/501193
 CINE ADULTO 2,http://suatv.fun:80/Davisony09876/87221187sony@/501201
 CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
 
+Trials 3,#genre#
+HGTV,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14008
+Bravo,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14013
+CW,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14015
+FX,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14016
+TNT,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14023
+NASA,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14357
+MTV U,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14431
+BBC1,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16484
+E4,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16493
+MORE4,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16494
+NAT GEO,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16651
+GB Neews,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16677
+CNN,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16680
+Euronews,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16684
+
+Penthouse Quickies,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16177
+Realkings,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16215
