@@ -733,6 +733,7 @@ CINE ADULTO 2,http://suatv.fun:80/Davisony09876/87221187sony@/501201
 CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
 
 Trials 3,#genre#
+DW,http://176.57.50.167:25461/lancedfox/freetrial/5094
 BBC 1,http://176.57.50.167:25461/lancedfox/freetrial/12181
 BBC 2,http://176.57.50.167:25461/lancedfox/freetrial/12182
 BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/12195
