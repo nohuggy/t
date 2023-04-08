@@ -40,7 +40,6 @@ CCTV9,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168140
 
 
 
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 
 CCTV13,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -57,7 +56,7 @@ CCTV13,http://183.207.249.11/PLTV/3/224/3221225560/index.m3u8
 CCTV13,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000021303/1.m3u8?Contentid=1000000002000021303&amp;livemode=1&amp;stbId=3&amp;channel-id=ystenlive
 CCTV13,http://183.207.249.12/PLTV/3/224/3221225560/index.m3u8
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-
+x
 
 
 CCTV4,http://39.134.65.175/PLTV/88888888/224/3221225797/index.m3u8
@@ -734,20 +733,42 @@ CINE ADULTO 2,http://suatv.fun:80/Davisony09876/87221187sony@/501201
 CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
 
 Trials 3,#genre#
-HGTV,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14008
-Bravo,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14013
-CW,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14015
-FX,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14016
-TNT,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14023
-NASA,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14357
-MTV U,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/14431
-BBC1,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16484
-E4,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16493
-MORE4,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16494
-NAT GEO,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16651
-GB Neews,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16677
-CNN,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16680
-Euronews,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16684
-
-Penthouse Quickies,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16177
-Realkings,http://a.juliga.xyz:8080/oskar99/K4L6wPLaE3rk/16215
+BBC 1,http://176.57.50.167:25461/lancedfox/freetrial/12181
+BBC 2,http://176.57.50.167:25461/lancedfox/freetrial/12182
+BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/12195
+Bloomberg,http://176.57.50.167:25461/lancedfox/freetrial/12198
+Challenge,http://176.57.50.167:25461/lancedfox/freetrial/12209
+Channel 5,http://176.57.50.167:25461/lancedfox/freetrial/12211
+TLC,http://176.57.50.167:25461/lancedfox/freetrial/12313
+ABC News,http://176.57.50.167:25461/lancedfox/freetrial/21753
+BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/21755
+Bloomberg,http://176.57.50.167:25461/lancedfox/freetrial/21756
+CBS News,http://176.57.50.167:25461/lancedfox/freetrial/21759
+CNBC,http://176.57.50.167:25461/lancedfox/freetrial/21762
+CNBC World,http://176.57.50.167:25461/lancedfox/freetrial/21763
+CNN,http://176.57.50.167:25461/lancedfox/freetrial/21765
+Fox News,http://176.57.50.167:25461/lancedfox/freetrial/21768
+Fox Business,http://176.57.50.167:25461/lancedfox/freetrial/21769
+BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/21825
+CNBC,http://176.57.50.167:25461/lancedfox/freetrial/21870
+CNN,http://176.57.50.167:25461/lancedfox/freetrial/21871
+Global News,http://176.57.50.167:25461/lancedfox/freetrial/21927
+E!,http://176.57.50.167:25461/lancedfox/freetrial/22081
+HGTV,http://176.57.50.167:25461/lancedfox/freetrial/22101
+MTV,http://176.57.50.167:25461/lancedfox/freetrial/22120
+National Geographic,http://176.57.50.167:25461/lancedfox/freetrial/22123
+TLC,http://176.57.50.167:25461/lancedfox/freetrial/22157
+TLC,http://176.57.50.167:25461/lancedfox/freetrial/22158
+Brazzers,http://176.57.50.167:25461/lancedfox/freetrial/86409
+Classic Sex,http://176.57.50.167:25461/lancedfox/freetrial/86410
+Dorcel,http://176.57.50.167:25461/lancedfox/freetrial/86411
+Evil Angel,http://176.57.50.167:25461/lancedfox/freetrial/86412
+Evil Angel,http://176.57.50.167:25461/lancedfox/freetrial/86413
+HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86414
+HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86415
+HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86416
+HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86423
+Penthouse,http://176.57.50.167:25461/lancedfox/freetrial/86431
+Sensation,http://176.57.50.167:25461/lancedfox/freetrial/86464
+Sensation,http://176.57.50.167:25461/lancedfox/freetrial/86465
+Young Girls,http://176.57.50.167:25461/lancedfox/freetrial/86490
