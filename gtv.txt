@@ -173,7 +173,7 @@ Al Jazeera,http://185.236.229.31:9981/play/a04m
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-
+BBC News,http://tv.fullytv.com:8080/cabeza/cbza/1118758
 BBC News,http://87.212.248.44:60330/play/a03e/index.m3u8
 BBC News,http://185.236.229.31:9981/play/a072
 
@@ -457,6 +457,419 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 阿里郎WORLD,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
+
+
+
+
+Trials,#genre#
+Food Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/55
+Global News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/51
+CTV News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/50
+Crave 1,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/57
+Crave 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/58
+Crave 3,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/59
+Crave 4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/60
+CBC News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
+USA Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
+TNT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/311
+TLC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/312
+TBS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/315
+YBN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/316
+SYFY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/317
+STARZ,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/325
+Paramount,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/326
+Showtime,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/329
+Oxygen,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/338
+OWN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/339
+Ovation,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/340
+Outdoor,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/342
+One America News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/343
+Nat Geo Wild,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/344
+Nat Geo USA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/345
+MTV2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/347
+MTV Live,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/348
+MSNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/350
+Investigation Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/360
+History Channel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/366
+History 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/367
+HGTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/368
+HBO ZOne,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/371
+HBO,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/373
+HBO Comedy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/375
+HBO 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/376
+FYI,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/384
+FXX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/385
+FUSE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/388
+FOX Business,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/389
+FOX Business,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/390
+E!,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/394
+Discovery Science,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/396
+Discovery Life,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/397
+Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/399
+Cooking Channeel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/404
+Comedy Central,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/406
+CNN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/407
+CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/408
+Cartoon Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/416
+Bravo,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/418
+BBC America,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/425
+Animal Planet,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/430
+ABC News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/430
+Al Jazeera,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/673
+Bloombeerg,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/695
+CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/719
+SKy News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/813
+DW News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41200
+Big Dick,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/64
+Teen,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/73
+Hardcore,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/74
+Threesome,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/76
+Russian,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/77
+Rough,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/79
+Gangbang,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/80
+Blonde,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/84
+Gay,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/85
+Cum,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42137
+
+Trials 2,#genre#
+TLC,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6674.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
+CBC News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6508.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
+CNBC,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6523.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
+CTV News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6549.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
+BBC World News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/3998.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
+
+Channel 4,http://91.224.190.66:4281/bysid/5249
+BBC One,http://91.224.190.66:4281/bysid/1204
+ITV1,http://91.224.190.66:4281/bysid/5109
+Channel 4,http://91.224.190.66:4281/bysid/5213
+CNBC HD,http://91.224.190.66:4281/bysid/5088
+
+AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501187
+AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501190
+BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501188
+BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501194
+PODEROSAS,http://suatv.fun:80/Davisony09876/87221187sony@/501193
+CINE ADULTO 2,http://suatv.fun:80/Davisony09876/87221187sony@/501201
+CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
+
+
+
+
+
+Trials 3,#genre#
+DW,http://176.57.50.167:25461/lancedfox/freetrial/5094
+BBC 1,http://176.57.50.167:25461/lancedfox/freetrial/12181
+BBC 2,http://176.57.50.167:25461/lancedfox/freetrial/12182
+BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/12195
+Bloomberg,http://176.57.50.167:25461/lancedfox/freetrial/12198
+Challenge,http://176.57.50.167:25461/lancedfox/freetrial/12209
+Channel 5,http://176.57.50.167:25461/lancedfox/freetrial/12211
+TLC,http://176.57.50.167:25461/lancedfox/freetrial/12313
+ABC News,http://176.57.50.167:25461/lancedfox/freetrial/21753
+BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/21755
+Bloomberg,http://176.57.50.167:25461/lancedfox/freetrial/21756
+CBS News,http://176.57.50.167:25461/lancedfox/freetrial/21759
+CNBC,http://176.57.50.167:25461/lancedfox/freetrial/21762
+CNBC World,http://176.57.50.167:25461/lancedfox/freetrial/21763
+CNN,http://176.57.50.167:25461/lancedfox/freetrial/21765
+Fox News,http://176.57.50.167:25461/lancedfox/freetrial/21768
+Fox Business,http://176.57.50.167:25461/lancedfox/freetrial/21769
+BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/21825
+CNBC,http://176.57.50.167:25461/lancedfox/freetrial/21870
+CNN,http://176.57.50.167:25461/lancedfox/freetrial/21871
+Global News,http://176.57.50.167:25461/lancedfox/freetrial/21927
+E!,http://176.57.50.167:25461/lancedfox/freetrial/22081
+HGTV,http://176.57.50.167:25461/lancedfox/freetrial/22101
+MTV,http://176.57.50.167:25461/lancedfox/freetrial/22120
+National Geographic,http://176.57.50.167:25461/lancedfox/freetrial/22123
+TLC,http://176.57.50.167:25461/lancedfox/freetrial/22157
+TLC,http://176.57.50.167:25461/lancedfox/freetrial/22158
+Brazzers,http://176.57.50.167:25461/lancedfox/freetrial/86409
+Classic Sex,http://176.57.50.167:25461/lancedfox/freetrial/86410
+Dorcel,http://176.57.50.167:25461/lancedfox/freetrial/86411
+Evil Angel,http://176.57.50.167:25461/lancedfox/freetrial/86412
+Evil Angel,http://176.57.50.167:25461/lancedfox/freetrial/86413
+HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86414
+HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86415
+HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86416
+HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86423
+Penthouse,http://176.57.50.167:25461/lancedfox/freetrial/86431
+Sensation,http://176.57.50.167:25461/lancedfox/freetrial/86464
+Sensation,http://176.57.50.167:25461/lancedfox/freetrial/86465
+Young Girls,http://176.57.50.167:25461/lancedfox/freetrial/86490
+
+
+
+
+
+Trials 4,#genre#
+
+BBC One 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/843
+BBC Two 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/844
+iTV 1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/845
+iTV 2 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/846
+iTV 3 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/847
+iTV 4 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/848
+iTV Be,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/849
+BBC 1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/850
+BBC 2 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/851
+BBC 3,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/852
+BBC 4,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/853
+Channel 4 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/854
+Channel 5 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/855
+BBC Entertainment,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/858
+More 4,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/860
+E4 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/863
+BBC News,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/868
+CNN News 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/872
+Bloomberg 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/874
+Al Jazeera UK,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/878
+FOX News HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/881
+Euronews HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/884
+CNN International,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/888
+Sky News HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/889
+CNBC News HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/890
+BBC World News HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/891
+Gold 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/892
+TCM,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/893
+E! 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/894
+RTE One 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/896
+RTE 2 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/897
+Alibi 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/898
+Dave 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/899
+Pick TV,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/902
+Food Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/906
+Colors,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/908
+Crime & Investigation,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/910
+Horse and Country 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/913
+Discovery Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/917
+Discovery History,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/922
+Discovery Science,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/925
+Discovery Turbo,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/927
+Investigation Discovery 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/929
+Discovery Shed HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/932
+National Geographic Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/934
+Nat Geo Wild 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/939
+History Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/941
+History Channel 2 HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/942
+Animal Planet 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/943
+H2 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/952
+Travel Channel,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/953
+Eden 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/954
+5USA HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/955
+Really HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/956
+MTV Base HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/957
+MTV 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/958
+MTV Music,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/959
+Club MTV,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/961
+MTV Hits,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/963
+MTV Rocks,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/965
+VH1 Classic,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/969
+Disney XD HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/971
+Boomerang HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/973
+Comedy Central 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/975
+Disney Channel,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/977
+Disney Junior 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/981
+CBeebies HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/984
+Sky Cinema Disney HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/987
+Cartoon Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/990
+Nickelodeon,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/993
+
+Liverpool TV 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13913
+Box Nation 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13914
+Premier Sports 1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13915
+Eir Sports 1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13916
+Racing UK 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13917
+MUTV,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13918
+Horror Channel,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13889
+Sky One 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/999
+Sky Arts 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1000
+Sky Atlantic 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1001
+Sky Cinema Drama & Romance 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1003
+Sky Cinema Action 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1006
+Sky Cinema Comedy 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1011
+Sky Cinema Family 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1017
+Sky Cinema Select 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1019
+Sky Cinema Premiere 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1022
+Sky Cinema Sci-Fi & Horror 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1024
+Sky Cinema Greats 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1026
+Sony Movies 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1029
+Sony Movies +1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1031
+SyFy 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1033
+Film 4 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1034
+Universal Channel HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13888
+
+ABC news 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15803
+Bloomberg 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15808
+CBS News 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15810
+CNBC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15816
+CNN 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15819
+Fox News 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15821
+NBC News 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15824
+TBS 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15826
+MSNBC HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15828
+Viceland 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15830
+USA Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15833
+Bravo 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15836
+HGTV 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15838
+Freeform 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15839
+Showtime 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15845
+Cartoon Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15848
+AMC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15850
+Cinemax 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15852
+Starz Edge HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15854
+Starz Comedy HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15867
+Nickelodeon HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15871
+AFN Prime Atlantic HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15874
+HBO 2 HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15876
+HBO Comedy HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15878
+HBO Family 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15880
+HBO Signature 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15882
+HBO Zone 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15884
+Comedy Central 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15888
+E! Entertainment HD,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15890
+TNT 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15891
+A&E 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15894
+ABC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15897
+Food Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15899
+Hallmark 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15902
+Animal Planet 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15903
+History Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15904
+National Geographic 4K,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15906
+Discovery Channel  4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15907
+Discovery Science HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15909
+| O.W.N |Oprah Winfrey Network| 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15911
+The CW 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15912
+TLC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15913
+FXX 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15914
+Starz Cinema 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15915
+Showtime 2 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15916
+AFN Prime Pacific,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15917
+FX Movie Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15918
+
+
+
+
+
+
+
+
+
+
+Trials 5,#genre#
+Hustler HD,http://source-streams.com:8081/afshin-91/27092019/1
+Redlight HD,http://source-streams.com:8081/afshin-91/27092019/2
+Prıvate TV HD,http://source-streams.com:8081/afshin-91/27092019/3
+Dorcel HD,http://source-streams.com:8081/afshin-91/27092019/4
+Dorcel XxX HD,http://source-streams.com:8081/afshin-91/27092019/5
+Vivid Red HD,http://source-streams.com:8081/afshin-91/27092019/6
+Vixen HD,http://source-streams.com:8081/afshin-91/27092019/7
+EroX HD,http://source-streams.com:8081/afshin-91/27092019/8
+EroX XxX HD,http://source-streams.com:8081/afshin-91/27092019/9
+Penthouse Gold HD,http://source-streams.com:8081/afshin-91/27092019/10
+Penthouse Reality TV HD,http://source-streams.com:8081/afshin-91/27092019/11
+Penthouse Passion HD,http://source-streams.com:8081/afshin-91/27092019/12
+Super ONE HD,http://source-streams.com:8081/afshin-91/27092019/13
+Babes TV HD,http://source-streams.com:8081/afshin-91/27092019/14
+XY Plus HD,http://source-streams.com:8081/afshin-91/27092019/15
+XY Max HD,http://source-streams.com:8081/afshin-91/27092019/16
+XY Mix HD,http://source-streams.com:8081/afshin-91/27092019/17
+Vivid TV Europe,http://source-streams.com:8081/afshin-91/27092019/18
+Vivid Touch,http://source-streams.com:8081/afshin-91/27092019/19
+DUSK,http://source-streams.com:8081/afshin-91/27092019/20
+Hustler TV,http://source-streams.com:8081/afshin-91/27092019/21
+XXL,http://source-streams.com:8081/afshin-91/27092019/22
+Passie XxX,http://source-streams.com:8081/afshin-91/27092019/23
+Passion XxX,http://source-streams.com:8081/afshin-91/27092019/24
+Passion XxX Europe,http://source-streams.com:8081/afshin-91/27092019/25
+Reality Kings TV,http://source-streams.com:8081/afshin-91/27092019/26
+Brazzers TV Europe,http://source-streams.com:8081/afshin-91/27092019/27
+Brazzers TV Europe Ru,http://source-streams.com:8081/afshin-91/27092019/28
+Hot TV,http://source-streams.com:8081/afshin-91/27092019/29
+Venus TV,http://source-streams.com:8081/afshin-91/27092019/30
+Sextreme TV,http://source-streams.com:8081/afshin-91/27092019/31
+Sexy HOT,http://source-streams.com:8081/afshin-91/27092019/32
+Meiden Van Holland Hard,http://source-streams.com:8081/afshin-91/27092019/33
+Evil Angel,http://source-streams.com:8081/afshin-91/27092019/34
+Erotic,http://source-streams.com:8081/afshin-91/27092019/35
+Erotic 2,http://source-streams.com:8081/afshin-91/27092019/36
+Erotic 3,http://source-streams.com:8081/afshin-91/27092019/37
+Erotic 4,http://source-streams.com:8081/afshin-91/27092019/38
+Erotic 5,http://source-streams.com:8081/afshin-91/27092019/39
+Erotic 6,http://source-streams.com:8081/afshin-91/27092019/40
+Erotic 7,http://source-streams.com:8081/afshin-91/27092019/41
+Erotic 8,http://source-streams.com:8081/afshin-91/27092019/42
+Bang U,http://source-streams.com:8081/afshin-91/27092019/43
+Шалун TV,http://source-streams.com:8081/afshin-91/27092019/44
+Шёлк TV,http://source-streams.com:8081/afshin-91/27092019/45
+Playboy,http://source-streams.com:8081/afshin-91/27092019/46
+Playboy Europe,http://source-streams.com:8081/afshin-91/27092019/47
+Blue Hustler,http://source-streams.com:8081/afshin-91/27092019/48
+Blue Hustler Europe,http://source-streams.com:8081/afshin-91/27092019/49
+Russian Night,http://source-streams.com:8081/afshin-91/27092019/50
+Barely Legal TV,http://source-streams.com:8081/afshin-91/27092019/51
+O la la TV,http://source-streams.com:8081/afshin-91/27092019/52
+French Lover TV,http://source-streams.com:8081/afshin-91/27092019/53
+Nuart TV,http://source-streams.com:8081/afshin-91/27092019/54
+Exxxotica TV,http://source-streams.com:8081/afshin-91/27092019/55
+Secret Circle TV,http://source-streams.com:8081/afshin-91/27092019/56
+Lust Pur TV,http://source-streams.com:8081/afshin-91/27092019/57
+Beate-Uhse.TV,http://source-streams.com:8081/afshin-91/27092019/58
+Pure Babes TV,http://source-streams.com:8081/afshin-91/27092019/59
+Pink O Club,http://source-streams.com:8081/afshin-91/27092019/60
+Pink O Club 2,http://source-streams.com:8081/afshin-91/27092019/61
+Cento X Cento,http://source-streams.com:8081/afshin-91/27092019/62
+Fantazzy TV,http://source-streams.com:8081/afshin-91/27092019/63
+Private Spice,http://source-streams.com:8081/afshin-91/27092019/64
+Sex Prive,http://source-streams.com:8081/afshin-91/27092019/65
+Leo TV,http://source-streams.com:8081/afshin-91/27092019/66
+Leo Gold TV,http://source-streams.com:8081/afshin-91/27092019/67
+Extasy HD,http://source-streams.com:8081/afshin-91/27092019/68
+Extasy 4K,http://source-streams.com:8081/afshin-91/27092019/69
+X1,http://source-streams.com:8081/afshin-91/27092019/70
+X Bizarre,http://source-streams.com:8081/afshin-91/27092019/71
+X Desire,http://source-streams.com:8081/afshin-91/27092019/72
+X Bunga Bunga,http://source-streams.com:8081/afshin-91/27092019/73
+Dream Porn HD,http://source-streams.com:8081/afshin-91/27092019/74
+Hot XXL HD,http://source-streams.com:8081/afshin-91/27092019/75
+Legal TV,http://source-streams.com:8081/afshin-91/27092019/76
+Naughty TV,http://source-streams.com:8081/afshin-91/27092019/77
+Balkan Erotic,http://source-streams.com:8081/afshin-91/27092019/78
+Net XxX,http://source-streams.com:8081/afshin-91/27092019/79
+Playhouse,http://source-streams.com:8081/afshin-91/27092019/80
+Hot Pleasure,http://source-streams.com:8081/afshin-91/27092019/81
+Milf TV,http://source-streams.com:8081/afshin-91/27092019/82
+Red XxX,http://source-streams.com:8081/afshin-91/27092019/83
+Extreme,http://source-streams.com:8081/afshin-91/27092019/84
+Emanuelle,http://source-streams.com:8081/afshin-91/27092019/85
+SeXation,http://source-streams.com:8081/afshin-91/27092019/86
+Free X TV HQ,http://source-streams.com:8081/afshin-91/27092019/87
+Red lıps,http://source-streams.com:8081/afshin-91/27092019/88
+X-MO,http://source-streams.com:8081/afshin-91/27092019/89
+Man-X,http://source-streams.com:8081/afshin-91/27092019/90
+Erox,http://source-streams.com:8081/afshin-91/27092019/91
+EroX XxX,http://source-streams.com:8081/afshin-91/27092019/92
+Adult Channel 1,http://source-streams.com:8081/afshin-91/27092019/93
+Adult Channel 2,http://source-streams.com:8081/afshin-91/27092019/94
+Adult Channel 3,http://source-streams.com:8081/afshin-91/27092019/95
+Adult Channel 4,http://source-streams.com:8081/afshin-91/27092019/96
+Adult Channel 5,http://source-streams.com:8081/afshin-91/27092019/97
+Adult Channel 6,http://source-streams.com:8081/afshin-91/27092019/98
+Adult Channel 7,http://source-streams.com:8081/afshin-91/27092019/99
+Xpanded TV,http://source-streams.com:8081/afshin-91/27092019/100
+Visit-X TV,http://source-streams.com:8081/afshin-91/27092019/101
+
+
+
+
+
+
+
+
+
+
+
+
 Adult Porn,#genre#
 
 Big Dick,http://ccdntp.xyz:80/claudio4800/991779964/150797
@@ -641,135 +1054,3 @@ Latin Leche Numero 180 Talking Bodies Emanuel e Rocco,http://limetv.me:80/movie/
 
 
 
-Trials,#genre#
-Food Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/55
-Global News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/51
-CTV News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/50
-Crave 1,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/57
-Crave 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/58
-Crave 3,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/59
-Crave 4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/60
-CBC News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
-USA Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
-TNT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/311
-TLC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/312
-TBS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/315
-YBN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/316
-SYFY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/317
-STARZ,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/325
-Paramount,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/326
-Showtime,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/329
-Oxygen,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/338
-OWN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/339
-Ovation,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/340
-Outdoor,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/342
-One America News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/343
-Nat Geo Wild,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/344
-Nat Geo USA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/345
-MTV2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/347
-MTV Live,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/348
-MSNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/350
-Investigation Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/360
-History Channel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/366
-History 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/367
-HGTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/368
-HBO ZOne,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/371
-HBO,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/373
-HBO Comedy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/375
-HBO 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/376
-FYI,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/384
-FXX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/385
-FUSE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/388
-FOX Business,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/389
-FOX Business,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/390
-E!,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/394
-Discovery Science,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/396
-Discovery Life,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/397
-Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/399
-Cooking Channeel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/404
-Comedy Central,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/406
-CNN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/407
-CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/408
-Cartoon Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/416
-Bravo,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/418
-BBC America,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/425
-Animal Planet,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/430
-ABC News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/430
-Al Jazeera,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/673
-Bloombeerg,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/695
-CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/719
-SKy News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/813
-DW News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41200
-Big Dick,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/64
-Teen,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/73
-Hardcore,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/74
-Threesome,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/76
-Russian,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/77
-Rough,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/79
-Gangbang,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/80
-Blonde,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/84
-Gay,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/85
-Cum,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42137
-
-Trials 2,#genre#
-TLC,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6674.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
-CBC News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6508.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
-CNBC,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6523.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
-CTV News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6549.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
-BBC World News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/3998.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
-
-Channel 4,http://91.224.190.66:4281/bysid/5249
-BBC One,http://91.224.190.66:4281/bysid/1204
-ITV1,http://91.224.190.66:4281/bysid/5109
-Channel 4,http://91.224.190.66:4281/bysid/5213
-CNBC HD,http://91.224.190.66:4281/bysid/5088
-
-AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501187
-AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501190
-BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501188
-BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501194
-PODEROSAS,http://suatv.fun:80/Davisony09876/87221187sony@/501193
-CINE ADULTO 2,http://suatv.fun:80/Davisony09876/87221187sony@/501201
-CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
-
-Trials 3,#genre#
-DW,http://176.57.50.167:25461/lancedfox/freetrial/5094
-BBC 1,http://176.57.50.167:25461/lancedfox/freetrial/12181
-BBC 2,http://176.57.50.167:25461/lancedfox/freetrial/12182
-BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/12195
-Bloomberg,http://176.57.50.167:25461/lancedfox/freetrial/12198
-Challenge,http://176.57.50.167:25461/lancedfox/freetrial/12209
-Channel 5,http://176.57.50.167:25461/lancedfox/freetrial/12211
-TLC,http://176.57.50.167:25461/lancedfox/freetrial/12313
-ABC News,http://176.57.50.167:25461/lancedfox/freetrial/21753
-BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/21755
-Bloomberg,http://176.57.50.167:25461/lancedfox/freetrial/21756
-CBS News,http://176.57.50.167:25461/lancedfox/freetrial/21759
-CNBC,http://176.57.50.167:25461/lancedfox/freetrial/21762
-CNBC World,http://176.57.50.167:25461/lancedfox/freetrial/21763
-CNN,http://176.57.50.167:25461/lancedfox/freetrial/21765
-Fox News,http://176.57.50.167:25461/lancedfox/freetrial/21768
-Fox Business,http://176.57.50.167:25461/lancedfox/freetrial/21769
-BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/21825
-CNBC,http://176.57.50.167:25461/lancedfox/freetrial/21870
-CNN,http://176.57.50.167:25461/lancedfox/freetrial/21871
-Global News,http://176.57.50.167:25461/lancedfox/freetrial/21927
-E!,http://176.57.50.167:25461/lancedfox/freetrial/22081
-HGTV,http://176.57.50.167:25461/lancedfox/freetrial/22101
-MTV,http://176.57.50.167:25461/lancedfox/freetrial/22120
-National Geographic,http://176.57.50.167:25461/lancedfox/freetrial/22123
-TLC,http://176.57.50.167:25461/lancedfox/freetrial/22157
-TLC,http://176.57.50.167:25461/lancedfox/freetrial/22158
-Brazzers,http://176.57.50.167:25461/lancedfox/freetrial/86409
-Classic Sex,http://176.57.50.167:25461/lancedfox/freetrial/86410
-Dorcel,http://176.57.50.167:25461/lancedfox/freetrial/86411
-Evil Angel,http://176.57.50.167:25461/lancedfox/freetrial/86412
-Evil Angel,http://176.57.50.167:25461/lancedfox/freetrial/86413
-HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86414
-HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86415
-HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86416
-HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86423
-Penthouse,http://176.57.50.167:25461/lancedfox/freetrial/86431
-Sensation,http://176.57.50.167:25461/lancedfox/freetrial/86464
-Sensation,http://176.57.50.167:25461/lancedfox/freetrial/86465
-Young Girls,http://176.57.50.167:25461/lancedfox/freetrial/86490
