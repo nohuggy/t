@@ -602,7 +602,7 @@ Young Girls,http://176.57.50.167:25461/lancedfox/freetrial/86490
 
 
 
-Trials 4,#genre#
+Trials 4断流,#genre#
 
 BBC One 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/843
 BBC Two 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/844
@@ -934,13 +934,505 @@ Erotic5,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/169758
 
 
 
-
-
-
-
-
-
 Trials 6,#genre#
+
+CITY TV TORONTO HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/48
+CTV NEWS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/50
+GLOBAL  HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/51
+TREEHOUSE HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/52
+GLOBAL TORONTO,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/53
+GLOBAL VANCOUVER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/54
+Food Network HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/55
+CRAVE 1 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/57
+CRAVE 2 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/58
+CRAVE 3 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/59
+CRAVE 4 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/60
+LIFETIME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/61
+
+
+W Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/231
+HGTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/232
+CBC OTTAWA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/234
+CBC News Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
+WORLD FISHING NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/301
+WE TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/303
+VICELAND,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/304
+VH1,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/305
+USA NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/306
+TVONE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/307
+TV LAND HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/308
+TRU TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/309
+TRAVEL CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/310
+TNT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/311
+TLC CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/312
+THE WEATHER CHANNEL HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/313
+TCM,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/314
+TBS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/315
+TBN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/316
+SYFY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/317
+SUNDANCE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/318
+STARZ KIDS & FAMILY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/319
+STARZ IN BLACK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/320
+STARZ ENCORE WESTERNS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/321
+STARZ ENCORE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/322
+STARZ EDGE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/323
+STARZ COMEDY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/324
+STARZ,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/325
+PARAMOUNT CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/326
+SMITHSONIAN CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/327
+SHOWTIME SHOWCASE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/328
+SHOWTIME HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/329
+SHOWTIME EXTREME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/330
+SHOWTIME 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/331
+REVOLT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/332
+REELZ,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/333
+QVC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/335
+PURSUIT CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/336
+POP,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/337
+OXYGEN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/338
+OWN NETWORK FHD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/339
+OVATION,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/340
+OUTSIDE TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/341
+OUTDOOR CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/342
+ONE AMERICA NEWS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/343
+NAT GEO WILD HD US,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/344
+NAT GEO USA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/345
+MY 9,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/346
+MTV2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/347
+MTV LIVE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/348
+MTV HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/349
+MSNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/350
+
+
+INVESTIGATION DISCOVERY HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/360
+IFC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/362
+HSN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/363
+HLN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/364
+HISTORY CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/366
+HISTORY 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/367
+HGTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/368
+HEROS & ICONS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/370
+HBO ZONE HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/371
+HBO SIGNATURE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/372
+HBO HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/373
+HBO FAMILY HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/374
+HBO COMEDY HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/375
+HBO 2 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/376
+HALLMARK MOVIES & MYSTERIES HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/377
+HALLMARK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/378
+HALLMARK DRAMA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/379
+GRIT TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/380
+GAME SHOW NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/382
+FYI NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/384
+FXX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/385
+FXM,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/386
+FX HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/387
+FUSE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/388
+FREEFORM HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/389
+FOX BUSINESS HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/390
+FOOD NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/391
+EPIX HITS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/392
+EPIX HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/393
+E!,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/394
+Magnolia /DIY NETWORK HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/395
+DISCOVERY SCIENCE HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/396
+DISCOVERY LIFE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/397
+DISCOVERY FAMILY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/398
+DISCOVERY CHANNEL HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/399
+DESTINATION AMERICA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/400
+CRIME AND INVESTIGATION,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/401
+COZI TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/402
+ACC NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/403
+COOKING CHANNEL HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/404
+COMET TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/405
+COMEDY CENTRAL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/406
+CNN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/407
+CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/408
+CMT HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/409
+CINEMAXX MORE MAXX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/410
+CINEMAX THRILLERMAX HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/411
+CINEMAX OUTER MAX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/412
+CINEMAX MOVIEMAX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/413
+CINEMAX EAST,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/414
+CINEMAX ACTION MAX EAST,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/415
+CARTOON NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/416
+BUZZER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/417
+BRAVO,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/418
+BOUNCE TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/419
+BOOMERANG,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/420
+BLOOMBERG,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/421
+BIG TEN NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/422
+BET HER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/423
+BET,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/424
+BBC AMERICA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/425
+BABY TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/426
+AXS TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/427
+AWE CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/428
+ANTENNA TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/429
+ANIMAL PLANET,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/430
+AMERICAN HEROES CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/431
+AMC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/432
+ABC NEWS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/434
+A&E,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/436
+SONY MOVIE CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/442
+
+UK 4SEVEN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/666
+UK 5 Star,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/667
+UK 5USA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/669
+UK Aaj Tak,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/670
+UK Aastha,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/671
+UK ABP News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/672
+UK AL JAZEERA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/673
+UK Alibi,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/675
+UK AMC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/676
+UK Animal Planet,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/677
+UK Ary Qtv,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/678
+UK Ary World,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/679
+UK At The Races,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/680
+UK B4U Movies,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/681
+UK B4U PLUS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/683
+UK BBC 1,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/685
+UK BBC 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/686
+UK BBC 3,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/687
+UK BBC Alba,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/688
+UK BBC Two Scotland,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/691
+UK BBC World News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/692
+UK Blaze,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/694
+UK Bloomberg,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/695
+UK C ITV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/707
+UK CBBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/710
+UK Challenge,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/715
+UK Channel 4 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/716
+UK Channel 5 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/717
+UK Chelsea TV HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/718
+UK CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/719
+UK CNN HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/720
+UK Colors Rishtey,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/722
+UK Colors TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/723
+UK Comedy Central HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/725
+UK Crime & Investigation HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/726
+UK Dave HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/727
+UK Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/728
+UK Discovery Science,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/730
+UK Discovery Turbo,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/731
+UK DMAX HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/733
+UK Drama,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/734
+UK E!,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/735
+UK E4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/736
+UK EDEN HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/737
+UK Film 4 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/742
+UK Fox,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/745
+UK Fox News HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/746
+UK Gold,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/749
+UK History HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/752
+UK Home,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/753
+UK Home Health,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/754
+UK HORROR CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/755
+UK Investigation Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/758
+UK ITVBE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/762
+UK LFC TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/763
+UK LIFETIME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/765
+UK More 4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/767
+UK MTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/769
+UK MTV Base,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/770
+UK MUTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/778
+UK Nat Geo,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/779
+UK Nat Geo Wild,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/780
+UK PICK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/786
+UK Quest,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/788
+UK Really,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/790
+UK RTE 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/792
+UK RTE Junior,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/794
+UK RTE News Now,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/795
+UK RTE One,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/796
+UK S4C,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/797
+UK SKY 1 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/799
+UK Sky Arts,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/800
+UK Sky Atlantic,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/801
+UK Sky Cinema Action & Adventure,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/802
+UK Sky Cinema Comedy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/803
+UK Sky Cinema Drama,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/804
+UK Sky Cinema Family,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/805
+UK Sky Cinema Hits,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/807
+UK Sky Cinema Premier,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/808
+UK Sky Cinema Scifi & Horror,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/809
+UK Sky Cinema Select,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/810
+UK Sky Cinema Thriller,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/811
+UK Sky Nature,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/812
+UK Sky News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/813
+UK Sky One,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/814
+UK Sky Two,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/827
+UK Sky Witness,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/828
+UK Sony Channel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/829
+UK Sony Movies,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/830
+UK Sony Movies Action,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/831
+UK Star Bharat,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/832
+UK Star Gold,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/833
+UK Star Plus,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/834
+UK STV HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/835
+UK Syfy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/836
+UK TCM HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/838
+UK TG4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/839
+UK Tiny Pop,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/840
+UK TLC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/841
+UK Travel Channel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/842
+UK True Drama,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/843
+UK True Entertainment,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/844
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AdultIPTV.net Live Cams,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/62
+AdultIPTV.net MILF,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/63
+AdultIPTV.net Big Dick,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/64
+AdultIPTV.net Big Tits,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/65
+AdultIPTV.net Fetish,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/66
+AdultIPTV.net Pornstar,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/67
+AdultIPTV.net Big Ass,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/68
+AdultIPTV.net Interracial,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/69
+AdultIPTV.net Latina,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/70
+AdultIPTV.net POV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/71
+AdultIPTV.net Blowjob,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/72
+AdultIPTV.net Teen,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/73
+AdultIPTV.net Hardcore,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/74
+AdultIPTV.net Cuckold,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/75
+AdultIPTV.net Threesome,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/76
+AdultIPTV.net Russian,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/77
+AdultIPTV.net Rough,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/79
+AdultIPTV.net Gangbang,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/80
+AdultIPTV.net Anal,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/81
+AdultIPTV.net Compilation,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/82
+AdultIPTV.net Brunette,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/83
+AdultIPTV.net Blonde,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/84
+AdultIPTV.net Gay,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/85
+AdultIPTV.net Asian,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/86
+BJ 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41795
+Reality Kings Short,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41796
+
+
+
+Shorts,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41820
+Shorts,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41822
+Steam,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41823
+Jeanie With A Bottle,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41824
+Anal Short,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41825
+DogFS Short,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41826
+Hookup Hotshot,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41827
+POV Team Skeet,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41828
+HardX Short,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41829
+BJ,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41830
+Milfed Realtors,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41831
+Fucking Glasses,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41832
+Something Barrowed,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41833
+Sex Romp,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41834
+Porn Dude Casting,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41835
+Bondage,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41836
+Your Eyes On Me,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41837
+Facials,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41838
+Good Bye Hank,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41839
+The BJ Experience,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41840
+Family Therapy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41841
+Pinko,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41842
+Juicy Milf,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41843
+Sexy Susi,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41844
+Sexy Housewife
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41845
+Nympho Nurses,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41846
+Perfect Touch,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41847
+Juicy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42060
+Venus Latino,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42071
+Adult -- 29,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42072
+Pink Erotik 5,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42073
+
+XXX ADULT DUSK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42045
+XXX HARDCORE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42046
+XXX BABES,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42047
+XXX JASMINE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42048
+XXX BRAZZERS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42049
+XXX HOT TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42050
+XXX VIVID RED,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42051
+XXX DORCEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42052
+XXX SEXY HOT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42053
+XXX OMG!,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42054
+
+
+
+Adult -- 3,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42055
+Adult -- 4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42056
+Adult -- 5,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42057
+Adult -- 10,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42058
+Adult -- 11,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42059
+Adult -- 13,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42061
+Adult -- 15,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42062
+Adult -- 16,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42063
+Adult -- 19,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42064
+Adult -- 20,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42065
+Adult -- 22,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42066
+Adult -- 23,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42067
+Adult -- 24,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42068
+Adult -- 26,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42069
+Adult -- 27,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42070
+
+
+
+
+XXX: ADULT FUN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42121
+MX: Penthouse Latino,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42122
+MX: Playboy Latino,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42123
+MX: Sextreme Latino,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42124
+XXX: Xtsy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42115
+XXX: WTF PASS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42074
+Pink Erotik 7,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42075
+Pink Erotik 8,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42076
+XXX: BLUE HUSTLER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42077
+XXX: TBB 1,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42078
+XXX: TBB 3,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42079
+XXX: TBB 4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42080
+XXX: TBB 5,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42081
+XXX: TBB 6,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42082
+XXX: TBB 7,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42083
+XXX: TBB 8,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42084
+XXX: TBB 9,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42085
+XXX: TBB 10,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42086
+
+XXX: TBB 13,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42089
+XXX: TBB 14,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42090
+XXX: TBB 15,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42091
+XXX: TBB 16,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42092
+XXX: TBB 17,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42093
+XXX: TBB 18,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42094
+XXX: TBB 19,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42095
+XXX: TBB 20,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42096
+XXX: TBB 21,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42097
+XXX: TBB 22,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42098
+XXX: TBB 23,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42099
+XXX: TBB 24,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42100
+XXX: TBB 25,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42101
+XXX: TBB 26,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42102
+XXX: TBB 27,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42103
+XXX: TBB 28,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42104
+XXX: TBB 29,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42105
+XXX: TBB 30,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42106
+XXX: TBB 31,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42107
+XXX: TBB 32,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42108
+XXX: TBB 33,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42109
+XXX: TBB 34,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42110
+XXX: TBB 36,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42111
+XXX: TBB 37,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42112
+XXX: TBB 38,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42113
+XXX: TBB 40,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42114
+
+XXX: TBB 42,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42116
+XXX: TBB 43,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42117
+XXX: TBB 44,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42118
+XXX: TBB 45,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42119
+XXX: TBB 46,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42120
+
+
+
+
+
+PORNBOX: ASMR FANTASY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42125
+PORNBOX: BABES,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42126
+PORNBOX: BABES UNLEASHED,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42127
+PORNBOX: BABESALICIOUS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42128
+PORNBOX: BAD DADDY POV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42129
+PORNBOX: BANGBUS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42130
+PORNBOX: BELLESA FILMS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42131
+PORNBOX: BIG NATURALS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42132
+PORNBOX: BLACKED,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42133
+PORNBOX: BLACKED RAW,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42134
+PORNBOX: BRATTY SIS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42135
+PORNBOX: BRAZZERS EN ESPANOL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42136
+PORNBOX: CUM 4K,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42137
+PORNBOX: CUM FIESTA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42138
+PORNBOX: DAUGHTER SWAP,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42139
+PORNBOX: DEEPER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42140
+PORNBOX: DIGITAL PLAYGROUND,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42141
+PORNBOX: EROTIC SPICE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42142
+PORNBOX: EXXXTRA SMALL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42143
+PORNBOX: FAKE AGENT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42144
+PORNBOX: FAKE AGENT UK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42145
+PORNBOX: FAKE COP,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42146
+PORNBOX: FAKE DRIVING SCHOOL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42147
+PORNBOX: FAKE HOSPITAL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42148
+PORNBOX: FAKE HOSTEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42149
+PORNBOX: FAKE TAXI,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42150
+PORNBOX: FAMILY STROKES,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42151
+PORNBOX: FEMALE AGENT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42152
+PORNBOX: FEMALE FAKE TAXI,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42153
+PORNBOX: FORGIVE ME FATHER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42154
+PORNBOX: GF REGENVE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42155
+PORNBOX: I KNOW THAT GIRL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42156
+PORNBOX: JAYS POV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42157
+PORNBOX: LETS DO IT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42158
+PORNBOX: LIFE SELECTOR,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42159
+PORNBOX: LOVE HER ASS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42160
+PORNBOX: MIKES APARTMENT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42161
+PORNBOX: MILE HIGH,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42162
+PORNBOX: MOFOS B SIDES,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42163
+PORNBOX: MOFOS LAB,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42164
+PORNBOX: MOM TEACH SEX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42165
+PORNBOX: MONEY TALKS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42166
+PORNBOX: MY DIRT HOBBY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42167
+PORNBOX: MY FRIENDS HOT MOM,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42168
+PORNBOX: MY PERVY FAMILY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42169
+PORNBOX: MY VERY FIRST TIME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42170
+PORNBOX: MYLF,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42171
+PORNBOX: NANNY SPY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42172
+PORNBOX: NF BUSTY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42173
+PORNBOX: NUBILE FILMS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42174
+PORNBOX: PERV MOM,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42175
+PORNBOX: PERVS ON PATROL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42176
+PORNBOX: PORNO ACADEMIE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42177
+PORNBOX: POVD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42178
+PORNBOX: PRESTIGE JAPAN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42179
+PORNBOX: PRETTY DIRTY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42180
+PORNBOX: PRIVATE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42181
+PORNBOX: PROPERTY SEX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42182
+PORNBOX: PUBLIC AGENT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42183
+PORNBOX: PUBLIC PICKUPS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42184
+PORNBOX: PURE18,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42185
+PORNBOX: RAW ATTACK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42186
+PORNBOX: REAL EX GIRLFRIENDS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42187
+PORNBOX: REAL SENSUAL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42188
+PORNBOX: RK PRIME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42189
+PORNBOX: SELL YOUR GF,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42190
+PORNBOX: SEX WORKING,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42191
+PORNBOX: SHARE MY BF,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42192
+PORNBOX: SIS LOVES ME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42193
+PORNBOX: STEP MOM LESSONS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42194
+PORNBOX: SWALLOW SALON,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42195
+PORNBOX: THE INNOCENCE OF YOUTH,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42196
+PORNBOX: TINY 4K,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42197
+PORNBOX: TURNING TWISTYS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42198
+PORNBOX: TUSHY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42199
+PORNBOX: TWISTYS ORIGINAL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42200
+PORNBOX: VIXEN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42201
+PORNBOX: WE LIVE TOGETHER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42202
+PORNBOX: WHEN GIRLS PLAY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42203
+
+
+
+
+
+
+
+
+
+
+
+Trials 7,#genre#
 Hustler HD,http://source-streams.com:8081/afshin-91/27092019/1
 Redlight HD,http://source-streams.com:8081/afshin-91/27092019/2
 Prıvate TV HD,http://source-streams.com:8081/afshin-91/27092019/3
