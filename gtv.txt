@@ -461,75 +461,337 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
 
 
-Trials,#genre#
-Food Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/55
-Global News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/51
-CTV News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/50
-Crave 1,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/57
-Crave 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/58
-Crave 3,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/59
-Crave 4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/60
-CBC News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
-USA Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
-TNT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/311
-TLC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/312
-TBS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/315
-YBN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/316
-SYFY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/317
-STARZ,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/325
-Paramount,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/326
-Showtime,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/329
-Oxygen,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/338
-OWN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/339
-Ovation,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/340
-Outdoor,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/342
-One America News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/343
-Nat Geo Wild,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/344
-Nat Geo USA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/345
-MTV2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/347
-MTV Live,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/348
-MSNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/350
-Investigation Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/360
-History Channel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/366
-History 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/367
-HGTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/368
-HBO ZOne,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/371
-HBO,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/373
-HBO Comedy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/375
-HBO 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/376
-FYI,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/384
-FXX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/385
-FUSE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/388
-FOX Business,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/389
-FOX Business,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/390
-E!,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/394
-Discovery Science,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/396
-Discovery Life,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/397
-Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/399
-Cooking Channeel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/404
-Comedy Central,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/406
-CNN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/407
-CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/408
-Cartoon Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/416
-Bravo,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/418
-BBC America,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/425
-Animal Planet,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/430
-ABC News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/430
-Al Jazeera,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/673
-Bloombeerg,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/695
-CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/719
-SKy News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/813
-DW News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41200
-Big Dick,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/64
-Teen,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/73
-Hardcore,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/74
-Threesome,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/76
-Russian,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/77
-Rough,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/79
-Gangbang,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/80
-Blonde,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/84
-Gay,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/85
-Cum,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42137
+Trials断流,#genre#
+
+
+ITV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212309
+ITV 1,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104026
+ITV 2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104028
+ITV 3,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16111
+ITV 4,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/35156
+ITV BE,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16115
+BBC 1,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16133
+BBC 2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16135
+BBC 3,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16137
+ext,➤ News,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/225863
+BBC News,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104180
+BBC World News,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16301
+CNN,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212248
+CNN International,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212249
+NHK World,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212336
+Euronews,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16303
+Al Jazeera English,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212203
+ext,➤ Music,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/225861
+MTV 80s,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212329
+MTV 90s,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212330
+MTV Classic,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16320
+MTV Hits,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212331
+MTV Music,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212332
+Now 80s,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212341
+Now 90s,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212342
+Trace Hits,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212407
+ext,➤ Films,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/225859
+Drama,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212265
+AMC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16178
+SyFy,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104238
+Comedy Central,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104188
+Gold,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212287
+5 Star,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16172
+5 USA,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212197
+Film 4,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104155
+Tru TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16130
+Utsav Plus,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212417
+Horror Channel,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212296
+ext,➤ Entertainment,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/225858
+E!,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212266
+Food Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212279
+Home And Health,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104161
+Paramount Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212343
+Comedy Central Extra,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104187
+5 Select,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16131
+Dave,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212258
+E4,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16126
+Channel 4,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104009
+TCM,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212398
+DMax,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212264
+4Seven,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16125
+TLC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212405
+LifeTime,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16270
+CBS Justice,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16191
+CBS Reality,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212240
+Asia Sony TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104074
+ext,➤ Kids,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/225860
+BBC CBeebies,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16204
+Boomerang TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16195
+Disney Junior,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104147
+Cartoon Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212236
+Cartoonito,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16203
+CITV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212245
+CBBC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212237
+Baby TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212207
+Nickelodeon,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212338
+Nicktoons,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212339
+Nick Jr,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16199
+POP,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212347
+POP Max,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212349
+Tiny Pop,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16205
+Channel 5,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16118
+ext,➤ EDU and DOC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/225857
+Discovery Channel,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/104193
+Discovery Science,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16284
+Discovery History,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16289
+Discovery Turbo,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16285
+National Geographic,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16280
+Nat Geo Wild,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16281
+Love Nature,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212322
+Animal Planet,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16277
+Horse and Country TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212298
+More 4,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16128
+CGTN Documentary,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212241
+PBS America,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212344
+Travel Channel,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212410
+Travel XP,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212411
+ext,➤ Investigation,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/226048
+Discovery Investigation,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212302
+Crime and Investigation,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212256
+STV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212393
+Alibi,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212204
+Blaze,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16271
+Quest,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16132
+Really TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16182
+Watch TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16184
+Quest Red,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/212351
+Food Network HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/207164
+CBC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213669
+Global HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213671
+Yes TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135349
+CHCH,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213663
+ABC HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32053
+ext,➤ News,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/225909
+CP24,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/31986
+BNN Bloomberg,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213676
+Canada One,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213588
+Global News,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213685
+ext,➤ Regional,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/226046
+CBC News,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213668
+CITY Toronto,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213694
+CITY Vancouver,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213688
+CTV HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213697
+ICI Télé Montreal,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135356
+TV Ontario,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213646
+TVA Montréal,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135289
+ext,➤ Music,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/225907
+MTV 2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/224468
+ext,➤ Films,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/225905
+Showcase,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/77831
+AMC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/77854
+HBO,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32011
+HBO 2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/77837
+Crave 1,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213609
+Crave 2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213608
+Crave 3,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213607
+Crave 4,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213606
+DeJaView,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/77845
+MovieTime,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213618
+Paramount Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135336
+Silver Screen Classics,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213633
+Super Channel H and H,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213581
+ext,➤ Entertainment,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/225903
+E! HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135308
+ABC Spark,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/31959
+Cooking Channel,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/77847
+Food Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32009
+CMT,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/77848
+TLC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135340
+FX HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32037
+FXX,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135313
+HGTV Canada,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32012
+Game TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213601
+Vision,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213654
+HLN,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135324
+Smithsonian,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213632
+Slice,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32026
+A and E,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/77855
+OLN,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/77832
+GSN,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213599
+WGN,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135348
+Omni 1,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32022
+Omni 2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32051
+LifeTime,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/77835
+Peach Tree,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213656
+Cottage Life,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/31985
+Magnolia Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213639
+Game Show Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213657
+ext,➤ EDU and DOC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/225902
+Animal Planet,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/77853
+Crime Investigation,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213605
+Discovery Channel,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213640
+Discovery Science,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32006
+Travel+ Escape,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213570
+Nat Geo Wild,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213658
+Wild TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213653
+Dtour,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/77842
+H2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/213597
+Adult Swim,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135310
+Al Jazeera,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/149114
+AMC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/191692
+American Heroes,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32229
+Animal Planet,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/149198
+Antenna TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32231
+AWE,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/149143
+AXS TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/191720
+Baby TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208670
+BBC America,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32237
+Bet East,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/15861
+Bet Her,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32214
+Bet Jams,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32216
+Bet Soul,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32217
+Big Ten Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32240
+Bloomberg,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208671
+Boomerang,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32158
+Bravo,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208672
+Buzzr,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208673
+C-Span,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205817
+Cartoon Network East,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/159863
+CBS News,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/68035
+Cheddar News,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208676
+CMC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208679
+CMT HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32204
+CNBC World,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208680
+CNN,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/69284
+Comedy Сentral,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32195
+Comet TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208681
+CON TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208682
+Cooking Channel,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208683
+Court TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208684
+CW,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/191732
+Destination America,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208686
+Discovery Channel,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32344
+Discovery Family,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/159811
+Discovery Life,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/68043
+Discovery Science,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32348
+Disney Channel HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32162
+Disney JR East,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32164
+Disney XD West,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32163
+E! Entertainment,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208688
+Eleven Sports Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205823
+Epix,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208689
+Epix 2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208690
+Epix Drive In,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208691
+Epix Hits,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32263
+Food Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208694
+Freeform Channel,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32208
+Fuse,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208697
+FX,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208698
+FXX,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32309
+FYI,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32310
+Game Show Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208699
+Great American Country,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208702
+Grit TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/191706
+H2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208703
+Hallmark Drama,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32127
+Hallmark Movies Mysteries,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32128
+HBO 2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32130
+HBO Comedy,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32132
+HBO,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32129
+HBO Family,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32135
+HBO Latino,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16012
+HBO Signature,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/27728
+HBO Zone,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/65111
+Heroes And Icons,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208704
+HGTV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32315
+History Channel,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208705
+HLN,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32317
+Discovery Investigation,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/159853
+IFC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208708
+Ion TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208711
+LifeTime,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208714
+Lifetime Movie Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/159794
+Logo,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208715
+Longhorn Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/28405
+Me TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208718
+MLB Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/28476
+Motor Trend,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32332
+MSNBC HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32201
+MTV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/191700
+MTV 2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/191701
+MTV Classic,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/149153
+National Geographic,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/159745
+Nat Geo Wild,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32340
+NBCSN,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208720
+NESN Plus,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/68062
+Newsmax TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208725
+NewsY,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208727
+NFL Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/43496
+NICK JR,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/159756
+Nick Music,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/159852
+Nickelodeon,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32166
+Nicktoons,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32167
+One America News,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208729
+Outdoor Channel HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32364
+Outside TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208730
+Ovation,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208731
+OWN HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32367
+PAC-12 Arizona,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/20923
+PAC-12 Bay Area,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/18007
+PAC-12 Los Angeles,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/17899
+PAC-12 Mountain,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/17894
+PAC-12 Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/17528
+PAC-12 Oregon,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16331
+PAC-12 Washington,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16315
+Paramount Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208732
+PBS Kids,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/43497
+POP,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32377
+Pursuit Channel,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208736
+Revolt,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208741
+RFD TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208742
+SEC Network,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208744
+Showtime West,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135311
+Showtime 2,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/135312
+Showtime Extreme,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32153
+Showtime Family Zone,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/158682
+Showtime Next,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32467
+Showtime Showcase,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32468
+Showtime Women,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/159873
+Smithsonian,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/208745
+Sportsnet NYC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32390
+Stadium HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/16263
+Starz Cinema,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32137
+Starz Comedy,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32138
+Starz East,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/39453
+Starz Edge,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/79697
+Starz Encore,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32149
+Starz Encore Action,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/159925
+Starz Encore Classic,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32141
+Starz Encore Family,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/159766
+Starz Encore Suspense,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32143
+Starz Encore Westerns,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32140
+Starz West,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/159773
+Sundance TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205831
+SyFy HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32402
+Tastemade,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205832
+TBS,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205834
+TCM,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205835
+Discovery Velocity,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205836
+TLC,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205837
+TNT,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205839
+Travel Channel,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32349
+Tru TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205840
+TV Land,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32412
+TVG,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205842
+Unimas,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/149132
+Universal Kids,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32168
+VH1,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205843
+Viceland HD,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/32207
+WE TV,http://star8iptv.com:2082/JureJurcevic/JMPYxrM59rUR/205844
+
+
+
+
+
+
+
+
 
 Trials 2,#genre#
 TLC,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6674.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
@@ -557,47 +819,167 @@ CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
 
 
 Trials 3,#genre#
-DW,http://176.57.50.167:25461/lancedfox/freetrial/5094
-BBC 1,http://176.57.50.167:25461/lancedfox/freetrial/12181
-BBC 2,http://176.57.50.167:25461/lancedfox/freetrial/12182
-BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/12195
-Bloomberg,http://176.57.50.167:25461/lancedfox/freetrial/12198
-Challenge,http://176.57.50.167:25461/lancedfox/freetrial/12209
-Channel 5,http://176.57.50.167:25461/lancedfox/freetrial/12211
-TLC,http://176.57.50.167:25461/lancedfox/freetrial/12313
-ABC News,http://176.57.50.167:25461/lancedfox/freetrial/21753
-BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/21755
-Bloomberg,http://176.57.50.167:25461/lancedfox/freetrial/21756
-CBS News,http://176.57.50.167:25461/lancedfox/freetrial/21759
-CNBC,http://176.57.50.167:25461/lancedfox/freetrial/21762
-CNBC World,http://176.57.50.167:25461/lancedfox/freetrial/21763
-CNN,http://176.57.50.167:25461/lancedfox/freetrial/21765
-Fox News,http://176.57.50.167:25461/lancedfox/freetrial/21768
-Fox Business,http://176.57.50.167:25461/lancedfox/freetrial/21769
-BBC World News,http://176.57.50.167:25461/lancedfox/freetrial/21825
-CNBC,http://176.57.50.167:25461/lancedfox/freetrial/21870
-CNN,http://176.57.50.167:25461/lancedfox/freetrial/21871
-Global News,http://176.57.50.167:25461/lancedfox/freetrial/21927
-E!,http://176.57.50.167:25461/lancedfox/freetrial/22081
-HGTV,http://176.57.50.167:25461/lancedfox/freetrial/22101
-MTV,http://176.57.50.167:25461/lancedfox/freetrial/22120
-National Geographic,http://176.57.50.167:25461/lancedfox/freetrial/22123
-TLC,http://176.57.50.167:25461/lancedfox/freetrial/22157
-TLC,http://176.57.50.167:25461/lancedfox/freetrial/22158
-Brazzers,http://176.57.50.167:25461/lancedfox/freetrial/86409
-Classic Sex,http://176.57.50.167:25461/lancedfox/freetrial/86410
-Dorcel,http://176.57.50.167:25461/lancedfox/freetrial/86411
-Evil Angel,http://176.57.50.167:25461/lancedfox/freetrial/86412
-Evil Angel,http://176.57.50.167:25461/lancedfox/freetrial/86413
-HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86414
-HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86415
-HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86416
-HotClub,http://176.57.50.167:25461/lancedfox/freetrial/86423
-Penthouse,http://176.57.50.167:25461/lancedfox/freetrial/86431
-Sensation,http://176.57.50.167:25461/lancedfox/freetrial/86464
-Sensation,http://176.57.50.167:25461/lancedfox/freetrial/86465
-Young Girls,http://176.57.50.167:25461/lancedfox/freetrial/86490
 
+BBC ONE FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1430
+CHANNEL 5 FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1436
+COMEDY CENTRAL,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1437
+DAVE FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1438
+DISCOVERY FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1439
+DISCOVERY,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1440
+DISCOVERY SCIENCE,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1441
+DISCOVERY TURBO,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1443
+GOLD FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1447
+HISTORY,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1448
+INVESTIGATION DISCOVERY HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1449
+ITV1 FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1450
+ITV2,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1451
+ITV3,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1452
+ITV4,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1453
+NATIONAL GEOGRAPHIC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1454
+PREMIER SPORTS 1 FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1455
+SKY CI ACTION FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1459
+SKY CI COMEDY FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1460
+SKY CI DISNEY FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1461
+SKY CI DRAMA &amp; ROMANCE FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1462
+SKY CI FAMILY FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1463
+SKY CI HITS FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1464
+SKY CI PREMIER FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1465
+SKY CI SCI-FI &amp; HORROR FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1466
+SKY CI SELECT FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1467
+SKY CI THRILLER FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1468
+SKY SP ACTION FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1469
+SKY SP ARENA FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1470
+SKY SP CRICKET FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1471
+SKY SP FOOTBALL FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1473
+SKY SP MAIN EVENT FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1475
+SKY SP MIX FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1476
+SKY SP NEWS FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1477
+SKY SP PREMIER LEAGUE FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1478
+SKY SP RACING FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1479
+SKY ONE FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1480
+SKY WITNESS FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1482
+TCM,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1483
+TLC FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1484
+BBC Two HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2017
+SYFY,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/3305
+ANIMAL PLANET,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/3306
+CBBC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/3528
+Channel 4 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/3539
+Great! Movies Christmas,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/70445
+FOOD NETWORK HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1089
+FIGHT NETWORK,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1090
+E! CANADA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1091
+DTOUR HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1092
+DIY NETWORK HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1093
+DISCOVERY CANADA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1094
+CTV SCI-FI HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1095
+CTV DRAMA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1097
+CTV COMEDY HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1098
+CRIME &amp; INVESTIGATION,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1099
+CP24 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1100
+CMT CANADA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1101
+CHCH HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1103
+AMC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1108
+ADULT SWIM HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1109
+ABC SPARK HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1110
+A&amp;E,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1111
+GAME TV HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1113
+FYI HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1114
+FX HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1115
+FXX HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1116
+MAKEFUL,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1118
+LIFETIME HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1119
+HISTORY HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1122
+HGTV CANADA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1123
+SLICE,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1125
+SHOWCASE HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1126
+PBS HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1127
+OWN,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1128
+NAT GEO WILD HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1131
+NAT GEO HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1132
+MOVIETIME HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1133
+YES NETWORK HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1134
+W NETWORK EAST,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1135
+TVA MONTREAL HD (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1138
+ext,CA-F: TV5 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1139
+TCM,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1140
+TLC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1142
+GLOBAL HALIFAX,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2023
+GLOBAL TORONTO,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2025
+GLOBAL VANCOUVER,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2026
+CBC,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2027
+CBC OTTAWA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2037
+CBC TORONTO,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2039
+CITY TV TORONTO HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2046
+CITY VANCOUVER,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2047
+CRAVE 1 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2048
+CRAVE 2 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2049
+CRAVE 4 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2051
+CTV 2 VANCOUVER,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2052
+CTV HALIFAX,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2054
+CTV SI FI,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2059
+CTV TORONTO,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2060
+CTV VANCOUVER,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2061
+CTV2 OTTAWA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2062
+SUPER ECRAN 2,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2089
+SUPER ECRAN 4,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2091
+ext,CA : APTN,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/62043
+ICI MONTREAL (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2082
+CRAVE 3,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64391
+RDS (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64720
+RDS 2 (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64721
+RDS INFO (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64722
+ext,CA:CANAL D (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64723
+ext,CA:CINE POP (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64724
+ext,CA:DISNEY (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64725
+ext,CA:EVASION (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64726
+HISTORIA (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64727
+ICI VANCOUVER (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64728
+METEO (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64729
+MOI ET CIE (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64730
+ext,CA:PRISE (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64731
+ext,CA:TELE QUEBEC (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64733
+ext,CA:TVA SPORTS (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64734
+ext,CA:VIE (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64735
+ext,CA:VRAK TV (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64736
+ext,CA:Z TELE (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64737
+ext,CA:ZESTE (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64738
+YTV,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64927
+CTV News Channel HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65298
+CPAC French,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65299
+CPAC English,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65300
+CHRGD HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65302
+CBC St. John,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65303
+Cartoon Network,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65305
+BNN Bloomberg HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65307
+ICI RDI HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65308
+HLN,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65310
+Golf Channel HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65311
+Peachtree TV HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65312
+OMNI2 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65313
+OMNI1 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65314
+OLN HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65315
+MTV HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65317
+TV Ontario HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65318
+TSC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65319
+Treehouse HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65320
+TELETOON HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65321
+LCN,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65974
+MAX,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65975
+CASA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65976
+Prise 2,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65977
+YOOPA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65978
+Addik TV,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65979
+Noovo,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65984
+ICI TELE,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65986
+Dejaview,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65987
+City Montreal,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65988
+OUT TV,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65989
+Cottage Life,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65990
+Global TV,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65991
+Global News,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65992
+CTV 2 Toronto,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65993
+Heart & Home,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65994
 
 
 
@@ -936,248 +1318,92 @@ Erotic5,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/169758
 
 Trials 6,#genre#
 
-CITY TV TORONTO HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/48
-CTV NEWS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/50
-GLOBAL  HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/51
-TREEHOUSE HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/52
-GLOBAL TORONTO,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/53
-GLOBAL VANCOUVER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/54
-Food Network HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/55
-CRAVE 1 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/57
-CRAVE 2 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/58
-CRAVE 3 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/59
-CRAVE 4 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/60
-LIFETIME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/61
-
-
-W Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/231
-HGTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/232
-CBC OTTAWA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/234
-CBC News Network,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/236
-WORLD FISHING NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/301
-WE TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/303
-VICELAND,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/304
-VH1,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/305
-USA NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/306
-TVONE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/307
-TV LAND HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/308
-TRU TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/309
-TRAVEL CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/310
-TNT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/311
-TLC CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/312
-THE WEATHER CHANNEL HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/313
-TCM,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/314
-TBS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/315
-TBN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/316
-SYFY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/317
-SUNDANCE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/318
-STARZ KIDS & FAMILY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/319
-STARZ IN BLACK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/320
-STARZ ENCORE WESTERNS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/321
-STARZ ENCORE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/322
-STARZ EDGE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/323
-STARZ COMEDY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/324
-STARZ,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/325
-PARAMOUNT CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/326
-SMITHSONIAN CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/327
-SHOWTIME SHOWCASE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/328
-SHOWTIME HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/329
-SHOWTIME EXTREME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/330
-SHOWTIME 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/331
-REVOLT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/332
-REELZ,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/333
-QVC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/335
-PURSUIT CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/336
-POP,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/337
-OXYGEN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/338
-OWN NETWORK FHD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/339
-OVATION,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/340
-OUTSIDE TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/341
-OUTDOOR CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/342
-ONE AMERICA NEWS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/343
-NAT GEO WILD HD US,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/344
-NAT GEO USA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/345
-MY 9,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/346
-MTV2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/347
-MTV LIVE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/348
-MTV HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/349
-MSNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/350
-
-
-INVESTIGATION DISCOVERY HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/360
-IFC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/362
-HSN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/363
-HLN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/364
-HISTORY CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/366
-HISTORY 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/367
-HGTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/368
-HEROS & ICONS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/370
-HBO ZONE HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/371
-HBO SIGNATURE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/372
-HBO HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/373
-HBO FAMILY HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/374
-HBO COMEDY HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/375
-HBO 2 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/376
-HALLMARK MOVIES & MYSTERIES HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/377
-HALLMARK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/378
-HALLMARK DRAMA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/379
-GRIT TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/380
-GAME SHOW NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/382
-FYI NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/384
-FXX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/385
-FXM,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/386
-FX HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/387
-FUSE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/388
-FREEFORM HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/389
-FOX BUSINESS HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/390
-FOOD NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/391
-EPIX HITS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/392
-EPIX HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/393
-E!,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/394
-Magnolia /DIY NETWORK HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/395
-DISCOVERY SCIENCE HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/396
-DISCOVERY LIFE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/397
-DISCOVERY FAMILY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/398
-DISCOVERY CHANNEL HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/399
-DESTINATION AMERICA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/400
-CRIME AND INVESTIGATION,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/401
-COZI TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/402
-ACC NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/403
-COOKING CHANNEL HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/404
-COMET TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/405
-COMEDY CENTRAL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/406
-CNN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/407
-CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/408
-CMT HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/409
-CINEMAXX MORE MAXX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/410
-CINEMAX THRILLERMAX HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/411
-CINEMAX OUTER MAX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/412
-CINEMAX MOVIEMAX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/413
-CINEMAX EAST,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/414
-CINEMAX ACTION MAX EAST,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/415
-CARTOON NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/416
-BUZZER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/417
-BRAVO,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/418
-BOUNCE TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/419
-BOOMERANG,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/420
-BLOOMBERG,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/421
-BIG TEN NETWORK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/422
-BET HER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/423
-BET,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/424
-BBC AMERICA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/425
-BABY TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/426
-AXS TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/427
-AWE CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/428
-ANTENNA TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/429
-ANIMAL PLANET,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/430
-AMERICAN HEROES CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/431
-AMC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/432
-ABC NEWS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/434
-A&E,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/436
-SONY MOVIE CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/442
-
-UK 4SEVEN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/666
-UK 5 Star,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/667
-UK 5USA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/669
-UK Aaj Tak,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/670
-UK Aastha,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/671
-UK ABP News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/672
-UK AL JAZEERA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/673
-UK Alibi,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/675
-UK AMC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/676
-UK Animal Planet,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/677
-UK Ary Qtv,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/678
-UK Ary World,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/679
-UK At The Races,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/680
-UK B4U Movies,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/681
-UK B4U PLUS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/683
-UK BBC 1,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/685
-UK BBC 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/686
-UK BBC 3,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/687
-UK BBC Alba,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/688
-UK BBC Two Scotland,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/691
-UK BBC World News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/692
-UK Blaze,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/694
-UK Bloomberg,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/695
-UK C ITV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/707
-UK CBBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/710
-UK Challenge,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/715
-UK Channel 4 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/716
-UK Channel 5 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/717
-UK Chelsea TV HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/718
-UK CNBC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/719
-UK CNN HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/720
-UK Colors Rishtey,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/722
-UK Colors TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/723
-UK Comedy Central HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/725
-UK Crime & Investigation HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/726
-UK Dave HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/727
-UK Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/728
-UK Discovery Science,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/730
-UK Discovery Turbo,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/731
-UK DMAX HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/733
-UK Drama,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/734
-UK E!,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/735
-UK E4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/736
-UK EDEN HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/737
-UK Film 4 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/742
-UK Fox,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/745
-UK Fox News HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/746
-UK Gold,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/749
-UK History HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/752
-UK Home,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/753
-UK Home Health,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/754
-UK HORROR CHANNEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/755
-UK Investigation Discovery,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/758
-UK ITVBE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/762
-UK LFC TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/763
-UK LIFETIME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/765
-UK More 4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/767
-UK MTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/769
-UK MTV Base,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/770
-UK MUTV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/778
-UK Nat Geo,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/779
-UK Nat Geo Wild,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/780
-UK PICK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/786
-UK Quest,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/788
-UK Really,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/790
-UK RTE 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/792
-UK RTE Junior,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/794
-UK RTE News Now,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/795
-UK RTE One,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/796
-UK S4C,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/797
-UK SKY 1 HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/799
-UK Sky Arts,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/800
-UK Sky Atlantic,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/801
-UK Sky Cinema Action & Adventure,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/802
-UK Sky Cinema Comedy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/803
-UK Sky Cinema Drama,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/804
-UK Sky Cinema Family,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/805
-UK Sky Cinema Hits,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/807
-UK Sky Cinema Premier,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/808
-UK Sky Cinema Scifi & Horror,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/809
-UK Sky Cinema Select,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/810
-UK Sky Cinema Thriller,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/811
-UK Sky Nature,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/812
-UK Sky News,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/813
-UK Sky One,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/814
-UK Sky Two,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/827
-UK Sky Witness,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/828
-UK Sony Channel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/829
-UK Sony Movies,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/830
-UK Sony Movies Action,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/831
-UK Star Bharat,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/832
-UK Star Gold,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/833
-UK Star Plus,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/834
-UK STV HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/835
-UK Syfy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/836
-UK TCM HD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/838
-UK TG4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/839
-UK Tiny Pop,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/840
-UK TLC,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/841
-UK Travel Channel,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/842
-UK True Drama,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/843
-UK True Entertainment,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/844
+Fm Diego Summers e Aaron Blue (Introducing Aaron) 2018 Bb Fhd,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152579.mp4
+Raging Stallion Mountain Tops Chris Damned e Alpha Wolfe,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152581.mp4
+Next Door Taboo Sampling Their Stepbrothers Catching A Whiff Carter Woods e Troye Jacobs,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152582.mp4
+Rawhole Pytter Fox Rams Into Ramon Souza,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152584.mp4
+Corbin Fisher Acm2686 Rocky Works Out Jared,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152586.mp4
+Sean Cody 2770 Clyde e Chris Bareback,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152588.mp4
+Staxus Dream Boys Raw Sc 2 Gabriel Clay e Nick Fox,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152590.mp4
+Fm Diego Summers e Cesar Paulino (Stretched Raw) 2018 Bb Fhd,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152591.mp4
+Next Door Buddies Pride Dalton Riley e Kian Kane,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152593.mp4
+Sean Cody 2771 Josh e Kyle Bareback,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152595.mp4
+Fraternityx Frat Hustle,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152597.mp4
+Rail That Ass Raw,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152598.mp4
+Lucas Entertainment Submitting To Sergeant Miles Sergeant Miles Pounds Pol Prince In The Ass,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152600.mp4
+Amateur Gay Pov My New Neighbour Kosta Viking,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152602.mp4
+[Fisting Inferno] [Club Inferno] Backdoor Bathroom [Scene 1] [Nate Grimes e Drew Dixon],http://rdns.tv:80/movie/paulomeira/Paulo2022@/152604.mp4
+I’Ve Been Waiting To Fuck This Ass For A While. It Was Worth The Wait Joshmoorexxx,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152606.mp4
+Men Hung Part 1 Kaleb Stryker e Calhoun Sawyer,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152607.mp4
+Raging Stallion Studios Show Hard,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152609.mp4
+Cockyboys Avery Jones e Roman Todd,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152611.mp4
+Boy Fun Dirty Little Skaterboys,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152613.mp4
+Staxus Dream Boys Raw Sc 3 Joel Tamir e John Hardy,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152615.mp4
+Say Uncle Bully Him A Nerd On His Knees Isaac X And Shae Reynolds,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152616.mp4
+Titan Media Head Trip (2012),http://rdns.tv:80/movie/paulomeira/Paulo2022@/152618.mp4
+Lucas Entertainment Daddys In Charge,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152620.mp4
+Brother Crush Bored Stepbros Jack Bailey And Alex Meyer,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152622.mp4
+Moe Nathan Martin Edged In The Gym So Long That He Cums Twice,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152623.mp4
+Sayuncle X Randy Blue Catch By The Pool Preston Cole Judas Cole e Ashton Summers,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152625.mp4
+Young Perps A Favor For Protection Dillon Diaz And Dylan Hayes,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152627.mp4
+Lucas Entertainment Bareback Auditions 12 Convo And Cum Devin Franco And Shawn Reeve Blow Their Loads,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152628.mp4
+Gay Titan Men 6817 Bad Cop Donnie Dean And Ricky Decker,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152630.mp4
+Falcon Studios Work From Home Cade Maddox e Jimmy West,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152632.mp4
+Kristen Bjorn Eager To Please Santiago Rodriguez e Andy Star,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152633.mp4
+Datofoland Came To Fuck Me,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152635.mp4
+Staxus Dream Boys Raw Sc 1 Joel Tamir Nick Fox e Ray May,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152637.mp4
+Active Duty Nick Clay Vs Niko Carr,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152638.mp4
+Men A Guide To A Sex In Prison,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152640.mp4
+Family Dick Can We Try The Handcuffs Armando De Armas And Dakota Lovell,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152642.mp4
+Sean Cody 2769 Jackson e Mac Bareback,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152643.mp4
+Falcon Studios Work From Home Tristan Hunter e Jim Fit,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152645.mp4
+Playful Toy Boys SelfIndulgent Twink Lovers,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152647.mp4
+Next Door Taboo Teach Me How To Suck Dick Elliot Finn e Adrian Hart,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152648.mp4
+Bareback Hideout 3,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152650.mp4
+Lucas Entertainment Filled Up With Cum Allen King Sucks And Fucks Sir Peter And Marco Antonio,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152651.mp4
+Fuckermate Bare Encounters At Boyberry Franklin Acevedo e Rico Vega,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152653.mp4
+Hh Raw Work Loads,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152655.mp4
+Raging Stallion Mountain Tops Devin Franco e Alpha Wolfe,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152656.mp4
+Men Dickscovery Alex Mecum e Finn Harding,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152658.mp4
+Latin Leche Numero 180 Talking Bodies Emanuel e Rocco,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152660.mp4
+Next Door Taboo Sharing The Bed With My Step Brother Dacotah Red e Justin Matthews,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152661.mp4
+Moe Nathan Martin Rugby Stud Gets Edged,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152663.mp4
+Tf Jack Fader e Riley Landon (2020) Bb Fhd,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152665.mp4
+Lucas Entertainment Submitting To Sergeant Miles Rico Marlon Fucks Oliver Hunt,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152666.mp4
+Raunchy Bastards Bromance Is Bliss Ashton Silvers e Liam Kyle,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152668.mp4
+Onlyfans Elijah Zayne e Zeno Rey,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152670.mp4
+Fm Pablo Hierro e Cesar Paulino (Spunk On My Arse) 2018 Bb Fhd,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152671.mp4
+Fraternityx Little Bitch Boy,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152673.mp4
+Cockyboys Olivier Robert e Skyy Knox,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152674.mp4
+Gay Pride Studios Men Over 30 183575 Deep Inside Pleasures Marco Lorenzo Rikk York Bareback,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152676.mp4
+Fuckermate Creamy Welcome Franklin Acevedo e Valentino Sistor,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152678.mp4
+Raging Stallion Gaymers,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152679.mp4
+Nds The Rebound,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152681.mp4
+Menover30 Post Workout Desires Armando De Armas e Ashill Bay,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152683.mp4
+Titanmen Say Uncle,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152684.mp4
+Sean Cody 2768 Sean e Tyus Bareback,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152686.mp4
+Brady Kinky Angels 2,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152688.mp4
+Latin Leche Numero 166 Stepsons Confession Jesus e Jael,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152689.mp4
+Scout Boys Troop Time Scary Camp Stories Rick Fantana Austin Young And Oliver James,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152691.mp4
+Belamionline Rhys Jagger And Dario Dolce Part 2,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152693.mp4
+Moe Nick Capra Italian Muscle God With A Giant Cock,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152694.mp4
+Raging Stallion Mountain Tops Max Konnor e Michael Boston,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152696.mp4
+Lucas Entertainment Submitting To Sergeant Miles Viktor Rom And Jeffrey Lloyd Bareback Manuel Reyes,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152698.mp4
+Lucas Entertainment Submitting To Sergeant Miles Sergeant Miles Dominates Valentin Amour,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152699.mp4
+Bimaxx Great Bisex Time With Sweet Redhead,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152701.mp4
+Staxus Dream Boys Raw Sc 4 Pavel Masters e Timmy Williams,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152703.mp4
+Lucas Entertainment Breeding At The Belvedere Michael Lucas Tops Jeffrey Lloyd,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152704.mp4
+Men Cumsturizer Michael Delray e Nick La,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152706.mp4
+Sayuncle X Cocksuremen Rough But Sweet Jason Smith e Geoffrey Lloyd,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152708.mp4
+Youngbastards Young Bastards 33 Boys Need Discipline,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152709.mp4
+Maverick Men Directs Fuck Me In The Tool Shed,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152711.mp4
+Fraternityx No Show Fuck,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152712.mp4
+Men Cockpit Daddy Theo Brady e Kyle Connors,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152714.mp4
+Lucas Raunch Hard e Wet Piss God Jonathan Agassi Soaks Manuel Deboxer (Hd),http://rdns.tv:80/movie/paulomeira/Paulo2022@/152716.mp4
+Moe Osiris Blade Hung Kinkmen Pa Explores The Bondage Wall And Gets Edged,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152717.mp4
+Sayuncle X Randy Blue Catch By The Pool Part 2 Preston Cole Judas Cole e Ashton Summers,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152719.mp4
+Lucas Entertainment Breeding At The Belvedere Belvedere Breeding Orgy (Part 02),http://rdns.tv:80/movie/paulomeira/Paulo2022@/152721.mp4
+Dominica Phoenix Anna Taylor Olivia Mary Dee,http://rdns.tv:80/movie/paulomeira/Paulo2022@/152722.mp4
 
 
 
@@ -1191,236 +1417,6 @@ UK True Entertainment,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/844
 
 
 
-
-AdultIPTV.net Live Cams,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/62
-AdultIPTV.net MILF,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/63
-AdultIPTV.net Big Dick,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/64
-AdultIPTV.net Big Tits,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/65
-AdultIPTV.net Fetish,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/66
-AdultIPTV.net Pornstar,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/67
-AdultIPTV.net Big Ass,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/68
-AdultIPTV.net Interracial,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/69
-AdultIPTV.net Latina,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/70
-AdultIPTV.net POV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/71
-AdultIPTV.net Blowjob,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/72
-AdultIPTV.net Teen,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/73
-AdultIPTV.net Hardcore,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/74
-AdultIPTV.net Cuckold,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/75
-AdultIPTV.net Threesome,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/76
-AdultIPTV.net Russian,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/77
-AdultIPTV.net Rough,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/79
-AdultIPTV.net Gangbang,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/80
-AdultIPTV.net Anal,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/81
-AdultIPTV.net Compilation,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/82
-AdultIPTV.net Brunette,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/83
-AdultIPTV.net Blonde,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/84
-AdultIPTV.net Gay,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/85
-AdultIPTV.net Asian,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/86
-BJ 2,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41795
-Reality Kings Short,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41796
-
-
-
-Shorts,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41820
-Shorts,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41822
-Steam,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41823
-Jeanie With A Bottle,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41824
-Anal Short,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41825
-DogFS Short,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41826
-Hookup Hotshot,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41827
-POV Team Skeet,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41828
-HardX Short,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41829
-BJ,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41830
-Milfed Realtors,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41831
-Fucking Glasses,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41832
-Something Barrowed,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41833
-Sex Romp,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41834
-Porn Dude Casting,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41835
-Bondage,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41836
-Your Eyes On Me,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41837
-Facials,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41838
-Good Bye Hank,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41839
-The BJ Experience,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41840
-Family Therapy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41841
-Pinko,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41842
-Juicy Milf,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41843
-Sexy Susi,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41844
-Sexy Housewife
-http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41845
-Nympho Nurses,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41846
-Perfect Touch,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/41847
-Juicy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42060
-Venus Latino,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42071
-Adult -- 29,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42072
-Pink Erotik 5,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42073
-
-XXX ADULT DUSK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42045
-XXX HARDCORE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42046
-XXX BABES,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42047
-XXX JASMINE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42048
-XXX BRAZZERS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42049
-XXX HOT TV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42050
-XXX VIVID RED,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42051
-XXX DORCEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42052
-XXX SEXY HOT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42053
-XXX OMG!,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42054
-
-
-
-Adult -- 3,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42055
-Adult -- 4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42056
-Adult -- 5,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42057
-Adult -- 10,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42058
-Adult -- 11,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42059
-Adult -- 13,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42061
-Adult -- 15,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42062
-Adult -- 16,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42063
-Adult -- 19,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42064
-Adult -- 20,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42065
-Adult -- 22,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42066
-Adult -- 23,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42067
-Adult -- 24,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42068
-Adult -- 26,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42069
-Adult -- 27,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42070
-
-
-
-
-XXX: ADULT FUN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42121
-MX: Penthouse Latino,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42122
-MX: Playboy Latino,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42123
-MX: Sextreme Latino,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42124
-XXX: Xtsy,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42115
-XXX: WTF PASS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42074
-Pink Erotik 7,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42075
-Pink Erotik 8,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42076
-XXX: BLUE HUSTLER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42077
-XXX: TBB 1,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42078
-XXX: TBB 3,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42079
-XXX: TBB 4,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42080
-XXX: TBB 5,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42081
-XXX: TBB 6,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42082
-XXX: TBB 7,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42083
-XXX: TBB 8,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42084
-XXX: TBB 9,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42085
-XXX: TBB 10,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42086
-
-XXX: TBB 13,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42089
-XXX: TBB 14,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42090
-XXX: TBB 15,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42091
-XXX: TBB 16,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42092
-XXX: TBB 17,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42093
-XXX: TBB 18,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42094
-XXX: TBB 19,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42095
-XXX: TBB 20,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42096
-XXX: TBB 21,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42097
-XXX: TBB 22,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42098
-XXX: TBB 23,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42099
-XXX: TBB 24,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42100
-XXX: TBB 25,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42101
-XXX: TBB 26,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42102
-XXX: TBB 27,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42103
-XXX: TBB 28,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42104
-XXX: TBB 29,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42105
-XXX: TBB 30,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42106
-XXX: TBB 31,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42107
-XXX: TBB 32,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42108
-XXX: TBB 33,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42109
-XXX: TBB 34,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42110
-XXX: TBB 36,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42111
-XXX: TBB 37,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42112
-XXX: TBB 38,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42113
-XXX: TBB 40,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42114
-
-XXX: TBB 42,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42116
-XXX: TBB 43,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42117
-XXX: TBB 44,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42118
-XXX: TBB 45,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42119
-XXX: TBB 46,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42120
-
-
-
-
-
-PORNBOX: ASMR FANTASY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42125
-PORNBOX: BABES,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42126
-PORNBOX: BABES UNLEASHED,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42127
-PORNBOX: BABESALICIOUS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42128
-PORNBOX: BAD DADDY POV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42129
-PORNBOX: BANGBUS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42130
-PORNBOX: BELLESA FILMS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42131
-PORNBOX: BIG NATURALS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42132
-PORNBOX: BLACKED,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42133
-PORNBOX: BLACKED RAW,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42134
-PORNBOX: BRATTY SIS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42135
-PORNBOX: BRAZZERS EN ESPANOL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42136
-PORNBOX: CUM 4K,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42137
-PORNBOX: CUM FIESTA,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42138
-PORNBOX: DAUGHTER SWAP,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42139
-PORNBOX: DEEPER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42140
-PORNBOX: DIGITAL PLAYGROUND,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42141
-PORNBOX: EROTIC SPICE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42142
-PORNBOX: EXXXTRA SMALL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42143
-PORNBOX: FAKE AGENT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42144
-PORNBOX: FAKE AGENT UK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42145
-PORNBOX: FAKE COP,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42146
-PORNBOX: FAKE DRIVING SCHOOL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42147
-PORNBOX: FAKE HOSPITAL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42148
-PORNBOX: FAKE HOSTEL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42149
-PORNBOX: FAKE TAXI,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42150
-PORNBOX: FAMILY STROKES,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42151
-PORNBOX: FEMALE AGENT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42152
-PORNBOX: FEMALE FAKE TAXI,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42153
-PORNBOX: FORGIVE ME FATHER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42154
-PORNBOX: GF REGENVE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42155
-PORNBOX: I KNOW THAT GIRL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42156
-PORNBOX: JAYS POV,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42157
-PORNBOX: LETS DO IT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42158
-PORNBOX: LIFE SELECTOR,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42159
-PORNBOX: LOVE HER ASS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42160
-PORNBOX: MIKES APARTMENT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42161
-PORNBOX: MILE HIGH,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42162
-PORNBOX: MOFOS B SIDES,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42163
-PORNBOX: MOFOS LAB,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42164
-PORNBOX: MOM TEACH SEX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42165
-PORNBOX: MONEY TALKS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42166
-PORNBOX: MY DIRT HOBBY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42167
-PORNBOX: MY FRIENDS HOT MOM,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42168
-PORNBOX: MY PERVY FAMILY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42169
-PORNBOX: MY VERY FIRST TIME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42170
-PORNBOX: MYLF,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42171
-PORNBOX: NANNY SPY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42172
-PORNBOX: NF BUSTY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42173
-PORNBOX: NUBILE FILMS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42174
-PORNBOX: PERV MOM,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42175
-PORNBOX: PERVS ON PATROL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42176
-PORNBOX: PORNO ACADEMIE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42177
-PORNBOX: POVD,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42178
-PORNBOX: PRESTIGE JAPAN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42179
-PORNBOX: PRETTY DIRTY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42180
-PORNBOX: PRIVATE,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42181
-PORNBOX: PROPERTY SEX,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42182
-PORNBOX: PUBLIC AGENT,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42183
-PORNBOX: PUBLIC PICKUPS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42184
-PORNBOX: PURE18,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42185
-PORNBOX: RAW ATTACK,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42186
-PORNBOX: REAL EX GIRLFRIENDS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42187
-PORNBOX: REAL SENSUAL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42188
-PORNBOX: RK PRIME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42189
-PORNBOX: SELL YOUR GF,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42190
-PORNBOX: SEX WORKING,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42191
-PORNBOX: SHARE MY BF,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42192
-PORNBOX: SIS LOVES ME,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42193
-PORNBOX: STEP MOM LESSONS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42194
-PORNBOX: SWALLOW SALON,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42195
-PORNBOX: THE INNOCENCE OF YOUTH,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42196
-PORNBOX: TINY 4K,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42197
-PORNBOX: TURNING TWISTYS,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42198
-PORNBOX: TUSHY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42199
-PORNBOX: TWISTYS ORIGINAL,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42200
-PORNBOX: VIXEN,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42201
-PORNBOX: WE LIVE TOGETHER,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42202
-PORNBOX: WHEN GIRLS PLAY,http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42203
 
 
 
@@ -1538,8 +1534,91 @@ Visit-X TV,http://source-streams.com:8081/afshin-91/27092019/101
 
 
 
+Trials 8,#genre#
 
-
+HUSTLER HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94529
+PENTHOUSE QUICKIES HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94530
+PENTHOUSE GOLD HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94531
+PENTHOUSE BLACK,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94532
+PRIVATE TV HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94534
+BABES TV HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94535
+BANG U,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94536
+BARELY LEGAL,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94538
+BEATE UHSE.TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94539
+BLUE HUSTLER,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94540
+BRAZZERS,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94541
+BRAZZERS TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94542
+BRAZZERS TV EUROPE,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94543
+CANDY HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94544
+DORCEL HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94546
+DORCEL XXX HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94547
+DUSK!,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94549
+EROX HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94550
+EROXXX HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94551
+EVIL ANGEL HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94552
+EXTASY,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94553
+EXTREM,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94554
+EXXXOTICA,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94555
+FREE X TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94556
+FRENCH LOVER,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94557
+FRENCH LOVER EUROPE,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94558
+HOT TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94560
+HUSTLER TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94561
+JASMIN TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94562
+LEO TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94563
+LESBIAN AFFAIR,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94564
+MEIDEN VAN HOLLAND HARD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94565
+MILF TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94566
+NET XX,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94567
+NUART TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94568
+OLDTIMER,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94570
+PASSION XXX,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94571
+PASSIE XXX,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94572
+PINK O TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94573
+PLAYBOY,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94574
+PLAYBOY EUROPE,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94575
+PRIVE TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94577
+REALITY KINGS,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94578
+RED XXX,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94579
+REDLIGHT HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94580
+RUSSIAN NIGHT,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94581
+SCT CLASSIC,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94582
+SECRET CIRCLE,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94583
+SEXT &amp; SENSO,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94585
+SEXTREME,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94586
+SEXY HOT,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94587
+STARS XXX HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94588
+SUPER ONE HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94589
+TABOO,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94590
+VENUS TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94591
+VIVID RED HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94592
+VIVID TV EUROPE,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94593
+X BIZARRE,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94594
+X BUNGA BUNGA,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94595
+X DESIRE,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94596
+XXL,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94598
+XY MAX HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94599
+XY MIX HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94600
+XY PLUS HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94601
+ZEST TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94602
+BALKAN EROTIC,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94603
+SUPERONE,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94614
+WAAYH,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94615
+PINK EROTIC,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94616
+PINK EROTIC 2,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94617
+PINK EROTIC 3,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94618
+PINK EROTIC 4,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94619
+PINK EROTIC 5,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94620
+PINK EROTIC 6,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94621
+PINK EROTIC 7,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94622
+EXX EXOTICA,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94624
+FASHION TV,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94625
+BLUE HUSTLER EUROPE,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94626
+EXTREME,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94627
+EMANUELLE,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94628
+FAST BOYZ,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94629
+MAN-X,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94630
+P HD PRIVATE,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94631
 
 
 
