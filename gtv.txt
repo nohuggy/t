@@ -432,11 +432,6 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
 
 Trials 2,#genre#
-TLC,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6674.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
-CBC News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6508.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
-CNBC,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6523.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
-CTV News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/6549.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
-BBC World News,http://lordtv.xyz:80/live/Y2MWPFwp94/mH1VYXeCdo/3998.ts?play_token=v2meWbaOeq:1679387975:xyz:80/live/Y2MWPFwp94/mH1VY
 
 Channel 4,http://91.224.190.66:4281/bysid/5249
 BBC One,http://91.224.190.66:4281/bysid/1204
