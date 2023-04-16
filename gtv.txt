@@ -1,7 +1,6 @@
 大陆新闻,#genre#
 
 
-
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
@@ -37,6 +36,7 @@ CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://39.134.65.175/PLTV/88888888/224/3221225797/index.m3u8
 CCTV4,http://222.240.82.92:9901/tsfile/live/0004_1.m3u8
+
 
 
 
@@ -221,27 +221,38 @@ MSNBC,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/35310
 
 环球生活,#genre#
 
+TLC,http://173.225.246.25:8889/udp/239.203.20.19:4003
+AWE,http://173.225.246.25:8889/udp/239.203.20.3:4003
 
-Animal Planet,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/85995
-Animal Planet,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+Bloomberg,http://173.225.246.25:8889/udp/239.203.20.9:4003
+Bloomberg,http://173.225.246.25:8889/udp/239.203.20.10:4003
 
-Discovery,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/86014
-Discovery Family,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/86017
-Discovery Life,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/86018
+Bravo,http://173.225.246.25:8889/udp/239.203.20.11:4003
 
-Discovery Science,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32459
-Discovery HD,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-Discovery ID,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/22376
+CBC,http://173.225.246.25:8889/udp/239.203.20.16:4003
+CBC,http://173.225.246.25:8889/udp/239.203.20.17:4003
+CBC,http://173.225.246.25:8889/udp/239.203.20.18:4003
 
-History Channel,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/86031
+CNBC,http://173.225.246.25:8889/udp/239.203.20.21:4003
+CNN,http://173.225.246.25:8889/udp/239.203.20.22:4003
 
-PBS PA,https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+Vraylar,http://173.225.246.25:8889/udp/239.203.20.23:4003
+Vraylar,http://173.225.246.25:8889/udp/239.203.20.24:4003
+
+Discovery,http://173.225.246.25:8889/udp/239.203.20.26:4003
+Discovery,http://173.225.246.25:8889/udp/239.203.20.27:4003
+Discovery,http://173.225.246.25:8889/udp/239.203.20.28:4003
+
+E!,http://173.225.246.25:8889/udp/239.203.20.33:4003
+E!,http://173.225.246.25:8889/udp/239.203.20.34:4003
+
+CN,http://173.225.246.25:8889/udp/239.203.20.15:4003
+
+
 
 NASA TV,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 NASA TV,http://185.236.229.31:9981/play/a06b
-
-Channel 5+1,http://87.212.248.44:60330/play/a085/index.m3u8
 
 Fashion TV,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Fashion TV,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -252,18 +263,12 @@ Fashion TV,http://185.236.229.31:9981/play/a07w
 Fashion TV,http://185.236.229.31:9981/play/a07v
 Fashion TV,http://185.236.229.31:9981/play/a07u
 
-Disney Channel,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30901
-Disney Channel,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30932
-Cartoon Network,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30989
-Cartoon Network,http http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30990
-Nickelodeon,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/34495
 
-HBO 中文,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 HBO,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 HBO,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115820
 HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
-
-HBO Family,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115819
+HBO,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115819
 HBO Comedy,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115821
 
 
@@ -291,18 +296,6 @@ Deal or No Deal,https://dupsehd9sd6ra.cloudfront.net/v1/master/3722c60a815c199d9
 
 Game Show Central,https://cf289725d35440ecb69f75421bd40fa5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_GameShowCentral/playlist.m3u8?ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-TLC,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-TLC,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/29352
-
-
-Jamie Oliver Channel,https://d3cuy2e2e6vm8u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgi0vfbu48v8n-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-Discovery HD,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-Animal Planet,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-
-WildEarth,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearthin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
 
@@ -313,9 +306,6 @@ TJB,http://1.245.74.5:1935/live/tv/.m3u8
 SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
 
-COMEDY CENTRAL,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/17178
-Disney Channel,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/29142
-CW,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/18543
 
 
 
@@ -428,10 +418,8 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
 
 
-
-
-
 Trials 2,#genre#
+
 
 Channel 4,http://91.224.190.66:4281/bysid/5249
 BBC One,http://91.224.190.66:4281/bysid/1204
