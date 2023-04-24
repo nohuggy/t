@@ -227,8 +227,7 @@ MSNBC,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/35310
 
 环球生活,#genre#
 
-TLC,http://173.225.246.25:8889/udp/239.203.20.19:4003
-AWE,http://173.225.246.25:8889/udp/239.203.20.3:4003
+
 
 Bloomberg,http://173.225.246.25:8889/udp/239.203.20.9:4003
 Bloomberg,http://173.225.246.25:8889/udp/239.203.20.10:4003
@@ -396,8 +395,6 @@ Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/
 
 
 
-
-
 韩国生活,#genre#
 
 韩国-MBC频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
@@ -416,39 +413,8 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-Trials 2,#genre#
-
-
-Channel 4,http://91.224.190.66:4281/bysid/5249
-BBC One,http://91.224.190.66:4281/bysid/1204
-ITV1,http://91.224.190.66:4281/bysid/5109
-Channel 4,http://91.224.190.66:4281/bysid/5213
-CNBC HD,http://91.224.190.66:4281/bysid/5088
-
-AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501187
-AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501190
-BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501188
-BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501194
-PODEROSAS,http://suatv.fun:80/Davisony09876/87221187sony@/501193
-CINE ADULTO 2,http://suatv.fun:80/Davisony09876/87221187sony@/501201
-CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
-
-
-
-
-
-Trials 3,#genre#
+Trials 1,#genre#
 TLC,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1484
-TLC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1142
-
 HGTV CA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1123
 SLICE,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1125
 
@@ -593,145 +559,10 @@ Heart & Home,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65994
 
 
 
-Trials 4断流,#genre#
-
-TLC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15913
-HGTV 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15838
-
-Comedy Central 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15888
-E! Entertainment HD,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15890
-TNT 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15891
-A&E 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15894
-ABC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15897
-Food Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15899
-Hallmark 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15902
-Animal Planet 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15903
-History Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15904
-National Geographic 4K,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15906
-Discovery Channel  4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15907
-Discovery Science HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15909
 
 
 
-BBC One 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/843
-BBC Two 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/844
-iTV 1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/845
-iTV 2 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/846
-iTV 3 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/847
-iTV 4 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/848
-iTV Be,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/849
-BBC 1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/850
-BBC 2 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/851
-BBC 3,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/852
-BBC 4,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/853
-Channel 4 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/854
-Channel 5 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/855
-BBC Entertainment,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/858
-More 4,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/860
-E4 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/863
-BBC News,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/868
-CNN News 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/872
-Bloomberg 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/874
-Al Jazeera UK,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/878
-FOX News HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/881
-Euronews HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/884
-CNN International,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/888
-Sky News HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/889
-CNBC News HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/890
-BBC World News HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/891
-Gold 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/892
-TCM,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/893
-E! 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/894
-RTE One 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/896
-RTE 2 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/897
-Alibi 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/898
-Dave 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/899
-Pick TV,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/902
-Food Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/906
-Colors,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/908
-Crime & Investigation,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/910
-Horse and Country 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/913
-Discovery Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/917
-Discovery History,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/922
-Discovery Science,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/925
-Discovery Turbo,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/927
-Investigation Discovery 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/929
-Discovery Shed HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/932
-National Geographic Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/934
-Nat Geo Wild 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/939
-History Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/941
-History Channel 2 HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/942
-Animal Planet 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/943
-H2 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/952
-Travel Channel,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/953
-Eden 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/954
-5USA HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/955
-Really HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/956
-MTV Base HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/957
-MTV 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/958
-MTV Music,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/959
-Club MTV,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/961
-MTV Hits,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/963
-MTV Rocks,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/965
-VH1 Classic,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/969
-Disney XD HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/971
-Boomerang HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/973
-Comedy Central 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/975
-Disney Channel,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/977
-Disney Junior 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/981
-CBeebies HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/984
-Sky Cinema Disney HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/987
-Cartoon Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/990
-Nickelodeon,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/993
-
-Liverpool TV 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13913
-Box Nation 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13914
-Premier Sports 1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13915
-Eir Sports 1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13916
-Racing UK 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13917
-MUTV,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13918
-Horror Channel,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13889
-Sky One 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/999
-Sky Arts 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1000
-Sony Movies 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1029
-Sony Movies +1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1031
-SyFy 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1033
-Film 4 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1034
-Universal Channel HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13888
-
-ABC news 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15803
-Bloomberg 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15808
-CBS News 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15810
-CNBC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15816
-CNN 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15819
-Fox News 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15821
-NBC News 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15824
-TBS 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15826
-MSNBC HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15828
-Viceland 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15830
-USA Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15833
-Bravo 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15836
-Freeform 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15839
-Showtime 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15845
-Cartoon Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15848
-AMC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15850
-Cinemax 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15852
-Starz Edge HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15854
-Starz Comedy HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15867
-Nickelodeon HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15871
-AFN Prime Atlantic HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15874
-HBO 2 HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15876
-HBO Comedy HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15878
-HBO Family 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15880
-HBO Signature 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15882
-HBO Zone 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15884
-
-
-
-
-
-
-Trials 5,#genre#
+Trials 2,#genre#
 
 TLC,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36793
 HGTV,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36805
@@ -915,13 +746,10 @@ Erotic5,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/169758
 
 
 
-Trials 6,#genre#
+Trials 3,#genre#
 
 TLC US,http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2362
-TLC UK,http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1067
 HGTV CA,http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/283117
-HGT LA,http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/187008
-HGTV US,http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1600
 Discovery Turbo,http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1114
 
 HGTV US,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/57480
@@ -956,12 +784,10 @@ DW,http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/231160
 
 
 
-Trials 7,#genre#
+Trials 4,#genre#
 
-TLC USA,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/58563
 HGTV USA,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/66094
 HGTV USA,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/57480
-TLC PL,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/61452
 
 National Geographic UK,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59979
 ITV 1,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59864
@@ -982,7 +808,27 @@ Global,http://maxpro.cc:2095/live/Area504/504restream/8245.ts
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
-Trials 8,#genre#
+
+Trials 5,#genre#
+
+
+Channel 4,http://91.224.190.66:4281/bysid/5249
+BBC One,http://91.224.190.66:4281/bysid/1204
+ITV1,http://91.224.190.66:4281/bysid/5109
+Channel 4,http://91.224.190.66:4281/bysid/5213
+CNBC HD,http://91.224.190.66:4281/bysid/5088
+
+AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501187
+AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501190
+BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501188
+BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501194
+PODEROSAS,http://suatv.fun:80/Davisony09876/87221187sony@/501193
+CINE ADULTO 2,http://suatv.fun:80/Davisony09876/87221187sony@/501201
+CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
+
+
+
+Trials 6,#genre#
 Hustler HD,http://source-streams.com:8081/afshin-91/27092019/1
 Redlight HD,http://source-streams.com:8081/afshin-91/27092019/2
 Prıvate TV HD,http://source-streams.com:8081/afshin-91/27092019/3
@@ -1088,7 +934,7 @@ Visit-X TV,http://source-streams.com:8081/afshin-91/27092019/101
 
 
 
-Trials 9,#genre#
+Trials 7,#genre#
 
 HUSTLER HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94529
 PENTHOUSE QUICKIES HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94530
