@@ -1,10 +1,12 @@
 大陆新闻,#genre#
 
+CCTV9,http://tv.fanmingming.com/api/?id=cctv9
 
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+
 
 CCTV9,http://39.134.66.46/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://39.134.65.179/PLTV/88888888/224/3221225676/index.m3u8
@@ -24,6 +26,7 @@ CCTV9,http://39.134.67.99/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
 CCTV9,http://111.40.196.35/wh7f454c46tw3640300029_615820538/PLTV/88888888/224/3221225502/index.m3u8
 
+CCTV13,http://tv.fanmingming.com/api/?id=cctv13
 
 
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
@@ -31,6 +34,9 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8?
 CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
+
+
+CCTV4,http://tv.fanmingming.com/api/?id=cctv4
 
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
@@ -440,6 +446,16 @@ CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
 
 
 Trials 3,#genre#
+TLC,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1484
+TLC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1142
+
+HGTV CA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1123
+SLICE,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1125
+
+ITV1 FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1450
+ITV2,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1451
+ITV3,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1452
+ITV4,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1453
 
 BBC ONE FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1430
 CHANNEL 5 FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1436
@@ -452,35 +468,10 @@ DISCOVERY TURBO,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1443
 GOLD FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1447
 HISTORY,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1448
 INVESTIGATION DISCOVERY HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1449
-ITV1 FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1450
-ITV2,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1451
-ITV3,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1452
-ITV4,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1453
+
 NATIONAL GEOGRAPHIC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1454
-PREMIER SPORTS 1 FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1455
-SKY CI ACTION FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1459
-SKY CI COMEDY FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1460
-SKY CI DISNEY FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1461
-SKY CI DRAMA &amp; ROMANCE FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1462
-SKY CI FAMILY FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1463
-SKY CI HITS FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1464
-SKY CI PREMIER FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1465
-SKY CI SCI-FI &amp; HORROR FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1466
-SKY CI SELECT FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1467
-SKY CI THRILLER FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1468
-SKY SP ACTION FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1469
-SKY SP ARENA FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1470
-SKY SP CRICKET FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1471
-SKY SP FOOTBALL FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1473
-SKY SP MAIN EVENT FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1475
-SKY SP MIX FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1476
-SKY SP NEWS FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1477
-SKY SP PREMIER LEAGUE FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1478
-SKY SP RACING FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1479
-SKY ONE FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1480
 SKY WITNESS FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1482
 TCM,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1483
-TLC FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1484
 BBC Two HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2017
 SYFY,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/3305
 ANIMAL PLANET,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/3306
@@ -492,7 +483,7 @@ FIGHT NETWORK,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1090
 E! CANADA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1091
 DTOUR HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1092
 DIY NETWORK HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1093
-DISCOVERY CANADA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1094
+DISCOVERY CA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1094
 CTV SCI-FI HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1095
 CTV DRAMA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1097
 CTV COMEDY HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1098
@@ -503,7 +494,7 @@ CHCH HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1103
 AMC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1108
 ADULT SWIM HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1109
 ABC SPARK HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1110
-A&amp;E,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1111
+A&E,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1111
 GAME TV HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1113
 FYI HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1114
 FX HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1115
@@ -511,8 +502,6 @@ FXX HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1116
 MAKEFUL,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1118
 LIFETIME HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1119
 HISTORY HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1122
-HGTV CANADA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1123
-SLICE,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1125
 SHOWCASE HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1126
 PBS HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1127
 OWN,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1128
@@ -524,7 +513,6 @@ W NETWORK EAST,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1135
 TVA MONTREAL HD (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1138
 ext,CA-F: TV5 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1139
 TCM,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1140
-TLC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1142
 GLOBAL HALIFAX,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2023
 GLOBAL TORONTO,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2025
 GLOBAL VANCOUVER,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2026
@@ -607,6 +595,24 @@ Heart & Home,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65994
 
 Trials 4断流,#genre#
 
+TLC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15913
+HGTV 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15838
+
+Comedy Central 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15888
+E! Entertainment HD,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15890
+TNT 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15891
+A&E 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15894
+ABC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15897
+Food Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15899
+Hallmark 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15902
+Animal Planet 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15903
+History Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15904
+National Geographic 4K,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15906
+Discovery Channel  4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15907
+Discovery Science HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15909
+
+
+
 BBC One 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/843
 BBC Two 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/844
 iTV 1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/845
@@ -687,15 +693,6 @@ MUTV,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13918
 Horror Channel,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13889
 Sky One 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/999
 Sky Arts 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1000
-Sky Atlantic 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1001
-Sky Cinema Drama & Romance 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1003
-Sky Cinema Action 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1006
-Sky Cinema Comedy 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1011
-Sky Cinema Family 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1017
-Sky Cinema Select 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1019
-Sky Cinema Premiere 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1022
-Sky Cinema Sci-Fi & Horror 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1024
-Sky Cinema Greats 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1026
 Sony Movies 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1029
 Sony Movies +1 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1031
 SyFy 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1033
@@ -714,7 +711,6 @@ MSNBC HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15828
 Viceland 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15830
 USA Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15833
 Bravo 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15836
-HGTV 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15838
 Freeform 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15839
 Showtime 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15845
 Cartoon Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15848
@@ -729,26 +725,6 @@ HBO Comedy HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15878
 HBO Family 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15880
 HBO Signature 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15882
 HBO Zone 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15884
-Comedy Central 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15888
-E! Entertainment HD,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15890
-TNT 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15891
-A&E 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15894
-ABC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15897
-Food Network 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15899
-Hallmark 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15902
-Animal Planet 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15903
-History Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15904
-National Geographic 4K,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15906
-Discovery Channel  4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15907
-Discovery Science HD+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15909
-| O.W.N |Oprah Winfrey Network| 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15911
-The CW 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15912
-TLC 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15913
-FXX 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15914
-Starz Cinema 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15915
-Showtime 2 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15916
-AFN Prime Pacific,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15917
-FX Movie Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15918
 
 
 
@@ -756,6 +732,10 @@ FX Movie Channel 4K+,http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/15
 
 
 Trials 5,#genre#
+
+TLC,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36793
+HGTV,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36805
+
 
 
 Travel Channel,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36814
@@ -770,7 +750,6 @@ Destination America,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36796
 IFC,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36797
 WE TV,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36798
 BBC AMERICA,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36801
-HGTV,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36805
 TBS,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36806
 POP,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36813
 Viceland,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36816
@@ -881,7 +860,6 @@ History,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/67826
 Motor Trend,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36749
 NatGeo,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36734
 NatGeo Wild,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36735
-TLC,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/36793
 
 A&E HD,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/68222
 CNN HD,http://tecnomolly.com:8080/Jonathan0827/BBULPWrAYRDT/68230
@@ -978,11 +956,33 @@ DW,http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/231160
 
 
 
-
-
-
-
 Trials 7,#genre#
+
+TLC USA,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/58563
+HGTV USA,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/66094
+HGTV USA,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/57480
+TLC PL,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/61452
+
+National Geographic UK,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59979
+ITV 1,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59864
+ITV 2,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59865
+ITV 3,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59866
+
+TLC UK,http://maxpro.cc:2095/live/Area504/504restream/32528.ts
+TLC CA,http://maxpro.cc:2095/live/Area504/504restream/8114.ts
+E!,http://maxpro.cc:2095/live/Area504/504restream/32529.ts
+
+ITV 1,http://maxpro.cc:2095/live/Area504/504restream/32436.ts
+ITV 2,http://maxpro.cc:2095/live/Area504/504restream/32437.ts
+ITV 3,http://maxpro.cc:2095/live/Area504/504restream/32438.ts
+
+Global,http://maxpro.cc:2095/live/Area504/504restream/8244.ts
+Global,http://maxpro.cc:2095/live/Area504/504restream/8245.ts
+
+FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+
+Trials 8,#genre#
 Hustler HD,http://source-streams.com:8081/afshin-91/27092019/1
 Redlight HD,http://source-streams.com:8081/afshin-91/27092019/2
 Prıvate TV HD,http://source-streams.com:8081/afshin-91/27092019/3
@@ -1088,7 +1088,7 @@ Visit-X TV,http://source-streams.com:8081/afshin-91/27092019/101
 
 
 
-Trials 8,#genre#
+Trials 9,#genre#
 
 HUSTLER HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94529
 PENTHOUSE QUICKIES HD,http://sansat.net:25461/AqrFO6DJbfugabk/yX2jQbUzZ0GMZTD/94530
