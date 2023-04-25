@@ -626,7 +626,44 @@ ITV 2,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59865
 ITV 3,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59866
 
 
-Trials 4!,#genre#
+
+Trials 4,#genre#
+TLC US,http://faucontv.live:8080/wAWmFm67/xCemnPk/11623
+HGTV US,http://faucontv.live:8080/wAWmFm67/xCemnPk/11556
+BBC World News,http://faucontv.live:8080/wAWmFm67/xCemnPk/10992
+Discovery Life,http://faucontv.live:8080/wAWmFm67/xCemnPk/11576
+Crime & Investigation,http://faucontv.live:8080/wAWmFm67/xCemnPk/11581
+ID,http://faucontv.live:8080/wAWmFm67/xCemnPk/11577
+E! PT,http://faucontv.live:8080/wAWmFm67/xCemnPk/13022
+TLC CA,http://faucontv.live:8080/wAWmFm67/xCemnPk/15125
+HGTV CA,http://faucontv.live:8080/wAWmFm67/xCemnPk/15035
+BBC WORLD NEWS,http://faucontv.live:8080/wAWmFm67/xCemnPk/15126
+SLICE,http://faucontv.live:8080/wAWmFm67/xCemnPk/15049
+NAT GEO,http://faucontv.live:8080/wAWmFm67/xCemnPk/15041
+CNBC,http://faucontv.live:8080/wAWmFm67/xCemnPk/15086
+CNBC,http://faucontv.live:8080/wAWmFm67/xCemnPk/15158
+CNN,http://faucontv.live:8080/wAWmFm67/xCemnPk/15160
+E! UK,http://faucontv.live:8080/wAWmFm67/xCemnPk/21099
+E! UK,http://faucontv.live:8080/wAWmFm67/xCemnPk/21195
+TLC UK,http://faucontv.live:8080/wAWmFm67/xCemnPk/21238
+TLC UK,http://faucontv.live:8080/wAWmFm67/xCemnPk/21240
+
+CNBC,http://faucontv.live:8080/wAWmFm67/xCemnPk/11491
+
+HGTV US,http://bgp054.online:8080/reestreamtestecontato54984237061/t2vtbpseK4YH/65781
+TLC US,http://bgp054.online:8080/reestreamtestecontato54984237061/t2vtbpseK4YH/65864
+BBC,http://bgp054.online:8080/reestreamtestecontato54984237061/t2vtbpseK4YH/65697
+
+Discovery,http://faucontv.live:8080/wAWmFm67/xCemnPk/11629
+Discovery,http://faucontv.live:8080/wAWmFm67/xCemnPk/11575
+HGTV US,http://faucontv.live:8080/wAWmFm67/xCemnPk/11636
+TLC US,http://faucontv.live:8080/wAWmFm67/xCemnPk/11623
+
+
+
+
+
+Trials 5!,#genre#
 Channel 4,http://91.224.190.66:4281/bysid/5249
 BBC One,http://91.224.190.66:4281/bysid/1204
 ITV1,http://91.224.190.66:4281/bysid/5109
@@ -643,7 +680,7 @@ CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
 
 
 
-Trials 5!,#genre#
+Trials 6!,#genre#
 Hustler HD,http://source-streams.com:8081/afshin-91/27092019/1
 Redlight HD,http://source-streams.com:8081/afshin-91/27092019/2
 Prıvate TV HD,http://source-streams.com:8081/afshin-91/27092019/3
