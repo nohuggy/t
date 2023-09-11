@@ -116,9 +116,8 @@ Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/06.m3u8
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-BBC News,https://epg.pw/stream/72270b8f508703497ec47e5a82b13fd01e19d2aa5fb32dd8df8d1c599f61a475.m3u8
-BBC News,https://epg.pw/stream/3e78542b0d032b59bf9ae955c23fd2508d6f6d7d7cfc0d329835cf6830d40d9b.ctv
 BBC News,https://epg.pw/stream/970882046cb3fbe5e9984c85221de69ce75643a40f1a05dfc782e5b3ef819f0c.ctv
+BBC News,https://epg.pw/stream/72270b8f508703497ec47e5a82b13fd01e19d2aa5fb32dd8df8d1c599f61a475.m3u8
 BBC News,http://185.236.229.31:9981/play/a072
 
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
