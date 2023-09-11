@@ -400,7 +400,6 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
 Adult Porn,#genre#
 
-Big Dick,http://ccdntp.xyz:80/claudio4800/991779964/150797
 Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
 
@@ -409,40 +408,22 @@ Compilation,http://cdn.adultiptv.net/compilation.m3u8
 Latino,http://cdn.adultiptv.net/latina.m3u8
 Russian,http://cdn.adultiptv.net/russian.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
-
-
 Teen,http://cdn.adultiptv.net/teen.m3u8
 Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
 Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
 Rough.http://cdn.adultiptv.net/rough.m3u8
 Brunette,http://cdn.adultiptv.net/brunette.m3u8
-
-Venus,http://go.iptvhn.net:25461/Denis/Denis123/6648
-SexTreme,http://go.iptvhn.net:25461/Denis/Denis123/6853
 Blonde,http://cdn.adultiptv.net/blonde.m3u8
 
-Blue Hustlerr,http://185.236.229.31:9981/play/a03o
-Brazzers,http://185.236.229.31:9981/play/a03d
-Hustler,http://185.236.229.31:9981/play/a03n
 
-Pinko 3,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35367
-Pinko 4,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35368
-Pinko 9,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35372
-Pinko 10,http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35366
-
-
-
-SEX PRIVE [FHD] (H265),http://limetv.me:80/4627val/608516/95485
-SEX PRIVE [HD],http://limetv.me:80/4627val/608516/95486
-SEX PRIVE [SD],http://limetv.me:80/4627val/608516/95487
-SEXTREME [FHD],http://limetv.me:80/4627val/608516/100038
-SEXTREME [HD],http://limetv.me:80/4627val/608516/90306
-SEXTREME [SD],http://limetv.me:80/4627val/608516/90307
-SEXY HOT [FHD] (H265),http://limetv.me:80/4627val/608516/95488
-SEXY HOT [HD],http://limetv.me:80/4627val/608516/90308
-SEXY HOT [SD],http://limetv.me:80/4627val/608516/90309
-VENUS [HD],http://limetv.me:80/4627val/608516/90437
-VENUS [SD],http://limetv.me:80/4627val/608516/90438
+SEXTREME,http://limetv.me:80/4627val/608516/100038
+SEXTREME,http://limetv.me:80/4627val/608516/90306
+SEXTREME,http://limetv.me:80/4627val/608516/90307
+SEXY HOT,http://limetv.me:80/4627val/608516/95488
+SEXY HOT,http://limetv.me:80/4627val/608516/90308
+SEXY HOT,http://limetv.me:80/4627val/608516/90309
+VENUS,http://limetv.me:80/4627val/608516/90437
+VENUS,http://limetv.me:80/4627val/608516/90438
 
 ADULTO 01,http://limetv.me:80/4627val/608516/91215
 ADULTO 02,http://limetv.me:80/4627val/608516/91216
@@ -486,14 +467,6 @@ ADULTO 39,http://limetv.me:80/4627val/608516/91253
 ADULTO 40,http://limetv.me:80/4627val/608516/91254
 
 
-CANDY,http://suatv.fun:80/312594664409/431712883247/501202
-CENTOXCENTO,http://suatv.fun:80/312594664409/431712883247/501203
-DORCEL TV,http://suatv.fun:80/312594664409/431712883247/501204
-HUSTLER,http://suatv.fun:80/312594664409/431712883247/501206
-PASSION,http://suatv.fun:80/312594664409/431712883247/501209
-PENTHOUSE QUICKIES,http://suatv.fun:80/312594664409/431712883247/501212
-
-
 
 
 
@@ -501,10 +474,8 @@ PENTHOUSE QUICKIES,http://suatv.fun:80/312594664409/431712883247/501212
 Homo Porn,#genre#
 
 
-Gay,http://cdn.adultiptv.net/gay.m3u8
-Gay,http://g3.3espp.top:80/live/54679/96911/2186.ts
-
-
+http://live.redtraffic.xyz/gay.m3u8
+http://cdn.adultiptv.net/gay.m3u8
 
 ADULTO GAY 01,http://limetv.me:80/4627val/608516/91255
 ADULTO GAY 02,http://limetv.me:80/4627val/608516/91256
