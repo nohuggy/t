@@ -1,6 +1,6 @@
 大陆新闻,#genre#
 
-CCTV9,http://tv.fanmingming.com/api/?id=cctv9
+
 
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -26,7 +26,6 @@ CCTV9,http://39.134.67.99/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
 CCTV9,http://111.40.196.35/wh7f454c46tw3640300029_615820538/PLTV/88888888/224/3221225502/index.m3u8
 
-CCTV13,http://tv.fanmingming.com/api/?id=cctv13
 
 
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
@@ -36,7 +35,6 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 
 
-CCTV4,http://tv.fanmingming.com/api/?id=cctv4
 
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
@@ -51,26 +49,12 @@ CCTV4,http://222.240.82.92:9901/tsfile/live/0004_1.m3u8
 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
-TVBS新闻,rtmp://59.124.75.150/sat/tv551
-TVBS新闻,rtmp://59.124.75.138/sat/tv551
-TVBS新闻,rtmp://59.124.75.157/sat/tv551
-
-TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
-中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
-中天综合,http://23.237.10.66:16372
-中天娱乐台,http://www.yshmzmc.top/gtjm.php?id=live1023
 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-民视新闻,http://23.237.10.66:16334
-民视新闻,http://23.237.10.66:16334
-民视新闻,http://107.151.203.111:2209/135/us50.php?id=msk
-民视新闻,https://epg.pw/stream/03abfe464da99695f9bc8035bf4d1f3785dcccb6ff2391f7200d9fb70b1eb0bb.ctv
 
 
-台视新闻,rtmp://59.124.75.138/sat/tv071
 
 台视新闻,https://ytb.52sf.ga/jmsytb.m3u8?c=6
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -78,52 +62,14 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视新闻,rtmp://59.124.75.138/sat/tv051
-民视新闻,rtmp://59.124.75.157/sat/tv051
-
-
-TVBS新闻,https://ytb.52sf.ga/jmsytb.m3u8?c=45
-
-纬來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
-
-台视,http://23.237.10.66:16344
-民视,http://23.237.10.66:16334
 
 
 
 
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
+
 
 
 
@@ -136,19 +82,14 @@ ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0
 
 ABC US,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
-Al Jazeera,http://185.236.229.31:9981/play/a04m
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-BBC News,http://tv.fullytv.com:8080/cabeza/cbza/1118758
-BBC News,http://87.212.248.44:60330/play/a03e/index.m3u8
+
 BBC News,http://185.236.229.31:9981/play/a072
 
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
-
-Bloomberg European,http://185.236.229.31:9981/play/a04k
 
 Bloomberg,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/4c5aa2b0d285b7160171fb9212a19982.m3u8
 Bloomberg,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
@@ -167,9 +108,6 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 CNN,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
 
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-CNN,https://225f14f181b14665bde8b60479eed3d2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-at_CNN/playlist.m3u8?ads.wurl_channel=662&ads.wurl_name=CNN&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
 DW,http://185.236.229.31:9981/play/a068
@@ -195,8 +133,6 @@ NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/pl
 News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
-NBC News,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-NBC News,https://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 
 Reuters,https://f148ce707dce489790ec1aa756fe2dc4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -204,8 +140,6 @@ Reuters,https://f148ce707dce489790ec1aa756fe2dc4.mediatailor.us-east-1.amazonaws
 TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-
-India Today,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-indiatoday-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
 RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -218,8 +152,6 @@ Ukraine TV 7,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
 
 Nipon 24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-NBC NEW YORK,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/54580
-MSNBC,http://tv.nousiptv.com:8080/hugoguillermo/HG4645458/35310
 
 
 
@@ -270,20 +202,6 @@ Fashion TV,http://185.236.229.31:9981/play/a07u
 
 
 
-HBO,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-HBO,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115820
-HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
-HBO,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115819
-HBO Comedy,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115821
-
-
-HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-
-
-
-
-Fashion TV,https://74561d5f51654ed0acab43a090aafb81.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_FashionTV/playlist.m3u8?ads.wurl_channel=381&ads.wurl_name=FashionTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 Fashion TV,https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8?ads.wurl_channel=902&ads.wurl_name=FashionTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -319,16 +237,10 @@ SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-MTV Biggest Pop,https://m3u-editor.com/serve/tchtviptvplaylist/767388622
-
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTV Sparkin New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 
-MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 MTV Yo,https://m3u-editor.com/serve/tchtviptvplaylist/767388624
 
-MTV Base,http://mains.services:2086/4300898102/4858780/100028
 
 
 CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
@@ -363,23 +275,7 @@ XITE Hits,https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playl
 Deluxe Lounge,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 
 
-MTV Biggest Pop,http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
-
-
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
-MTV Sparkin New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV Sparkin New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
-MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-MTV Yo,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
-
-Vevo Hip-hop,http://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-Vuemme TV,http://5db313b643fd8.streamlock.net:1935/Vuemme/Vuemme/playlist.m3u8
-XITE HD (DE),https://xite-samsung-de.amagi.tv/playlist.m3u8
-Zerouno TV,http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 
 Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
@@ -405,384 +301,6 @@ Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/
 BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-
-阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-阿里郎WORLD,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-
-
-
-Trials 1,#genre#
-TLC UK,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1484
-HGTV CA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1123
-SLICE,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1125
-
-ITV1 FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1450
-ITV2,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1451
-ITV3,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1452
-ITV4,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1453
-
-BBC ONE FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1430
-CHANNEL 5 FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1436
-COMEDY CENTRAL,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1437
-DAVE FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1438
-DISCOVERY FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1439
-DISCOVERY,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1440
-DISCOVERY SCIENCE,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1441
-DISCOVERY TURBO,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1443
-GOLD FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1447
-HISTORY,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1448
-INVESTIGATION DISCOVERY HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1449
-
-NATIONAL GEOGRAPHIC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1454
-SKY WITNESS FHD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1482
-TCM,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1483
-BBC Two HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2017
-SYFY,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/3305
-ANIMAL PLANET,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/3306
-CBBC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/3528
-Channel 4 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/3539
-Great! Movies Christmas,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/70445
-FOOD NETWORK HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1089
-FIGHT NETWORK,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1090
-E! CANADA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1091
-DTOUR HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1092
-DIY NETWORK HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1093
-DISCOVERY CA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1094
-CTV SCI-FI HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1095
-CTV DRAMA HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1097
-CTV COMEDY HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1098
-CRIME &amp; INVESTIGATION,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1099
-CP24 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1100
-CMT CANADA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1101
-CHCH HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1103
-AMC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1108
-ADULT SWIM HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1109
-ABC SPARK HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1110
-A&E,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1111
-GAME TV HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1113
-FYI HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1114
-FX HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1115
-FXX HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1116
-MAKEFUL,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1118
-LIFETIME HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1119
-HISTORY HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1122
-SHOWCASE HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1126
-PBS HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1127
-OWN,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1128
-NAT GEO WILD HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1131
-NAT GEO HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1132
-MOVIETIME HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1133
-YES NETWORK HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1134
-W NETWORK EAST,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1135
-TVA MONTREAL HD (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1138
-ext,CA-F: TV5 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1139
-TCM,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1140
-GLOBAL HALIFAX,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2023
-GLOBAL TORONTO,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2025
-GLOBAL VANCOUVER,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2026
-CBC,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2027
-CBC OTTAWA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2037
-CBC TORONTO,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2039
-CITY TV TORONTO HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2046
-CITY VANCOUVER,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2047
-CRAVE 1 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2048
-CRAVE 2 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2049
-CRAVE 4 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2051
-CTV 2 VANCOUVER,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2052
-CTV HALIFAX,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2054
-CTV SI FI,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2059
-CTV TORONTO,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2060
-CTV VANCOUVER,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2061
-CTV2 OTTAWA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2062
-SUPER ECRAN 2,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2089
-SUPER ECRAN 4,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2091
-ext,CA : APTN,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/62043
-ICI MONTREAL (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/2082
-CRAVE 3,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64391
-RDS (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64720
-RDS 2 (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64721
-RDS INFO (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64722
-ext,CA:CANAL D (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64723
-ext,CA:CINE POP (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64724
-ext,CA:DISNEY (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64725
-ext,CA:EVASION (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64726
-HISTORIA (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64727
-ICI VANCOUVER (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64728
-METEO (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64729
-MOI ET CIE (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64730
-ext,CA:PRISE (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64731
-ext,CA:TELE QUEBEC (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64733
-ext,CA:TVA SPORTS (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64734
-ext,CA:VIE (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64735
-ext,CA:VRAK TV (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64736
-ext,CA:Z TELE (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64737
-ext,CA:ZESTE (FR),http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64738
-YTV,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/64927
-CTV News Channel HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65298
-CPAC French,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65299
-CPAC English,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65300
-CHRGD HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65302
-CBC St. John,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65303
-Cartoon Network,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65305
-BNN Bloomberg HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65307
-ICI RDI HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65308
-HLN,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65310
-Golf Channel HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65311
-Peachtree TV HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65312
-OMNI2 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65313
-OMNI1 HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65314
-OLN HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65315
-MTV HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65317
-TV Ontario HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65318
-TSC HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65319
-Treehouse HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65320
-TELETOON HD,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65321
-LCN,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65974
-MAX,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65975
-CASA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65976
-Prise 2,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65977
-YOOPA,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65978
-Addik TV,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65979
-Noovo,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65984
-ICI TELE,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65986
-Dejaview,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65987
-City Montreal,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65988
-OUT TV,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65989
-Cottage Life,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65990
-Global TV,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65991
-Global News,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65992
-CTV 2 Toronto,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65993
-Heart & Home,http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/65994
-
-
-
-
-
-
-
-Trials 2,#genre#
-
-TLC US,http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2362
-HGTV CA,http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/283117
-Discovery Turbo,http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1114
-
-HGTV US,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/57480
-TLC US,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58563
-TLC UK,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59929
-MTV,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58588
-Cooling Channel US,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/57215
-CNBC,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58494
-Travel Channel,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58565
-E!,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58577
-CBS,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/65675
-FUSE,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/65713
-ITV1,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59864
-ITV2,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59865
-ITV3,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59866
-ITV4,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59867
-Channel 4,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59869
-Sky 1,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59877
-Sky 2,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59878
-E4,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59898
-MTV Hits,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59935
-Discovery Channel,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58574
-Discovery Science,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59969
-Discovery Turbo,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59971
-ID,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59976
-ID,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59977
-National Geographic,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59979
-Viceland,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/59981
-BBC World News,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/61154
-BBC World News,http://2hubs.ddns.net:25461/imran/AJodjCDVB0/61155
-DW,http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/231160
-
-
-
-Trials 3,#genre#
-
-
-
-TLC UK,http://maxpro.cc:2095/live/Area504/504restream/32528.ts
-TLC CA,http://maxpro.cc:2095/live/Area504/504restream/8114.ts
-E!,http://maxpro.cc:2095/live/Area504/504restream/32529.ts
-
-ITV 1,http://maxpro.cc:2095/live/Area504/504restream/32436.ts
-ITV 2,http://maxpro.cc:2095/live/Area504/504restream/32437.ts
-ITV 3,http://maxpro.cc:2095/live/Area504/504restream/32438.ts
-
-Global,http://maxpro.cc:2095/live/Area504/504restream/8244.ts
-Global,http://maxpro.cc:2095/live/Area504/504restream/8245.ts
-
-FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-HGTV USA,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/66094
-HGTV USA,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/57480
-
-National Geographic UK,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59979
-ITV 1,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59864
-ITV 2,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59865
-ITV 3,http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/59866
-
-
-
-Trials 4,#genre#
-TLC US,http://faucontv.live:8080/wAWmFm67/xCemnPk/11623
-HGTV US,http://faucontv.live:8080/wAWmFm67/xCemnPk/11556
-BBC World News,http://faucontv.live:8080/wAWmFm67/xCemnPk/10992
-Discovery Life,http://faucontv.live:8080/wAWmFm67/xCemnPk/11576
-Crime & Investigation,http://faucontv.live:8080/wAWmFm67/xCemnPk/11581
-ID,http://faucontv.live:8080/wAWmFm67/xCemnPk/11577
-E! PT,http://faucontv.live:8080/wAWmFm67/xCemnPk/13022
-TLC CA,http://faucontv.live:8080/wAWmFm67/xCemnPk/15125
-HGTV CA,http://faucontv.live:8080/wAWmFm67/xCemnPk/15035
-BBC WORLD NEWS,http://faucontv.live:8080/wAWmFm67/xCemnPk/15126
-SLICE,http://faucontv.live:8080/wAWmFm67/xCemnPk/15049
-NAT GEO,http://faucontv.live:8080/wAWmFm67/xCemnPk/15041
-CNBC,http://faucontv.live:8080/wAWmFm67/xCemnPk/15086
-CNBC,http://faucontv.live:8080/wAWmFm67/xCemnPk/15158
-CNN,http://faucontv.live:8080/wAWmFm67/xCemnPk/15160
-E! UK,http://faucontv.live:8080/wAWmFm67/xCemnPk/21099
-E! UK,http://faucontv.live:8080/wAWmFm67/xCemnPk/21195
-TLC UK,http://faucontv.live:8080/wAWmFm67/xCemnPk/21238
-TLC UK,http://faucontv.live:8080/wAWmFm67/xCemnPk/21240
-
-CNBC,http://faucontv.live:8080/wAWmFm67/xCemnPk/11491
-
-HGTV US,http://bgp054.online:8080/reestreamtestecontato54984237061/t2vtbpseK4YH/65781
-TLC US,http://bgp054.online:8080/reestreamtestecontato54984237061/t2vtbpseK4YH/65864
-BBC,http://bgp054.online:8080/reestreamtestecontato54984237061/t2vtbpseK4YH/65697
-
-Discovery,http://faucontv.live:8080/wAWmFm67/xCemnPk/11629
-Discovery,http://faucontv.live:8080/wAWmFm67/xCemnPk/11575
-HGTV US,http://faucontv.live:8080/wAWmFm67/xCemnPk/11636
-TLC US,http://faucontv.live:8080/wAWmFm67/xCemnPk/11623
-
-
-
-
-
-Trials 5!,#genre#
-Channel 4,http://91.224.190.66:4281/bysid/5249
-BBC One,http://91.224.190.66:4281/bysid/1204
-ITV1,http://91.224.190.66:4281/bysid/5109
-Channel 4,http://91.224.190.66:4281/bysid/5213
-CNBC HD,http://91.224.190.66:4281/bysid/5088
-
-AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501187
-AMADOR GAY,http://suatv.fun:80/Davisony09876/87221187sony@/501190
-BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501188
-BISEXUAL,http://suatv.fun:80/Davisony09876/87221187sony@/501194
-PODEROSAS,http://suatv.fun:80/Davisony09876/87221187sony@/501193
-CINE ADULTO 2,http://suatv.fun:80/Davisony09876/87221187sony@/501201
-CANDY,http://suatv.fun:80/Davisony09876/87221187sony@/501202
-
-
-
-Trials 6!,#genre#
-Hustler HD,http://source-streams.com:8081/afshin-91/27092019/1
-Redlight HD,http://source-streams.com:8081/afshin-91/27092019/2
-Prıvate TV HD,http://source-streams.com:8081/afshin-91/27092019/3
-Dorcel HD,http://source-streams.com:8081/afshin-91/27092019/4
-Dorcel XxX HD,http://source-streams.com:8081/afshin-91/27092019/5
-Vivid Red HD,http://source-streams.com:8081/afshin-91/27092019/6
-Vixen HD,http://source-streams.com:8081/afshin-91/27092019/7
-EroX HD,http://source-streams.com:8081/afshin-91/27092019/8
-EroX XxX HD,http://source-streams.com:8081/afshin-91/27092019/9
-Penthouse Gold HD,http://source-streams.com:8081/afshin-91/27092019/10
-Penthouse Reality TV HD,http://source-streams.com:8081/afshin-91/27092019/11
-Penthouse Passion HD,http://source-streams.com:8081/afshin-91/27092019/12
-Super ONE HD,http://source-streams.com:8081/afshin-91/27092019/13
-Babes TV HD,http://source-streams.com:8081/afshin-91/27092019/14
-XY Plus HD,http://source-streams.com:8081/afshin-91/27092019/15
-XY Max HD,http://source-streams.com:8081/afshin-91/27092019/16
-XY Mix HD,http://source-streams.com:8081/afshin-91/27092019/17
-Vivid TV Europe,http://source-streams.com:8081/afshin-91/27092019/18
-Vivid Touch,http://source-streams.com:8081/afshin-91/27092019/19
-DUSK,http://source-streams.com:8081/afshin-91/27092019/20
-Hustler TV,http://source-streams.com:8081/afshin-91/27092019/21
-XXL,http://source-streams.com:8081/afshin-91/27092019/22
-Passie XxX,http://source-streams.com:8081/afshin-91/27092019/23
-Passion XxX,http://source-streams.com:8081/afshin-91/27092019/24
-Passion XxX Europe,http://source-streams.com:8081/afshin-91/27092019/25
-Reality Kings TV,http://source-streams.com:8081/afshin-91/27092019/26
-Brazzers TV Europe,http://source-streams.com:8081/afshin-91/27092019/27
-Brazzers TV Europe Ru,http://source-streams.com:8081/afshin-91/27092019/28
-Hot TV,http://source-streams.com:8081/afshin-91/27092019/29
-Venus TV,http://source-streams.com:8081/afshin-91/27092019/30
-Sextreme TV,http://source-streams.com:8081/afshin-91/27092019/31
-Sexy HOT,http://source-streams.com:8081/afshin-91/27092019/32
-Meiden Van Holland Hard,http://source-streams.com:8081/afshin-91/27092019/33
-Evil Angel,http://source-streams.com:8081/afshin-91/27092019/34
-Erotic,http://source-streams.com:8081/afshin-91/27092019/35
-Erotic 2,http://source-streams.com:8081/afshin-91/27092019/36
-Erotic 3,http://source-streams.com:8081/afshin-91/27092019/37
-Erotic 4,http://source-streams.com:8081/afshin-91/27092019/38
-Erotic 5,http://source-streams.com:8081/afshin-91/27092019/39
-Erotic 6,http://source-streams.com:8081/afshin-91/27092019/40
-Erotic 7,http://source-streams.com:8081/afshin-91/27092019/41
-Erotic 8,http://source-streams.com:8081/afshin-91/27092019/42
-Bang U,http://source-streams.com:8081/afshin-91/27092019/43
-Шалун TV,http://source-streams.com:8081/afshin-91/27092019/44
-Шёлк TV,http://source-streams.com:8081/afshin-91/27092019/45
-Playboy,http://source-streams.com:8081/afshin-91/27092019/46
-Playboy Europe,http://source-streams.com:8081/afshin-91/27092019/47
-Blue Hustler,http://source-streams.com:8081/afshin-91/27092019/48
-Blue Hustler Europe,http://source-streams.com:8081/afshin-91/27092019/49
-Russian Night,http://source-streams.com:8081/afshin-91/27092019/50
-Barely Legal TV,http://source-streams.com:8081/afshin-91/27092019/51
-O la la TV,http://source-streams.com:8081/afshin-91/27092019/52
-French Lover TV,http://source-streams.com:8081/afshin-91/27092019/53
-Nuart TV,http://source-streams.com:8081/afshin-91/27092019/54
-Exxxotica TV,http://source-streams.com:8081/afshin-91/27092019/55
-Secret Circle TV,http://source-streams.com:8081/afshin-91/27092019/56
-Lust Pur TV,http://source-streams.com:8081/afshin-91/27092019/57
-Beate-Uhse.TV,http://source-streams.com:8081/afshin-91/27092019/58
-Pure Babes TV,http://source-streams.com:8081/afshin-91/27092019/59
-Pink O Club,http://source-streams.com:8081/afshin-91/27092019/60
-Pink O Club 2,http://source-streams.com:8081/afshin-91/27092019/61
-Cento X Cento,http://source-streams.com:8081/afshin-91/27092019/62
-Fantazzy TV,http://source-streams.com:8081/afshin-91/27092019/63
-Private Spice,http://source-streams.com:8081/afshin-91/27092019/64
-Sex Prive,http://source-streams.com:8081/afshin-91/27092019/65
-Leo TV,http://source-streams.com:8081/afshin-91/27092019/66
-Leo Gold TV,http://source-streams.com:8081/afshin-91/27092019/67
-Extasy HD,http://source-streams.com:8081/afshin-91/27092019/68
-Extasy 4K,http://source-streams.com:8081/afshin-91/27092019/69
-X1,http://source-streams.com:8081/afshin-91/27092019/70
-X Bizarre,http://source-streams.com:8081/afshin-91/27092019/71
-X Desire,http://source-streams.com:8081/afshin-91/27092019/72
-X Bunga Bunga,http://source-streams.com:8081/afshin-91/27092019/73
-Dream Porn HD,http://source-streams.com:8081/afshin-91/27092019/74
-Hot XXL HD,http://source-streams.com:8081/afshin-91/27092019/75
-Legal TV,http://source-streams.com:8081/afshin-91/27092019/76
-Naughty TV,http://source-streams.com:8081/afshin-91/27092019/77
-Balkan Erotic,http://source-streams.com:8081/afshin-91/27092019/78
-Net XxX,http://source-streams.com:8081/afshin-91/27092019/79
-Playhouse,http://source-streams.com:8081/afshin-91/27092019/80
-Hot Pleasure,http://source-streams.com:8081/afshin-91/27092019/81
-Milf TV,http://source-streams.com:8081/afshin-91/27092019/82
-Red XxX,http://source-streams.com:8081/afshin-91/27092019/83
-Extreme,http://source-streams.com:8081/afshin-91/27092019/84
-Emanuelle,http://source-streams.com:8081/afshin-91/27092019/85
-SeXation,http://source-streams.com:8081/afshin-91/27092019/86
-Free X TV HQ,http://source-streams.com:8081/afshin-91/27092019/87
-Red lıps,http://source-streams.com:8081/afshin-91/27092019/88
-X-MO,http://source-streams.com:8081/afshin-91/27092019/89
-Man-X,http://source-streams.com:8081/afshin-91/27092019/90
-Erox,http://source-streams.com:8081/afshin-91/27092019/91
-EroX XxX,http://source-streams.com:8081/afshin-91/27092019/92
-Adult Channel 1,http://source-streams.com:8081/afshin-91/27092019/93
-Adult Channel 2,http://source-streams.com:8081/afshin-91/27092019/94
-Adult Channel 3,http://source-streams.com:8081/afshin-91/27092019/95
-Adult Channel 4,http://source-streams.com:8081/afshin-91/27092019/96
-Adult Channel 5,http://source-streams.com:8081/afshin-91/27092019/97
-Adult Channel 6,http://source-streams.com:8081/afshin-91/27092019/98
-Adult Channel 7,http://source-streams.com:8081/afshin-91/27092019/99
-Xpanded TV,http://source-streams.com:8081/afshin-91/27092019/100
-Visit-X TV,http://source-streams.com:8081/afshin-91/27092019/101
-
 
 
 
