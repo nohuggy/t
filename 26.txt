@@ -1,6 +1,6 @@
 大陆新闻,#genre#
 
-
+CCTV9,https://cntv.sbs/tv?auth=2309081833&id=cctv9
 CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
@@ -25,7 +25,7 @@ CCTV9,http://39.134.67.99/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
 CCTV9,http://111.40.196.35/wh7f454c46tw3640300029_615820538/PLTV/88888888/224/3221225502/index.m3u8
 
-
+CCTV13,https://cntv.sbs/tv?auth=2309081833&id=cctv13
 CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8?blog.ntnas.top
@@ -33,7 +33,7 @@ CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 
-
+CCTV4,https://cntv.sbs/tv?auth=2309081833&id=cctv4
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
@@ -46,6 +46,24 @@ CCTV4,http://222.240.82.92:9901/tsfile/live/0004_1.m3u8
 
 港台新闻,#genre#
 
+台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+东森财经新闻,https://fsv4.yj011.net/sat/tv571.flv
+纬来日本,https://fsv4.yj011.net/sat/tv771.flv
+TVBS新闻,https://fsv4.yj011.net/sat/tv551.flv
+TVBS欢乐,https://fsv4.yj011.net/sat/tv421.flv
+MoMo综合,https://fsv4.yj011.net/sat/tv761.flv
+民视,https://fsv4.yj011.net/sat/tv051.flv
+台视,https://fsv4.yj011.net/sat/tv071.flv
+中视,https://fsv4.yj011.net/sat/tv091.flv
+华视,https://fsv4.yj011.net/sat/tv111.flv
+
+东森美洲,https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
+
+TVBS新闻,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
+
+民視,https://epg.pw/stream/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.ctv
+
+三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
@@ -63,14 +81,21 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
+纬来日本,rtmp://9sv2.mine.nu/sat/tv771
+東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 
-
-
-
+凤凰中文,http://r.jdshipin.com/cCCzW
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 
-
+年代新闻,mitv://generationnexxxt.com:19806/c16976cf555b46b592f639c0b3d53a90
+寰宇新闻台湾,mitv://generationnexxxt.com:19806/24e327a606714508a6288bf277932408
+壹电视电影,mitv://generationnexxxt.com:19806/edb678a953df4702858eed6ed2f660ed
+壹电视新闻,mitv://generationnexxxt.com:19806/53313e17abe440299d05b00b8a3d91ba
+壹电视综合,mitv://generationnexxxt.com:19806/171b08b412454d40885eff7dba298a46
+三立新闻,mitv://generationnexxxt.com:19806/876b79bacf0e40adbf0e4134db178c1d
+TLC,mitv://generationnexxxt.com:19806/ff487bf8be7f4facbb509f701d40d61e
+探索频道,mitv://generationnexxxt.com:19806/e7de8eb7942e4d72a52cd4467c7f7e68
 
 
 
@@ -80,18 +105,35 @@ ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0
 
 ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
+ABC AU,https://epg.pw/stream/fcb09c33bbbe99b49dae9289f6d14bde869bd40eb470602eb36c25b293686be6.m3u8
+ABC AU,https://epg.pw/stream/5c4279fe907a89832c7f23157e4660ea0c4425590363073c239bf38e7ce12851.m3u8
+ABC AU,https://epg.pw/stream/bd50c2ea008649ce86116a73e507daf134831c412bdadf73426bf370a457ca37.m3u8
+
+ABC US,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 ABC US,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
 Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/06.m3u8
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-
+BBC News,https://epg.pw/stream/72270b8f508703497ec47e5a82b13fd01e19d2aa5fb32dd8df8d1c599f61a475.m3u8
+BBC News,https://epg.pw/stream/3e78542b0d032b59bf9ae955c23fd2508d6f6d7d7cfc0d329835cf6830d40d9b.ctv
+BBC News,https://epg.pw/stream/970882046cb3fbe5e9984c85221de69ce75643a40f1a05dfc782e5b3ef819f0c.ctv
 BBC News,http://185.236.229.31:9981/play/a072
 
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
+Bloomberg,https://epg.pw/stream/7e7663adcd1e1b78b5cedb4ef269e7db40a3f5f229687c38e854e8d7da2b574c.m3u8
+Bloomberg,https://epg.pw/stream/62cbd4ebd22b4694f6e26929cc28201330c33670c43b8e12afce66f85fb1f725.m3u8
+
+Bloomberg,https://epg.pw/stream/06078d710fa84ca77590852f224b01299894253106a32d4d2d6df2d12133835f.m3u8
+
+Bloomberg,https://epg.pw/stream/2d50cfde574af169f266ccd1a0aa802054a700b87af0d5f391eb15071210796b.m3u8
+
+Bloomberg,https://epg.pw/stream/c866363d4b7de7c85b616ba7eef34c5f3f10096fbc6f5e02433e09413a2ff69e.m3u8
+
+Bloomberg,https://epg.pw/stream/17c701e34283ed24f26f1c1d5369534b2f6fbd1a409e83ce7e43909d5e7efc95.m3u8
 Bloomberg,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/4c5aa2b0d285b7160171fb9212a19982.m3u8
 Bloomberg,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
 
@@ -104,23 +146,32 @@ CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-
+CNN,https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8
+CNN,https://epg.pw/stream/d92f14241352f7e375b28c2fba4b358c0fd17d3c793f0667c8aa2ca4c9f35588.m3u8
 CNN,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
 
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CNA,https://epg.pw/stream/5758533bb7ecf006d3e9e48bafef25c2e3ae710a13570118210cea7ef373ae27.m3u8
+
 
 
 DW,http://185.236.229.31:9981/play/a068
 
+EURONEWS,https://epg.pw/stream/6b43327c52b49f27d9c0264c5e12fce7f1b54774b7457bb182ce3dae8442a446.ctv
 
 France 24,http://178.250.208.141/57/play.m3u8
-
+France 24,https://epg.pw/stream/58cb3d52c80a206560e75814aac1f62cf939ab0161bb8867dba2893ab3c3d8cb.m3u8
 
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FOX News,https://epg.pw/stream/694056fd77b0caa423f375aec7ee243a5313523268126e3cc3ca59bd6247efce.m3u8
+FOX News,https://epg.pw/stream/d82728f35f80b0187bfc382d5c8c4f6ae687a1c6921f4c3776d1fd8f63c2e5f4.m3u8
 
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-
+GLOBAL News,https://epg.pw/stream/089112f4cbf077bc53d16083a94d76bbd51ac45f92aed1754b1748c4ba467b7e.m3u8
+GLOBAL News,https://epg.pw/stream/96ac7230d57efbc574425f0036f1b13ecc58242a8da438f34bd7079ef41255d1.m3u8
+GLOBAL News,https://epg.pw/stream/daf30a3d9bd77b94fc10f1b71872994db13fc8a14238fa4907b08d22c89eda72.m3u8
+GLOBAL News,https://epg.pw/stream/d840085ce7f26e36a60829e43c24f4a24c4546ea1d4c9a24ece4a462a707065b.m3u8
 
 
 NHK World,http://185.236.229.31:9981/play/a05v
@@ -129,11 +180,22 @@ NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/in
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK World,https://epg.pw/stream/bef8cba2d8138b68bfe911a67fbd82c5001a748c6aede3fabdb5b5712964eb53.m3u8
+NHK World,https://epg.pw/stream/21fcd5d1dad3806ae2bec04190353713784be15b715a6285896ad5d14bc55dae.m3u8
+NHK World,https://epg.pw/stream/ee16272ec01227a617e730dc9e9caffe8e431633ab0f383022d8eb667d2f3c71.m3u8
+NHK World,https://epg.pw/stream/ee16272ec01227a617e730dc9e9caffe8e431633ab0f383022d8eb667d2f3c71.m3u8
+NHK World,https://epg.pw/stream/de13e87b8eb00f0cf6d1daaf2faf83e60d17eacc30240fa9a98110a123fa8ead.m3u8
+
 
 
 News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+Newsmax,https://epg.pw/stream/2be690571399aa93091cc4de594713228eb604f10e8f25d3c877b15f2f2dfaba.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+PBS,https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 Reuters,https://f148ce707dce489790ec1aa756fe2dc4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -141,14 +203,21 @@ Reuters,https://f148ce707dce489790ec1aa756fe2dc4.mediatailor.us-east-1.amazonaws
 TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
+TRT World,https://epg.pw/stream/e7d9d86e0868cc58d48c23b03a0a0c16498c6e59e9cd7bd341f098bf583cd3d6.m3u8
 
+TRT World,https://epg.pw/stream/6fe0f61fc374bdbb797bbdb5f6bbea1255f6b7a9738392e323bebdb3b910971f.m3u8
 
+SKY News,https://epg.pw/stream/e2e4216dd95a1f1c90b1dc92bb5e03ce8553f494a0e6814bd4f8ac48d0c834aa.m3u8
+
+RT News,https://epg.pw/stream/f9c788c69ab548b171557c888fa059f0e81878eb06852d08b9846d2f92fd8bb2.m3u8
+RT News,https://epg.pw/stream/49d434d880a98ebcd90a8c803756c85721f7590f66239522d0f7410d2b87b4fd.m3u8
 RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
 
 
 Ukraine TV 1,http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+Ukraine TV 7,https://epg.pw/stream/3d84235eb03c252a69c2291b400b9466bbee1eef82ad08fb046d8a7b739b17e8.m3u8
 Ukraine TV 7,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
 
 Nipon 24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -182,6 +251,13 @@ Discovery,http://173.225.246.25:8889/udp/239.203.20.26:4003
 Discovery,http://173.225.246.25:8889/udp/239.203.20.27:4003
 Discovery,http://173.225.246.25:8889/udp/239.203.20.28:4003
 
+动物星球频道,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+
+NET GEO,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+
+BBC EARTH,https://epg.pw/stream/adf128e098981f4714e823f9f1f6557b761cb79e34251f13e431c6a35374b775.ctv
+
+MTV,https://epg.pw/stream/43958c93ae5465d693da7e6134e95b022d3379a00b3c756645aeed85abaf49c1.m3u8
 E!,http://173.225.246.25:8889/udp/239.203.20.33:4003
 E!,http://173.225.246.25:8889/udp/239.203.20.34:4003
 
@@ -191,6 +267,8 @@ CN,http://173.225.246.25:8889/udp/239.203.20.15:4003
 
 NASA TV,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 NASA TV,http://185.236.229.31:9981/play/a06b
+
+Fashion,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 
 Fashion TV,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Fashion TV,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -229,13 +307,22 @@ TJB,http://1.245.74.5:1935/live/tv/.m3u8
 
 SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
+HBO2,http://208.115.225.174:14140
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 
-
+CHC动作电影,http://cntv.sbs/tv/cbn.php?id=chcdzdyHD
+CHC家庭影院,http://cntv.sbs/tv/cbn.php?id=chcjtyyHD
+CHC高清电影,http://cntv.sbs/tv/cbn.php?id=chcgqdyHD
+Moviespace,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
 音乐,#genre#
 
-
+MUSIC POP,https://epg.pw/stream/9b89c5fb6e28d7401dc76574acf3bd8cb963b758a3b94e6abc023f3f5de3ca8b.m3u8
+M2,http://live.m2.tv/hls3/stream.m3u8
+MUSIC,http://51.210.199.24/hls/stream.m3u8
 
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
@@ -290,11 +377,19 @@ Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/
 
 韩国生活,#genre#
 
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+
+KBS WORLD,https://epg.pw/stream/28f3524227d84af6a4dc48691f493d0ae706daf74d57d5d1cff32c41b284c98e.m3u8
+KBS WORLD,https://epg.pw/stream/dbf98bbd01c423cfd50b4ad1a57fc34e5ba6bdb930b2c93db7f43b8f43dfa6f9.m3u8
+KBS WORLD,https://epg.pw/stream/a2a622e171a9c746699efe6fcdea4a86053a44a421868886e6d824ab463ce213.m3u8
+
 韩国-MBC频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩国-lKCTV中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 韩国·国家电视台,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 韩国·KBC SBS综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-韩国Ⅰ阿里郎世界,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
