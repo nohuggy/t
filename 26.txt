@@ -116,6 +116,10 @@ Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/06.m3u8
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
+
+BBC,http://23.237.104.26:8080/BBC_NEWS/tracks-v1a1/mono.m3u8
+BBC,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+
 BBC News,https://epg.pw/stream/970882046cb3fbe5e9984c85221de69ce75643a40f1a05dfc782e5b3ef819f0c.ctv
 BBC News,https://epg.pw/stream/72270b8f508703497ec47e5a82b13fd01e19d2aa5fb32dd8df8d1c599f61a475.m3u8
 BBC News,http://185.236.229.31:9981/play/a072
@@ -155,6 +159,7 @@ CNA,https://epg.pw/stream/5758533bb7ecf006d3e9e48bafef25c2e3ae710a13570118210cea
 
 
 DW,http://185.236.229.31:9981/play/a068
+DW,https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
 
 EURONEWS,https://epg.pw/stream/6b43327c52b49f27d9c0264c5e12fce7f1b54774b7457bb182ce3dae8442a446.ctv
 
@@ -228,7 +233,11 @@ Nipon 24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 环球生活,#genre#
 
+TLC,http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
 
+TLC,http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271
+
+TLC,http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
 Bloomberg,http://173.225.246.25:8889/udp/239.203.20.9:4003
 Bloomberg,http://173.225.246.25:8889/udp/239.203.20.10:4003
@@ -245,6 +254,10 @@ CNN,http://173.225.246.25:8889/udp/239.203.20.22:4003
 
 Vraylar,http://173.225.246.25:8889/udp/239.203.20.23:4003
 Vraylar,http://173.225.246.25:8889/udp/239.203.20.24:4003
+
+Discovery,http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+
+Discovery,http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 
 Discovery,http://173.225.246.25:8889/udp/239.203.20.26:4003
 Discovery,http://173.225.246.25:8889/udp/239.203.20.27:4003
