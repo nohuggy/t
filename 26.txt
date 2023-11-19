@@ -1,6 +1,5 @@
 大陆新闻,#genre#
 
-CCTV9,https://cntv.sbs/tv?auth=2309081833&id=cctv9
 CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
@@ -25,7 +24,6 @@ CCTV9,http://39.134.67.99/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
 CCTV9,http://111.40.196.35/wh7f454c46tw3640300029_615820538/PLTV/88888888/224/3221225502/index.m3u8
 
-CCTV13,https://cntv.sbs/tv?auth=2309081833&id=cctv13
 CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8?blog.ntnas.top
@@ -33,7 +31,6 @@ CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 
-CCTV4,https://cntv.sbs/tv?auth=2309081833&id=cctv4
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
@@ -46,22 +43,6 @@ CCTV4,http://222.240.82.92:9901/tsfile/live/0004_1.m3u8
 
 港台新闻,#genre#
 
-台视,http://162.19.247.76:22222/live/taishi/index.m3u8
-东森财经新闻,https://fsv4.yj011.net/sat/tv571.flv
-纬来日本,https://fsv4.yj011.net/sat/tv771.flv
-TVBS新闻,https://fsv4.yj011.net/sat/tv551.flv
-TVBS欢乐,https://fsv4.yj011.net/sat/tv421.flv
-MoMo综合,https://fsv4.yj011.net/sat/tv761.flv
-民视,https://fsv4.yj011.net/sat/tv051.flv
-台视,https://fsv4.yj011.net/sat/tv071.flv
-中视,https://fsv4.yj011.net/sat/tv091.flv
-华视,https://fsv4.yj011.net/sat/tv111.flv
-
-东森美洲,https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
-
-TVBS新闻,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
-
-民視,https://epg.pw/stream/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.ctv
 
 三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 
@@ -117,15 +98,9 @@ Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 
-BBC,http://23.237.104.26:8080/BBC_NEWS/tracks-v1a1/mono.m3u8
-BBC,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-
-BBC News,https://epg.pw/stream/970882046cb3fbe5e9984c85221de69ce75643a40f1a05dfc782e5b3ef819f0c.ctv
+BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 BBC News,https://epg.pw/stream/72270b8f508703497ec47e5a82b13fd01e19d2aa5fb32dd8df8d1c599f61a475.m3u8
 BBC News,http://185.236.229.31:9981/play/a072
-
-BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 Bloomberg,https://epg.pw/stream/7e7663adcd1e1b78b5cedb4ef269e7db40a3f5f229687c38e854e8d7da2b574c.m3u8
 Bloomberg,https://epg.pw/stream/62cbd4ebd22b4694f6e26929cc28201330c33670c43b8e12afce66f85fb1f725.m3u8
@@ -157,12 +132,6 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNA,https://epg.pw/stream/5758533bb7ecf006d3e9e48bafef25c2e3ae710a13570118210cea7ef373ae27.m3u8
 
 
-
-DW,http://185.236.229.31:9981/play/a068
-DW,https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
-
-EURONEWS,https://epg.pw/stream/6b43327c52b49f27d9c0264c5e12fce7f1b54774b7457bb182ce3dae8442a446.ctv
-
 France 24,http://178.250.208.141/57/play.m3u8
 France 24,https://epg.pw/stream/58cb3d52c80a206560e75814aac1f62cf939ab0161bb8867dba2893ab3c3d8cb.m3u8
 
@@ -172,10 +141,10 @@ FOX News,https://epg.pw/stream/d82728f35f80b0187bfc382d5c8c4f6ae687a1c6921f4c377
 
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-GLOBAL News,https://epg.pw/stream/089112f4cbf077bc53d16083a94d76bbd51ac45f92aed1754b1748c4ba467b7e.m3u8
-GLOBAL News,https://epg.pw/stream/96ac7230d57efbc574425f0036f1b13ecc58242a8da438f34bd7079ef41255d1.m3u8
-GLOBAL News,https://epg.pw/stream/daf30a3d9bd77b94fc10f1b71872994db13fc8a14238fa4907b08d22c89eda72.m3u8
-GLOBAL News,https://epg.pw/stream/d840085ce7f26e36a60829e43c24f4a24c4546ea1d4c9a24ece4a462a707065b.m3u8
+Global News,https://epg.pw/stream/089112f4cbf077bc53d16083a94d76bbd51ac45f92aed1754b1748c4ba467b7e.m3u8
+Global News,https://epg.pw/stream/96ac7230d57efbc574425f0036f1b13ecc58242a8da438f34bd7079ef41255d1.m3u8
+Global News,https://epg.pw/stream/daf30a3d9bd77b94fc10f1b71872994db13fc8a14238fa4907b08d22c89eda72.m3u8
+Global News,https://epg.pw/stream/d840085ce7f26e36a60829e43c24f4a24c4546ea1d4c9a24ece4a462a707065b.m3u8
 
 
 NHK World,http://185.236.229.31:9981/play/a05v
@@ -201,8 +170,6 @@ Newsmax,https://epg.pw/stream/2be690571399aa93091cc4de594713228eb604f10e8f25d3c8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 PBS,https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
-Reuters,https://f148ce707dce489790ec1aa756fe2dc4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
 
 TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
@@ -216,11 +183,7 @@ SKY News,https://epg.pw/stream/e2e4216dd95a1f1c90b1dc92bb5e03ce8553f494a0e6814bd
 RT News,https://epg.pw/stream/f9c788c69ab548b171557c888fa059f0e81878eb06852d08b9846d2f92fd8bb2.m3u8
 RT News,https://epg.pw/stream/49d434d880a98ebcd90a8c803756c85721f7590f66239522d0f7410d2b87b4fd.m3u8
 RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-
-
-Ukraine TV 1,http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
 Ukraine TV 7,https://epg.pw/stream/3d84235eb03c252a69c2291b400b9466bbee1eef82ad08fb046d8a7b739b17e8.m3u8
 Ukraine TV 7,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
 
