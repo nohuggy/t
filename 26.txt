@@ -379,11 +379,6 @@ TLC,http://sharkytv.com:2082/7Yfd82An4EncW4di/KHd7gJsv64Jei@gdj6/205837
 TLC,http://sharkytv.com:2082/7Yfd82An4EncW4di/KHd7gJsv64Jei@gdj6/212405
 
 
-FOOD,http://sharkytv.com:2082/7Yfd82An4EncW4di/KHd7gJsv64Jei@gdj6/212279
-NAT GEO,http://sharkytv.com:2082/7Yfd82An4EncW4di/KHd7gJsv64Jei@gdj6/159745
-
-
-Discovery,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/88440.ts
 Discovery,http://tvstar.icu:8080/champion/champion/57252
 
 NAT GEO,http://tvstar.icu:8080/champion/champion/57281
@@ -400,9 +395,8 @@ MTV Classic,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/88496.ts
 MTV LIVE,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/208.ts
 MTV LIVE,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/162828.ts
 
-MTV MUSIC,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/206.ts
+MTV 90s,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/206.ts
 
-MTV MUSIC,http://sharkytv.com:2082/7Yfd82An4EncW4di/KHd7gJsv64Jei@gdj6/212332
 MTV Hits,http://tvstar.icu:8080/champion/champion/53735
 
 
