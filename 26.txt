@@ -458,9 +458,8 @@ ADULTO GAY 17,http://limetv.me:80/4627val/608516/91271
 ADULTO GAY 18,http://limetv.me:80/4627val/608516/91272
 ADULTO GAY 19,http://limetv.me:80/4627val/608516/91273
 
-GAY,http://tv.fullytv.com:8080/CabezaFer/3319/47992
-GAY,http://live.redtraffic.xyz/gay.m3u8
 GAY,http://cdn.adultiptv.net/gay.m3u8
+GAY,http://live.redtraffic.xyz/gay.m3u8
 
 
 
