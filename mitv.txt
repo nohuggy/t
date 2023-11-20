@@ -2,12 +2,6 @@ World News,#genre#
 BBC World News,mitv://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
 BBC World News,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
 
-DW 1,vjms://23.237.115.18:8500:3502/live/cid=365
-DW 2,tvbus://2xbq5o8vEY73SX1Ef1khhap1xj323hYzQmZUWv2kLCkBJna9Fc
-DW 3,rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
-DW 4,P2p://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
-DW 5,mitv://ns2.hellotvvod.com:9906/55e95d8dc4214adbbeb0a7ecc3cae44e
-DW 6,p2p://ns2.hellotvvod.com:9906/15682209151b4336aac6d2d691dda8ed.ts
 
 CNA,mitv://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
 CNA,mitv://135.148.104.228:19806/52b67f21b37b4764a87c33dd46844fdb
