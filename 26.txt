@@ -409,6 +409,39 @@ MTV MUSIC,http://sharkytv.com:2082/7Yfd82An4EncW4di/KHd7gJsv64Jei@gdj6/212332
 MTV Hits,http://tvstar.icu:8080/champion/champion/53735
 
 
+测试2,#genre#
+Fashion TV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+MTV Live,https://ucdn.beetv.kz/btv/live/hls/000000447.m3u8
+TLC,http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
+MTV Hits,https://epg.pw/stream/27e861a43ecf6b2489ffa8e32066b56b786afe4d6b425b9a54f28df8f118dcd8.m3u8
+
+ABC News AU,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/6120/index.m3u8
+BBC News,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/545/index.m3u8
+BBC News,http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/696
+CBS Reality,http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/4647
+CNBC,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/962/index.m3u8
+CNN,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/842/index.m3u8
+SKY News UK,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/2475/index.m3u8
+TLC UK,http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1067
+TLC UK,http://195.128.248.216:8080/jairopt58/34mp3g/306121
+
+TLC Ireland,http://195.128.248.216:8080/jairopt58/34mp3g/306120
+
+TLC,http://ottshow.net:80/live/SpahaOBN20230519/GuimkhvDGc9o/23260.ts
+
+HGTV US,http://195.128.248.216:8080/jairopt58/34mp3g/304770
+
+
+MTV Live,http://195.128.248.216:8080/jairopt58/34mp3g/304933
+
+RT News,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/840/index.m3u8
+
+BBC Entertainment,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/19180/index.m3u8
+
+MTV Hits,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/153/index.m3u8
+MTV 90s,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/1038/index.m3u8
+Now 80s,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/19196/index.m3u8
+Now 90s,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/19197/index.m3u8
 
 
 
