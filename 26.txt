@@ -367,11 +367,8 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
 测试1,#genre#
 
-HGTV,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/88477.ts
-
 HGTV,http://tvstar.icu:8080/champion/champion/57273
 
-TLC,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/88557.ts
 TLC,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/154525.ts
 
 TLC,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/454.ts
