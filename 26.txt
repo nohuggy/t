@@ -407,8 +407,7 @@ TLC,http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=1922
 MTV Hits,https://epg.pw/stream/27e861a43ecf6b2489ffa8e32066b56b786afe4d6b425b9a54f28df8f118dcd8.m3u8
 
 ABC News AU,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/6120/index.m3u8
-BBC News,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/545/index.m3u8
-BBC News,http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/696
+
 CBS Reality,http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/4647
 CNBC,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/962/index.m3u8
 CNN,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/842/index.m3u8
