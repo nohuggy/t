@@ -1,5 +1,7 @@
 World News,#genre#
 
+BBCWorldNews,mitv://135.148.104.228:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
+
 
 BBC World News,mitv://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
 BBC World News,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
