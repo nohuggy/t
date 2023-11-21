@@ -1,4 +1,9 @@
 World News,#genre#
+
+BBC World News,mitv://135.148.104.228:19806/4500941de27f434cae09553a1f0ed4d1
+DW,mitv://135.148.104.228:19806/da713062bd9d419a913b6e9b1aef8fb6
+France24,mitv://135.148.104.228:19806/36154fded93f445f863db448232fffa4
+
 BBC World News,mitv://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
 BBC World News,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
 
