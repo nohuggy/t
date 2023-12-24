@@ -1,57 +1,36 @@
 大陆新闻,#genre#
 
+CCTV1,https://epg.pw/stream/ed56f455ae3fdab6f18723bceb3da6c3ee2e7ad0914baa05f5a533c02f6f303d.ctv
+
 CCTV2,https://epg.pw/stream/e1dc96915d2db9becf6a22f88cfa287e3b2b9a510649ba8c989e7609059fd20b.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+
+CCTV4,https://epg.pw/stream/43229ec03f2ba5352c33770df9061aa26a5624068b51b1c1ed9ab98c9109acf6.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV4,http://39.134.65.175/PLTV/88888888/224/3221225797/index.m3u8
 
 CCTV9,https://epg.pw/stream/8a99231be509bad4d51d74a2627680b3a42f0a75872d75a0089ca362c99fa7fb.m3u8
-
 CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
-CCTV9,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
+CCTV9,http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9,http://39.134.67.99/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://39.134.66.46/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://39.134.65.179/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://39.134.65.181/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://39.134.65.166/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://39.134.65.183/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://39.134.65.173/PLTV/88888888/224/3221225676/index.m3u8
-
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8?blog.ntnas.top
-CCTV9,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
-CCTV9,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
-CCTV9,http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
-CCTV9,http://39.134.67.99/PLTV/88888888/224/3221225676/index.m3u8
-CCTV9,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
-CCTV9,http://111.40.196.35/wh7f454c46tw3640300029_615820538/PLTV/88888888/224/3221225502/index.m3u8
+
 
 CCTV13,https://epg.pw/stream/81625edf2cc9baae0d7f7cf1e070e6ba05b2acd4056442384577655089e0843c.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV13,http://devlivepull.migucloud.com/live/3S6PAWLT_C0.flv
 CCTV13,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-
-CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8?blog.ntnas.top
-CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
-
-CCTV4,https://epg.pw/stream/43229ec03f2ba5352c33770df9061aa26a5624068b51b1c1ed9ab98c9109acf6.m3u8
-
-CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-CCTV4,http://39.134.65.175/PLTV/88888888/224/3221225797/index.m3u8
-CCTV4,http://222.240.82.92:9901/tsfile/live/0004_1.m3u8
-
-CCTV1,https://epg.pw/stream/ed56f455ae3fdab6f18723bceb3da6c3ee2e7ad0914baa05f5a533c02f6f303d.ctv
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 
 CCTV6,https://epg.pw/stream/7bbfe5fb8392af3f4ffdc18217c886d0937de05315ed7980dc17d9578d4411ac.m3u8
 
@@ -59,62 +38,23 @@ CCTV6,https://epg.pw/stream/7bbfe5fb8392af3f4ffdc18217c886d0937de05315ed7980dc17
 辽宁卫视,https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8
 辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8
 
-凤凰资讯,http://rihou.cc:61/qiepian/xianggang.php?id=fhzx
-凤凰中文,https://i.125011.xyz/fhx.php?id=fhzw
+
 
 
 
 港台新闻,#genre#
 
-
-三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-
-
-中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
-
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-
-
-
-台视新闻,https://ytb.52sf.ga/jmsytb.m3u8?c=6
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-
 纬来日本,rtmp://9sv2.mine.nu/sat/tv771
-東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-
-凤凰中文,http://r.jdshipin.com/cCCzW
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-
-年代新闻,mitv://generationnexxxt.com:19806/c16976cf555b46b592f639c0b3d53a90
-寰宇新闻台湾,mitv://generationnexxxt.com:19806/24e327a606714508a6288bf277932408
-壹电视电影,mitv://generationnexxxt.com:19806/edb678a953df4702858eed6ed2f660ed
-壹电视新闻,mitv://generationnexxxt.com:19806/53313e17abe440299d05b00b8a3d91ba
-壹电视综合,mitv://generationnexxxt.com:19806/171b08b412454d40885eff7dba298a46
-三立新闻,mitv://generationnexxxt.com:19806/876b79bacf0e40adbf0e4134db178c1d
-TLC,mitv://generationnexxxt.com:19806/ff487bf8be7f4facbb509f701d40d61e
-探索频道,mitv://generationnexxxt.com:19806/e7de8eb7942e4d72a52cd4467c7f7e68
 
 
 
 环球新闻,#genre#
 
 ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-
 ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
 ABC AU,https://epg.pw/stream/fcb09c33bbbe99b49dae9289f6d14bde869bd40eb470602eb36c25b293686be6.m3u8
-ABC AU,https://epg.pw/stream/5c4279fe907a89832c7f23157e4660ea0c4425590363073c239bf38e7ce12851.m3u8
 ABC AU,https://epg.pw/stream/bd50c2ea008649ce86116a73e507daf134831c412bdadf73426bf370a457ca37.m3u8
 
-ABC US,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-ABC US,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
 Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/06.m3u8
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
@@ -123,7 +63,6 @@ Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 BBC News,https://epg.pw/stream/72270b8f508703497ec47e5a82b13fd01e19d2aa5fb32dd8df8d1c599f61a475.m3u8
-BBC News,http://185.236.229.31:9981/play/a072
 
 Bloomberg,https://epg.pw/stream/7e7663adcd1e1b78b5cedb4ef269e7db40a3f5f229687c38e854e8d7da2b574c.m3u8
 Bloomberg,https://epg.pw/stream/62cbd4ebd22b4694f6e26929cc28201330c33670c43b8e12afce66f85fb1f725.m3u8
@@ -146,13 +85,11 @@ CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA,https://epg.pw/stream/5758533bb7ecf006d3e9e48bafef25c2e3ae710a13570118210cea7ef373ae27.m3u8
 
-CNN,https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8
-CNN,https://epg.pw/stream/d92f14241352f7e375b28c2fba4b358c0fd17d3c793f0667c8aa2ca4c9f35588.m3u8
 CNN,http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
 
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-CNA,https://epg.pw/stream/5758533bb7ecf006d3e9e48bafef25c2e3ae710a13570118210cea7ef373ae27.m3u8
 
 
 France 24,http://178.250.208.141/57/play.m3u8
@@ -162,6 +99,7 @@ FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FOX News,https://epg.pw/stream/694056fd77b0caa423f375aec7ee243a5313523268126e3cc3ca59bd6247efce.m3u8
 FOX News,https://epg.pw/stream/d82728f35f80b0187bfc382d5c8c4f6ae687a1c6921f4c3776d1fd8f63c2e5f4.m3u8
 
+
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Global News,https://epg.pw/stream/089112f4cbf077bc53d16083a94d76bbd51ac45f92aed1754b1748c4ba467b7e.m3u8
@@ -170,29 +108,19 @@ Global News,https://epg.pw/stream/daf30a3d9bd77b94fc10f1b71872994db13fc8a14238fa
 Global News,https://epg.pw/stream/d840085ce7f26e36a60829e43c24f4a24c4546ea1d4c9a24ece4a462a707065b.m3u8
 
 
-NHK World,http://185.236.229.31:9981/play/a05v
-NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK World,https://epg.pw/stream/bef8cba2d8138b68bfe911a67fbd82c5001a748c6aede3fabdb5b5712964eb53.m3u8
-NHK World,https://epg.pw/stream/21fcd5d1dad3806ae2bec04190353713784be15b715a6285896ad5d14bc55dae.m3u8
 NHK World,https://epg.pw/stream/ee16272ec01227a617e730dc9e9caffe8e431633ab0f383022d8eb667d2f3c71.m3u8
 NHK World,https://epg.pw/stream/ee16272ec01227a617e730dc9e9caffe8e431633ab0f383022d8eb667d2f3c71.m3u8
 NHK World,https://epg.pw/stream/de13e87b8eb00f0cf6d1daaf2faf83e60d17eacc30240fa9a98110a123fa8ead.m3u8
 
 
-
-News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-Newsmax,https://epg.pw/stream/2be690571399aa93091cc4de594713228eb604f10e8f25d3c877b15f2f2dfaba.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-PBS,https://pbs-samsunguk.amagi.tv/playlist.m3u8
-
 
 TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
@@ -203,7 +131,7 @@ TRT World,https://epg.pw/stream/6fe0f61fc374bdbb797bbdb5f6bbea1255f6b7a9738392e3
 
 SKY News,https://epg.pw/stream/e2e4216dd95a1f1c90b1dc92bb5e03ce8553f494a0e6814bd4f8ac48d0c834aa.m3u8
 
-RT,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT News,https://epg.pw/stream/f9c788c69ab548b171557c888fa059f0e81878eb06852d08b9846d2f92fd8bb2.m3u8
 RT News,https://epg.pw/stream/49d434d880a98ebcd90a8c803756c85721f7590f66239522d0f7410d2b87b4fd.m3u8
 RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -222,63 +150,18 @@ Nipon 24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 环球生活,#genre#
 
 
-
-Bloomberg,http://173.225.246.25:8889/udp/239.203.20.9:4003
-Bloomberg,http://173.225.246.25:8889/udp/239.203.20.10:4003
-
-Bravo,http://173.225.246.25:8889/udp/239.203.20.11:4003
-
-
-CBC,http://173.225.246.25:8889/udp/239.203.20.16:4003
-CBC,http://173.225.246.25:8889/udp/239.203.20.17:4003
-CBC,http://173.225.246.25:8889/udp/239.203.20.18:4003
-
-CNBC,http://173.225.246.25:8889/udp/239.203.20.21:4003
-CNN,http://173.225.246.25:8889/udp/239.203.20.22:4003
-
-Vraylar,http://173.225.246.25:8889/udp/239.203.20.23:4003
-Vraylar,http://173.225.246.25:8889/udp/239.203.20.24:4003
-
-
-
-Discovery,http://173.225.246.25:8889/udp/239.203.20.26:4003
-Discovery,http://173.225.246.25:8889/udp/239.203.20.27:4003
-Discovery,http://173.225.246.25:8889/udp/239.203.20.28:4003
-
 Animal Planet,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Animal Planet,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-
-NET GEO,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-
-BBC EARTH,https://epg.pw/stream/adf128e098981f4714e823f9f1f6557b761cb79e34251f13e431c6a35374b775.ctv
-
-MTV,https://epg.pw/stream/43958c93ae5465d693da7e6134e95b022d3379a00b3c756645aeed85abaf49c1.m3u8
-E!,http://173.225.246.25:8889/udp/239.203.20.33:4003
-E!,http://173.225.246.25:8889/udp/239.203.20.34:4003
-
-CN,http://173.225.246.25:8889/udp/239.203.20.15:4003
 
 
 
-NASA TV,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-NASA TV,http://185.236.229.31:9981/play/a06b
 
 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-
-Fashion TV,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-Fashion TV,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-Fashion TV,https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 Fashion TV,http://185.236.229.31:9981/play/a07w
 Fashion TV,http://185.236.229.31:9981/play/a07v
 Fashion TV,http://185.236.229.31:9981/play/a07u
 
-
-
-
-Fashion TV,https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8?ads.wurl_channel=902&ads.wurl_name=FashionTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
 The Guardian,https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8?ads.wurl_channel=1034&ads.wurl_name=TheGuardianChannel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -288,7 +171,6 @@ Entertainment Hub,https://d1wa6bd97begp2.cloudfront.net/v1/master/3722c60a815c19
 
 Midsomer Murders,https://d33bth8owvmhra.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mxz7f6wnov5gu-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-Court TV,https://d10xxv3imbvgvm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CourtTV-Canada-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 Deal or No Deal,https://dupsehd9sd6ra.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dabu20bb1iisi-prod/amgdealornodeal/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -296,71 +178,18 @@ Game Show Central,https://cf289725d35440ecb69f75421bd40fa5.mediatailor.us-east-1
 
 
 
-
-KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-
 TJB,http://1.245.74.5:1935/live/tv/.m3u8
 
 SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
 HBO2,http://208.115.225.174:14140
-CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-
-CHC动作电影,http://cntv.sbs/tv/cbn.php?id=chcdzdyHD
-CHC家庭影院,http://cntv.sbs/tv/cbn.php?id=chcjtyyHD
-CHC高清电影,http://cntv.sbs/tv/cbn.php?id=chcgqdyHD
-Moviespace,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
 音乐,#genre#
 
 MUSIC POP,https://epg.pw/stream/9b89c5fb6e28d7401dc76574acf3bd8cb963b758a3b94e6abc023f3f5de3ca8b.m3u8
 M2,http://live.m2.tv/hls3/stream.m3u8
-MUSIC,http://51.210.199.24/hls/stream.m3u8
 
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-
-
-CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
-CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-
-Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-
-
-
-
-Vevo Híp-hop,https://eu.linear.zype.com/2897d30e-5ed8-42e5-9823-b22cd53f289f/d8db1183-fbab-41e7-a956-5ee16ffb16b6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-Vevo Pop,https://eu.linear.zype.com/a30f2d9e-7eee-4fc7-896f-24a85829c9c2/fbfb8efa-c5fa-4fec-91f7-03a4224c11dc-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-Vevo Pop,https://eu.linear.zype.com/ddc9a2e1-559f-4231-978d-988e6ed3496e/39aafa78-d7c6-49a3-9057-59cdadaa2fb6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-
-
-Vevo 90s & 80s,https://eu.linear.zype.com/dbd38661-af53-44d2-b5e7-cec4bf963939/d476b7a5-eabc-4afd-8760-b049d5a6dbd9-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-
-Vevo 80s,https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
-
-
-Trace Urban,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-
-XITE Hits,https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-
-Deluxe Lounge,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-
-
-
-
-Music Top,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 
 格莱美音乐,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
@@ -373,7 +202,6 @@ Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/
 
 韩国生活,#genre#
 
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
@@ -396,31 +224,25 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
 HGTV,http://tvstar.icu:8080/champion/champion/57273
 
-TLC,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/154525.ts
 
 TLC,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/454.ts
 TLC,http://tvstar.icu:8080/champion/champion/53681
 TLC,http://tvstar.icu:8080/champion/champion/57290
-TLC,https://live-fi.tvkaista.net/tlc/live.m3u8
-TLC,http://sharkytv.com:2082/7Yfd82An4EncW4di/KHd7gJsv64Jei@gdj6/205837
-TLC,http://sharkytv.com:2082/7Yfd82An4EncW4di/KHd7gJsv64Jei@gdj6/212405
+
 
 
 Discovery,http://tvstar.icu:8080/champion/champion/57252
 
-NAT GEO,http://tvstar.icu:8080/champion/champion/57281
 
 BBC One,http://tvstar.icu:8080/champion/champion/53649
 BBC Two,http://tvstar.icu:8080/champion/champion/53650
-ITV1,http://tvstar.icu:8080/champion/champion/53651
-ITV3,http://tvstar.icu:8080/champion/champion/53665
+
 
 MTV Base,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/207.ts
 MTV Classic,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/88496.ts
 
 
 MTV LIVE,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/208.ts
-MTV LIVE,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/162828.ts
 
 MTV 90s,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/206.ts
 
@@ -429,36 +251,11 @@ MTV Hits,http://tvstar.icu:8080/champion/champion/53735
 
 测试2,#genre#
 Fashion TV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-MTV Live,https://ucdn.beetv.kz/btv/live/hls/000000447.m3u8
-TLC,http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
+
 MTV Hits,https://epg.pw/stream/27e861a43ecf6b2489ffa8e32066b56b786afe4d6b425b9a54f28df8f118dcd8.m3u8
 
-ABC News AU,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/6120/index.m3u8
-
-CBS Reality,http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/4647
-CNBC,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/962/index.m3u8
-CNN,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/842/index.m3u8
-SKY News UK,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/2475/index.m3u8
-TLC UK,http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1067
-TLC UK,http://195.128.248.216:8080/jairopt58/34mp3g/306121
-
-TLC Ireland,http://195.128.248.216:8080/jairopt58/34mp3g/306120
-
-TLC,http://ottshow.net:80/live/SpahaOBN20230519/GuimkhvDGc9o/23260.ts
-
-HGTV US,http://195.128.248.216:8080/jairopt58/34mp3g/304770
 
 
-MTV Live,http://195.128.248.216:8080/jairopt58/34mp3g/304933
-
-RT News,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/840/index.m3u8
-
-BBC Entertainment,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/19180/index.m3u8
-
-MTV Hits,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/153/index.m3u8
-MTV 90s,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/1038/index.m3u8
-Now 80s,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/19196/index.m3u8
-Now 90s,http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/19197/index.m3u8
 
 
 
@@ -490,6 +287,7 @@ GAY,http://live.redtraffic.xyz/gay.m3u8
 
 
 Full Porn,#genre#
+Freshmen Issue 222,https://b2.ledvop.buzz/43442/index.m3u8
 Angel Elias and Benjamin Blue,https://b2.jirmom.buzz/44135/index.m3u8
 Finn Harper John Hardy,https://r2.2022gay.cfd/ts_gv2023/24923/index.m3u8
 Jacob Acosta Trevor Brooks.https://r2.aiaigv.com/ts_gv2023/34828/index.m3u8
@@ -545,7 +343,6 @@ Latin Leche Numero 180 Talking Bodies Emanuel e Rocco,http://limetv.me:80/movie/
 
 Adult Porn,#genre#
 
-DORCE,http://tv.fullytv.com:8080/CabezaFer/3319/1168230
 
 Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
