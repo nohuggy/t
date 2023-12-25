@@ -53,21 +53,15 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 凤凰卫视中文台,http://113.117.74.59:8081/hls/37/index.m3u8#http://103.45.68.47:666/gy/gy_thHDqL/%E8%B4%B5%E5%B7%9E%E9%95%BFid.php?id=7eeb6c4285b0fcd7c9a265cf4d5bfac5
 凤凰卫视资讯台,http://113.117.74.59:8081/hls/36/index.m3u8#http://103.45.68.47:666/gy/gy_thHDqL/%E8%B4%B5%E5%B7%9E%E9%95%BFid.php?id=4ea97af53693ae02392251697dbb52fd
 凤凰卫视香港台,http://113.117.74.59:8081/hls/38/index.m3u8
-TVB翡翠台,http://bziyunshao.synology.me:8889/bysid/1#http://103.45.68.47:666/gy/gy_thHDqL/%E8%B1%86%E8%B1%86.php?id=1350_4500
 TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#http://103.45.68.47:666/gy/gy_thHDqL/豆豆.php?id=1351_4500
 TVBJ2,http://bziyunshao.synology.me:8890/bysid/82
-TVB无线新闻,http://bziyunshao.synology.me:8890/bysid/83
-TVB无线财经资讯,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
-TVB娱乐新闻,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB星河台,http://113.117.74.59:8081/hls/135/index.m3u8#http://171.108.239.46:8020/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0#http://r.jdshipin.com/sXuuD
 ViuTV,http://bziyunshao.synology.me:8889/bysid/99
 ViuTVSix,http://bziyunshao.synology.me:8889/bysid/96
 
 World News,#genre#
-
-BBC World News,mitv://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
-BBC World News,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
 BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
+BBC World News,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
 
 
 CNA,mitv://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
@@ -89,56 +83,9 @@ Euronews,mitv://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
 Euronews,mitv://135.148.104.228:19806/5b3289dff2154e2c8e166cc3f081f326
 
 
-TVBS亞洲,mitv://135.148.104.228:19806/52b66c4260b24e4683a9dac1cbba2d4d
-TVBS亞洲,mitv://generationnexxxt.com:19806/52b66c4260b24e4683a9dac1cbba2d4d
+
 東森亞洲衛視,mitv://generationnexxxt.com:19806/8a43d9cb067b47aaa8fd5f550930be0c
 
-
-北美,#genre#
-CNBC,mitv://135.148.104.228:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
-BloombergTV,mitv://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
-ESPN,mitv://135.148.104.228:19806/2436baa9e481444fa785298d5931bdba
-600TV,mitv://135.148.104.228:19806/64c36a1900089f29fd2b824d6b4b65c1
-CBSN,mitv://135.148.104.228:19806/697a642115f74499aafe783d34690381
-FoxNews,mitv://135.148.104.228:19806/e9305a82b75c42f5901c0594e063e999
-NBA,mitv://135.148.104.228:19806/65159b8e000aa81c3e3cd2861b6b31f1
-新時代1(西部),mitv://135.148.104.228:19806/a3d06a9ecf30410582ad64ed15cdf6fd
-新時代2,mitv://135.148.104.228:19806/65013e4c0002afeaeeb07d8a59ff6121
-新時代1(東部),mitv://135.148.104.228:19806/28d014f7982c4041ab7197218b9c1284
-城市電視,mitv://135.148.104.228:19806/a18fbea7eddd4079b3e2e684d19df5c4
-FoxNews,mitv://135.148.104.228:19806/5cdbb62f542843da8d140520a0a966bc
-BBCWorldNews,mitv://135.148.104.228:19806/416eca57b45148398865fc4dabf40b72
-CNNUSA,mitv://135.148.104.228:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
-CBCNews,mitv://135.148.104.228:19806/7fbe49af6e5a4041ad124362351e4b20
-MSNBC,mitv://135.148.104.228:19806/27c4d56058c44a4e9c41a98a99a7bc13
-CTVNews,mitv://135.148.104.228:19806/c48d5139ac954dbaa49a8b0e23af6e16
-BusinessNewsNetwork,mitv://135.148.104.228:19806/dc5be6cec9ba4284900e5670cbcae0bb
-CP24,mitv://135.148.104.228:19806/6186394bd1ff4b8b9757d542a9ca2e4b
-TheWeatherNetwork,mitv://135.148.104.228:19806/c556ed82dcc2453dabd398273651d952
-TheWeatherChannel,mitv://135.148.104.228:19806/499917ffa94444328d65744d929c1eb3
-KOMO4TV,mitv://135.148.104.228:19806/fab26bb6a6f942f2bf0b415dd9970c67
-CNBC,mitv://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
-Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
-600TV,mitv://generationnexxxt.com:19806/64c36a1900089f29fd2b824d6b4b65c1
-CBSN,mitv://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
-Fox News,mitv://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
-NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
-新時代1(西部),mitv://generationnexxxt.com:19806/a3d06a9ecf30410582ad64ed15cdf6fd
-新時代2,mitv://generationnexxxt.com:19806/65013e4c0002afeaeeb07d8a59ff6121
-新時代1(東部),mitv://generationnexxxt.com:19806/28d014f7982c4041ab7197218b9c1284
-城市電視,mitv://generationnexxxt.com:19806/a18fbea7eddd4079b3e2e684d19df5c4
-Fox News,mitv://generationnexxxt.com:19806/5cdbb62f542843da8d140520a0a966bc
-BBC World News,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
-CNN USA,mitv://generationnexxxt.com:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
-CBC News,mitv://generationnexxxt.com:19806/7fbe49af6e5a4041ad124362351e4b20
-MSNBC,mitv://generationnexxxt.com:19806/27c4d56058c44a4e9c41a98a99a7bc13
-CTV News,mitv://generationnexxxt.com:19806/c48d5139ac954dbaa49a8b0e23af6e16
-Business News Network,mitv://generationnexxxt.com:19806/dc5be6cec9ba4284900e5670cbcae0bb
-CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
-The Weather Network,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
-The Weather Channel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
-KOMO 4 TV,mitv://generationnexxxt.com:19806/fab26bb6a6f942f2bf0b415dd9970c67
 
 
 世界821706,#genre#
