@@ -102,7 +102,6 @@ TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 非凡新闻台,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 三立iNEWS,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 中视新闻台,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
-寰宇新闻台,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 华视新闻,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
 NHK新闻资讯台,mitv://generationnexxxt.com:19806/c2da55d84a72418c8f1876c25ec97a1d
 东森新闻台(备),mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
