@@ -342,12 +342,6 @@ MTV 90s,http://icetv.uk:25461/live/haniftelgram/4MrScCubVf/206.ts
 MTV Hits,http://tvstar.icu:8080/champion/champion/53735
 
 
-测试2,#genre#
-Fashion TV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-
-MTV Hits,https://epg.pw/stream/27e861a43ecf6b2489ffa8e32066b56b786afe4d6b425b9a54f28df8f118dcd8.m3u8
-
-
 
 
 
