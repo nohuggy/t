@@ -252,20 +252,20 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 测试1,#genre#
 
 HGTV,http://tvstar.icu:8080/champion/champion/57273
-
 TLC,http://tvstar.icu:8080/champion/champion/53681
 TLC,http://tvstar.icu:8080/champion/champion/57290
-
 Discovery,http://tvstar.icu:8080/champion/champion/57252
-
-
 BBC One,http://tvstar.icu:8080/champion/champion/53649
 BBC Two,http://tvstar.icu:8080/champion/champion/53650
-
-
 MTV Hits,http://tvstar.icu:8080/champion/champion/53735
 
+测试2,#genre#
+Al Jazeeera,http://103.131.214.129:9985/stream/channelid/1242849929?ticket=1AD096AC9B1BDF602E5269EE7DCBA64B84552773&profile=pass
+BBC World News,http://103.131.214.129:9985/stream/channelid/239267223?ticket=3D54A793568B84C3FD41C62F4C40601AA8C275CB&profile=pass
+CNN,http://103.131.214.129:9985/stream/channelid/1768626999?ticket=65A89A477D8970C3B23A6FC58D510D7403A7241C&profile=pass
+TRT News,http://103.131.214.129:9985/stream/channelid/1148118592?ticket=2AA57120E7C4D8C8491D7DE7521605E04859DC21&profile=pass
 
+Discovery,http://103.131.214.129:9985/stream/channelid/517879893?ticket=3D9A304887297AC981397C89DFCC6800FAC4DC31&profile=pass
 
 Full Porn,#genre#
 
