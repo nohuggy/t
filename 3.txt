@@ -284,6 +284,10 @@ Star Movies,http://103.131.214.129:9985/stream/channelid/2113951836?ticket=A3C0D
 
 Star Movies Select,http://103.131.214.129:9985/stream/channelid/452465030?ticket=29AD7FAB645B6F5A4CD9C45FA9F91957FDC066AB&profile=pass
 
+测试3,#genre#
+MTV 00s,http://5.188.182.226:8080/Ferranhug/WaYwqgVj9Z5k/362
+Gay,http://5.188.182.226:8080/Ferranhug/WaYwqgVj9Z5k/392
+
 Full Porn,#genre#
 
 Jacob Acosta Trevor Brooks,https://r2.aiaigv.com/ts_gv2023/34828/index.m3u8
