@@ -226,51 +226,17 @@ Nice TV靖天欢乐台,mitv://generationnexxxt.com:19806/439163cf3469473b8ffd582
 日本,#genre#
 
 閩西テレビ,mitv://135.148.104.228:19806/bfb58a0f01504914883d882ee3082053
-毎日放送,mitv://135.148.104.228:19806/ccac43e2944e468b91bcba848d34c3fd
 朝日放送,mitv://135.148.104.228:19806/b9fd3c1349444e5d8e73b51b2fd298f9
 
 BS日テレ,mitv://135.148.104.228:19806/15653a24109f412d8c13623fe3d8cbce
-BS朝日,mitv://135.148.104.228:19806/823835bf82b648b7b949cd6b10b9465f
 BS-TBS,mitv://135.148.104.228:19806/3158a94fbe3c43d0938fdbb5c727e3d7
 BS11,mitv://135.148.104.228:19806/a4be116db92743e1ac8dc4d6a86ebed1
 BSフジ,mitv://135.148.104.228:19806/ecd5225855164918853748cdf29fa61a
-
-
-スター・チャンネル1,mitv://135.148.104.228:19806/8869813c1bfc46b3ba00e21e2cb35474
-スター・チャンネル2,mitv://135.148.104.228:19806/0293a4ec77f745f4be8700e6f3d8830f
-スター・チャンネル3,mitv://135.148.104.228:19806/0a8db2b6767948c1b4e1e7b86ac4c658
-BSアニマックス,mitv://135.148.104.228:19806/242df12175db458eaa4b56885dfe1ee3
-
-MusicJapanTV,mitv://135.148.104.228:19806/7bbfd7a0233d4861943f8488dc21e075
-キッズステーションHD,mitv://135.148.104.228:19806/434d7c2079e341609cba49f816c81cf55
 日テレNEWS24,mitv://135.148.104.228:19806/c7154b60dd934b43a1e42a0fc1b38734
-旅チャンネル,mitv://135.148.104.228:19806/bab71e3fb519479ea64543d006b8089f
-NHK-G綜合,mitv://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
-日本テレビ,mitv://generationnexxxt.com:19806/e83c93ef5c914ed3826fe7856b81acf0
-TBSテレビ,mitv://generationnexxxt.com:19806/9376bfbc1275463dadf7d89cf5eebf6c
-テレビ東京,mitv://generationnexxxt.com:19806/df391d094cf243bda2d71eea2543f6a3
-フジテレビ,mitv://generationnexxxt.com:19806/54dd404db8674941a08958b36acf24a7
-読売テレビ,mitv://generationnexxxt.com:19806/67e4cf369c3041ae9df1aca8b83fecf8
-閩西テレビ,mitv://generationnexxxt.com:19806/bfb58a0f01504914883d882ee3082053
-KBS京都,mitv://generationnexxxt.com:19806/729ad31db2414a458905bbadb735bbae
-毎日放送,mitv://generationnexxxt.com:19806/ccac43e2944e468b91bcba848d34c3fd
-朝日放送,mitv://generationnexxxt.com:19806/b9fd3c1349444e5d8e73b51b2fd298f9
-テレビ大阪,mitv://generationnexxxt.com:19806/ad58b2a5a3554960a7cab3825097b6e6
-BS-1,mitv://generationnexxxt.com:19806/bb73b7a100954eb0a941586c172b75da
-BS日テレ,mitv://generationnexxxt.com:19806/15653a24109f412d8c13623fe3d8cbce
-BS朝日,mitv://generationnexxxt.com:19806/823835bf82b648b7b949cd6b10b9465f
-BS-TBS,mitv://generationnexxxt.com:19806/3158a94fbe3c43d0938fdbb5c727e3d7
-BS11,mitv://generationnexxxt.com:19806/a4be116db92743e1ac8dc4d6a86ebed1
-BSフジ,mitv://generationnexxxt.com:19806/ecd5225855164918853748cdf29fa61a
-BS12,mitv://generationnexxxt.com:19806/9a0e8e3bc32341738cd921467307e93e
-ゴルフネットワークHD,mitv://generationnexxxt.com:19806/df0994ae49fd4d138304ebcd700a9d1c
-時代劇専門チャンネル,mitv://generationnexxxt.com:19806/aaa4c8da4b0f4146a58012b64a9d1c06
-Music Japan TV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
-キッズステーションHD,mitv://generationnexxxt.com:19806/434d7c2079e341609cba49f816c81cf5
-ディスカバリーチャンネル,mitv://generationnexxxt.com:19806/c198ef50712d485d95ebf9c20935cfdb
-ナショナルジオグラフィック,mitv://generationnexxxt.com:19806/415d6f2939a74d34b80a151a959b1733
-日テレNEWS 24,mitv://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
-旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
+
+
+
+
 
 
 
