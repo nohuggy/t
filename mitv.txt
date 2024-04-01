@@ -90,8 +90,11 @@ CCTV17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 
 
 World News,#genre#
-BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
+BBC World News,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
+BBC World News,P2p://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
 BBC World News,mitv://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
+BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
+
 CNN,mitv://generationnexxxt.com:19806/cc0fd522ff3f4f37a53773c138dacac1
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
