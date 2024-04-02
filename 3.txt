@@ -382,17 +382,7 @@ Star Movies,http://103.131.214.129:9985/stream/channelid/2113951836?ticket=A3C0D
 Star Movies Select,http://103.131.214.129:9985/stream/channelid/452465030?ticket=29AD7FAB645B6F5A4CD9C45FA9F91957FDC066AB&profile=pass
 
 
-Full Porn,#genre#
-
-Jacob Acosta Trevor Brooks,https://r2.aiaigv.com/ts_gv2023/34828/index.m3u8
-Alex Blade & Max Gen,https://r2.aiaigv.com/ts_gv2023/34799/index.m3u8
-Holden Hunt & Marco Napoli,https://r2.aiaigv.com/ts_gv2023/40028/index.m3u8
-Jordan & Chris,https://r2.aiaigv.com/ts_gv2023/41769/index.m3u8
-Marcostone and Thiago Da Silva,https://r2.1tong.buzz/ts_gv2023/42070/index.m3u8
-
-
-
-Adult 1,#genre#
+Stream,#genre#
 
 Gay,http://5.188.182.226:8080/Ferranhug/WaYwqgVj9Z5k/392
 
@@ -403,6 +393,7 @@ Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
 
 Compilation,http://cdn.adultiptv.net/compilation.m3u8
+
 Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 Latino,http://cdn.adultiptv.net/latina.m3u8
 Russian,http://cdn.adultiptv.net/russian.m3u8
@@ -414,7 +405,14 @@ Rough.http://cdn.adultiptv.net/rough.m3u8
 Brunette,http://cdn.adultiptv.net/brunette.m3u8
 Blonde,http://cdn.adultiptv.net/blonde.m3u8
 
-Adult 2,#genre#
+
+Full_000,#genre#
+
+Jacob Acosta Trevor Brooks,https://r2.aiaigv.com/ts_gv2023/34828/index.m3u8
+Alex Blade & Max Gen,https://r2.aiaigv.com/ts_gv2023/34799/index.m3u8
+Holden Hunt & Marco Napoli,https://r2.aiaigv.com/ts_gv2023/40028/index.m3u8
+Jordan & Chris,https://r2.aiaigv.com/ts_gv2023/41769/index.m3u8
+Marcostone and Thiago Da Silva,https://r2.1tong.buzz/ts_gv2023/42070/index.m3u8
 
 Adult 01,http://streamsy.online:2999/coachj88/N93DPKS9pJ/750
 Adult 02,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1035
