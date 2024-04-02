@@ -227,9 +227,6 @@ NHK World,https://epg.pw/stream/ee16272ec01227a617e730dc9e9caffe8e431633ab0f3830
 NHK World,https://epg.pw/stream/ee16272ec01227a617e730dc9e9caffe8e431633ab0f383022d8eb667d2f3c71.m3u8
 NHK World,https://epg.pw/stream/de13e87b8eb00f0cf6d1daaf2faf83e60d17eacc30240fa9a98110a123fa8ead.m3u8
 
-
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
 TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
