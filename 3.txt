@@ -154,8 +154,6 @@ CCTV17,http://gzly.hkychina.com:6001/udp/239.252.220.192:5140
 
 港台新闻,#genre#
 
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 
-
 凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://171.88.35.80:4000/udp/239.93.0.162:2192
 凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
