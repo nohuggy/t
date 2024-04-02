@@ -404,7 +404,7 @@ Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
 
 Compilation,http://cdn.adultiptv.net/compilation.m3u8
-
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 Latino,http://cdn.adultiptv.net/latina.m3u8
 Russian,http://cdn.adultiptv.net/russian.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
