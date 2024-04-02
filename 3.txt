@@ -164,8 +164,12 @@ CCTV17,http://gzly.hkychina.com:6001/udp/239.252.220.192:5140
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 
 
+凤凰中文,http://fzcds.cn:8822/hls/81/index.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰资讯,http://fzcds.cn:8822/hls/80/index.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
-
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 
@@ -176,6 +180,8 @@ ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0
 ABC AU,https://epg.pw/stream/fcb09c33bbbe99b49dae9289f6d14bde869bd40eb470602eb36c25b293686be6.m3u8
 ABC AU,https://epg.pw/stream/bd50c2ea008649ce86116a73e507daf134831c412bdadf73426bf370a457ca37.m3u8
 
+ABC News,http://41.205.93.154/ABC/index.m3u8
+
 
 Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/06.m3u8
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
@@ -184,13 +190,25 @@ Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 Bloomberg,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
 
 Bloomberg,https://a13fc3f7cd9845618e1ac8e07285bc4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+Bloomberg TV,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
+
+
+CBS News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+CBS News,http://cbsnews.akamaized.net/hls/live/2099390/cbsnbal_11/master_1000.m3u8
+
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CNN International,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX News,https://epg.pw/stream/694056fd77b0caa423f375aec7ee243a5313523268126e3cc3ca59bd6247efce.m3u8
 FOX News,https://epg.pw/stream/d82728f35f80b0187bfc382d5c8c4f6ae687a1c6921f4c3776d1fd8f63c2e5f4.m3u8
+
 
 
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
@@ -201,6 +219,7 @@ Global News,https://epg.pw/stream/daf30a3d9bd77b94fc10f1b71872994db13fc8a14238fa
 Global News,https://epg.pw/stream/d840085ce7f26e36a60829e43c24f4a24c4546ea1d4c9a24ece4a462a707065b.m3u8
 
 
+Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
 
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
@@ -247,8 +266,23 @@ TLC旅游生活,http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A59040822
 求索动物,http://39.134.65.208/PLTV/88888888/224/3221225730/index.m3u8
 求索生活,http://39.134.65.208/PLTV/88888888/224/3221225715/index.m3u8
 
+Discovery Channel,http://45.159.74.14:80/DiscoveryChannel/index.m3u8
+Discovery Channel,http://88.216.83.245/discovery/index.m3u8
+
 Animal Planet,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Animal Planet,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+Animal Planet,http://41.205.93.154/ANIMALPLANET/index.m3u8
+
+Animal Planet,https://kusnadipepenk.github.io/ntn/animal.m3u8
+
+Animal Planet,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+
+Animal Planet,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
+
+Animal Planet,http://151.248.16.100:4444/AnimalPlanet/index.m3u8
+
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+History Hit,https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 
 
 Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -276,14 +310,23 @@ TJB,http://1.245.74.5:1935/live/tv/.m3u8
 
 SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
+HBO,http://41.205.93.154/HBO/index.m3u8
+
+AMC Thrillers,https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+Anger Management Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8
+DOVE Channel,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dove-channel/0ff5b3b6-cfe1-40bc-a4ae-51ee522e56d8/1.m3u8
+
+DRONE TV,https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+DRONE TV,https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
+
 
 音乐,#genre#
+NOW 70s,https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+NOW 80s,https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 MTV 00s,http://5.188.182.226:8080/Ferranhug/WaYwqgVj9Z5k/362
-
 MUSIC POP,https://epg.pw/stream/9b89c5fb6e28d7401dc76574acf3bd8cb963b758a3b94e6abc023f3f5de3ca8b.m3u8
 M2,http://live.m2.tv/hls3/stream.m3u8
-
-
 
 格莱美音乐,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 
