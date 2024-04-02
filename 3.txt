@@ -174,8 +174,7 @@ CCTV17,http://gzly.hkychina.com:6001/udp/239.252.220.192:5140
 
 ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-ABC AU,https://epg.pw/stream/fcb09c33bbbe99b49dae9289f6d14bde869bd40eb470602eb36c25b293686be6.m3u8
-ABC AU,https://epg.pw/stream/bd50c2ea008649ce86116a73e507daf134831c412bdadf73426bf370a457ca37.m3u8
+
 
 ABC News,http://41.205.93.154/ABC/index.m3u8
 
@@ -397,8 +396,8 @@ Adult 1,#genre#
 
 Gay,http://5.188.182.226:8080/Ferranhug/WaYwqgVj9Z5k/392
 
-GAY,http://cdn.adultiptv.net/gay.m3u8
-GAY,http://live.redtraffic.xyz/gay.m3u8
+Gay,http://cdn.adultiptv.net/gay.m3u8
+Gay,http://live.redtraffic.xyz/gay.m3u8
 
 Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
