@@ -169,7 +169,6 @@ CCTV17,http://gzly.hkychina.com:6001/udp/239.252.220.192:5140
 凤凰资讯,http://fzcds.cn:8822/hls/80/index.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 
