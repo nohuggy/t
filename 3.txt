@@ -384,7 +384,6 @@ Star Movies Select,http://103.131.214.129:9985/stream/channelid/452465030?ticket
 
 Stream,#genre#
 
-Gay,http://5.188.182.226:8080/Ferranhug/WaYwqgVj9Z5k/392
 
 Gay,http://cdn.adultiptv.net/gay.m3u8
 Gay,http://live.redtraffic.xyz/gay.m3u8
