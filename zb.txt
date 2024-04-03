@@ -28,32 +28,15 @@ DORCEL CLUB,http://cord-cutter.net:8080/YT6bvC/100111/159975
 DREAMROOMhttp://cord-cutter.net:8080/YT6bvC/100111/159976
 ADULT TIME,http://cord-cutter.net:8080/YT6bvC/100111/159954
 GENDER X FILMS,http://cord-cutter.net:8080/YT6bvC/100111/159950
-перец International,http://23.158.200.7/live/491175347448pw/906956704666/83243.m3u8
-пphkhttp://23.158.200.7/live/491175347448pw/906956704666/82166.ts
-Peh Tb International,http://xciptv.aplicativos.top/p2puni777/8zksAAJgKEYq/289734
-Htb Mиp,http://xciptv.aplicativos.top/p2puni777/8zksAAJgKEYq/289741
-звезда плюс,http://xciptv.aplicativos.top/p2puni777/8zksAAJgKEYq/289742
-центральное тв Ru,http://j6ivg8rq.russtv.net/iptv/8T27RV8PPL5EKE/20090/manifest.m3u8
-CHINA XXX,http://elitedns.xyz:8080/DavidBoekhoudt/CL5VtYweLf/549504
-MODEL MEDIA ASIA,http://elitedns.xyz:8080/DavidBoekhoudt/CL5VtYweLf/549518
-SIMPLY ASIAN,http://elitedns.xyz:8080/DavidBoekhoudt/CL5VtYweLf/549527
-WORLD OF ASIAN,http://elitedns.xyz:8080/DavidBoekhoudt/CL5VtYweLf/549530
 P,http://146.59.54.163/356/playlist.m3u8
-BCU Charm ,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/18053/index.m3u8
-BCU Charm ,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/18053/index.m3u8
-BCU Charm 18053/index.m3u8
-BCU Charm ,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18053/index.m3u8
-Adult TV (18+),http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/31707/index.m3u8
 Ню Арт HD (18+),http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/31716/index.m3u8
-HOLED,http://23.158.200.7/live/491175347448pw/906956704666/83244.m3u8
-88http://2e9acc44.kartoshkaka.ru/iptv/4PYL58K99PM8FU/20088/manifest.m3u8
-Charm ,http://ca.ukrainske.tv/7141/DF9D16B4057FD00/video.m3u8
-sex art,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6253/index.m3u8
-sex art,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6253/index.m3u8
-Redlight HDhttp://51.159.102.100/RedlightHD/index.m3u8
-Eroxxxhttp://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-Extasyhttp://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-Desirehttp://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
+
+
+Redlight HD,http://51.159.102.100/RedlightHD/index.m3u8
+Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 BCU Charm,https://am01.spr24.net/20788/mpegts?token=a8AeihBVXNXmwW
 BCU Charm,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/18053/index.m3u8
 Eroxxx HD,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
