@@ -35,19 +35,15 @@ P,http://146.59.54.163/356/playlist.m3u8
 
 Redlight HD,http://51.159.102.100/RedlightHD/index.m3u8
 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+
 Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-BCU Charm,https://am01.spr24.net/20788/mpegts?token=a8AeihBVXNXmwW
-BCU Charm,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/18053/index.m3u8
 Eroxxx HD,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
 Eroxxx HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/5015/index.m3u8
 Eroxxx HD5015/index.m3u8
 Eroxxx HD,http://ca.ukrainske.tv/596/3530225EDBD6B16/video.m3u8
-http://ca.ukrainske.tv/596/DF9D16B4057FD00/video.m3u8
+x,http://ca.ukrainske.tv/596/DF9D16B4057FD00/video.m3u8
 Penthouse Quickies,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-XXL,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26472
 Brazzers TV Europe,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
-U PLAY,http://dns.p2.wtf/maria1305/1305maria/97843
 O-la-ladEnteRNaCt?token=ihwvhvl55bxyc5monync7vjz
 VENUS,http://168.181.122.234:8000/play/a027/index.m3u8
 Venus,http://38.41.8.1:8000/play/a07w
@@ -55,26 +51,19 @@ Babes TV HD,http://rebrov.tvfor.pro/aGiDatERMa/ihwvhvl55bxyc5monync7vjz
 Brazzers TV,https://cdn-main.lolokoko.tv/brazzers.stream/chunks.m3u8
 Dorcel TV,https://cdn-main.lolokoko.tv/DorcelTV.stream/chunks.m3u8
 XXL,https://cdn-main.lolokoko.tv/xxl.stream/chunks.m3u8
-Private TV,https://cdn-main.lolokoko.tv/private.stream/chunks.m3u8
+
 Redlight HD,https://cdn-main.lolokoko.tv/redlight.stream/chunks.m3u8
 SexArt,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6253/index.m3u8
 SexArt,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6253/index.m3u8
 SexArt,http://185.182.193.203:25461/brianlstark/433754/66795
 SexArt,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6253/index.m3u8
-sext 6 senso,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6254/index.m3u8
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6254/index.m3u8
+xi,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6254/index.m3u8
 sext 6 senso,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6254/index.m3u8
-Pornstar Red TV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6243/index.m3u8
-POV Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6244/index.m3u8
-Japan HDV,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6225/index.m3u8
-Japan HDV,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6225/index.m3u8
-Japan HDV,http://czrb8vng.ottclub.xyz/iptv/8NGWK8STP2978X/6225/index.m3u8
-sex private,http://seltz.site:80/live/m4awg3gp/em71tmey/97649.ts
-sexy hot,http://seltz.site:80/live/m4awg3gp/em71tmey/97652.ts
-sextreme,http://seltz.site:80/live/m4awg3gp/em71tmey/97650.ts
-playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-INTERRACIAL +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/82168
-LOIRAS SAFADAS +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/82169
+
+
+
+
+
 MIA KHALIFA +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/76713
 RETRO +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/82171
 SEXO NA PRAIA +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/83248
