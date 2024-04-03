@@ -1,3 +1,5 @@
+
+gt,#genre#
 華視,rtmp://f13h.mine.nu/sat/tv111
 
 中視,rtmp://f13h.mine.nu/sat/tv091
