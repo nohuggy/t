@@ -90,8 +90,9 @@ CCTV17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 
 
 World News,#genre#
-BBC World News,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
 BBC World News,P2p://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
+BBC World News,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
+
 BBC World News,mitv://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
 BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
 
